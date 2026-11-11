@@ -1,12 +1,148 @@
 {
   "documents": [
     {
+      "id": "kanun-4721",
+      "type": "kanun",
+      "number": "4721",
+      "title": "Türk Medeni Kanunu",
+      "short_names": ["TMK"],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4721&MevzuatTur=1&MevzuatTertip=5"
+    },
+    {
+      "id": "kanun-4857",
+      "type": "kanun",
+      "number": "4857",
+      "title": "İş Kanunu",
+      "short_names": [],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4857&MevzuatTur=1&MevzuatTertip=5"
+    },
+    {
+      "id": "kanun-5346",
+      "type": "kanun",
+      "number": "5346",
+      "title": "Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun",
+      "short_names": ["YEK Kanunu"],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5346&MevzuatTur=1&MevzuatTertip=5"
+    },
+    {
+      "id": "kanun-5686",
+      "type": "kanun",
+      "number": "5686",
+      "title": "Jeotermal Kaynaklar ve Doğal Mineralli Sular Kanunu",
+      "short_names": ["Jeotermal Kanunu"],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5686&MevzuatTur=1&MevzuatTertip=5"
+    },
+    {
       "id": "kanun-6098",
       "type": "kanun",
       "number": "6098",
       "title": "Türk Borçlar Kanunu",
       "short_names": ["TBK"],
       "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5"
+    },
+    {
+      "id": "kanun-6102",
+      "type": "kanun",
+      "number": "6102",
+      "title": "Türk Ticaret Kanunu",
+      "short_names": ["TTK"],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5"
+    },
+    {
+      "id": "kanun-6446",
+      "type": "kanun",
+      "number": "6446",
+      "title": "Elektrik Piyasası Kanunu",
+      "short_names": ["EPK"],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6446&MevzuatTur=1&MevzuatTertip=5"
+    },
+    {
+      "id": "kanun-6698",
+      "type": "kanun",
+      "number": "6698",
+      "title": "Kişisel Verilerin Korunması Kanunu",
+      "short_names": ["KVKK"],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5"
+    },
+    {
+      "id": "kanun-6750",
+      "type": "kanun",
+      "number": "6750",
+      "title": "Ticari İşlemlerde Taşınır Rehni Kanunu",
+      "short_names": ["TİTRK"],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6750&MevzuatTur=1&MevzuatTertip=5"
+    },
+    {
+      "id": "karar-8914391",
+      "type": "karar",
+      "number": "89/14391",
+      "title": "Türk Parası Kıymetini Koruma Hakkında 32 Sayılı Karar",
+      "short_names": ["32 Sayılı Karar"],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8914391&MevzuatTur=20&MevzuatTertip=5"
+    },
+    {
+      "id": "yonetmelik-12985",
+      "type": "yonetmelik",
+      "number": "12985",
+      "title": "Elektrik Piyasası Dengeleme ve Uzlaştırma Yönetmeliği",
+      "short_names": ["DUY"],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12985&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "id": "yonetmelik-16800",
+      "type": "yonetmelik",
+      "number": "16800",
+      "title": "Anonim Şirketlerin Genel Kurul Toplantılarının Usul ve Esasları ile Bu Toplantılarda Bulunacak Bakanlık Temsilcileri Hakkında Yönetmelik",
+      "short_names": ["Genel Kurul Yönetmeliği"],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16800&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "id": "yonetmelik-20124093",
+      "type": "yonetmelik",
+      "number": "2012/4093",
+      "title": "Ticaret Sicili Yönetmeliği",
+      "short_names": [],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20124093&MevzuatTur=21&MevzuatTertip=5"
+    },
+    {
+      "id": "yonetmelik-22923",
+      "type": "yonetmelik",
+      "number": "22923",
+      "title": "Yenilenebilir Enerji Kaynak Alanları Yönetmeliği",
+      "short_names": ["YEKA Yönetmeliği"],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22923&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "id": "yonetmelik-24112",
+      "type": "yonetmelik",
+      "number": "24112",
+      "title": "Elektrik Piyasası Yan Hizmetler Yönetmeliği",
+      "short_names": [],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=24112&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "id": "yonetmelik-38588",
+      "type": "yonetmelik",
+      "number": "38588",
+      "title": "Elektrik Piyasasında Depolama Faaliyetleri Yönetmeliği",
+      "short_names": ["Depolama Yönetmeliği"],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38588&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "id": "yonetmelik-40997",
+      "type": "yonetmelik",
+      "number": "40997",
+      "title": "Orman Kanununun 16 ncı Maddesinin Uygulanması Hakkında Yönetmelik",
+      "short_names": [],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40997&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "id": "yonetmelik-46220",
+      "type": "yonetmelik",
+      "number": "46220",
+      "title": "Rüzgâr ve Güneş Enerjisine Dayalı Elektrik Üretim Tesislerinin İmar ve Ruhsat İşlemlerine İlişkin Yönetmelik",
+      "short_names": [],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=46220&MevzuatTur=7&MevzuatTertip=5"
     }
   ]
 }
