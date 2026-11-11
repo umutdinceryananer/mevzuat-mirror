@@ -41,6 +41,9 @@ converter/mevzuat_converter/patterns.py
 converter/mevzuat_converter/splitter.py
     Splits a list of paragraphs into preamble, articles and trailer. Decides which lines are article headings and keeps the section path of each article.
 
+converter/mevzuat_converter/document.py
+    Builds the data/<id>.json object, reads Kabul Tarihi and Resmi Gazete from the header, takes downloaded_at from git, and writes the file.
+
 converter/tests/
     Tests. test_repository_catalog_is_valid also checks the real catalog.json, so a broken catalog fails the tests.
 
