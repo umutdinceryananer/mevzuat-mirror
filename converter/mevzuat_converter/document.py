@@ -16,15 +16,27 @@ from .normalize import normalize
 from .patterns import dates_in, find_notes
 from .splitter import SplitResult
 
-# Header lines of a law look like "Kabul Tarihi : 11/1/2011".
-_ACCEPTED_AT = re.compile(r"Kabul\s+Tarihi\s*:?\s*(\d{1,2}[/.]\d{1,2}[/.]\d{4})")
+# The header gives the acceptance date in two ways.
+#   law        Kabul Tarihi : 11/1/2011
+#   decision   Bakanlar Kurulu Kararının Tarihi : 19/12/2012
+_ACCEPTED_AT = re.compile(
+    r"(?:Kabul\s+Tarihi|Kararının\s+Tarihi)\s*:?\s*(\d{1,2}[/.]\d{1,2}[/.]\d{4})"
+)
 
-# Header lines name the Resmi Gazete in two ways.
-#   law         Yayımlandığı R.Gazete : Tarih : 4/2/2011 Sayı : 27836
+# The header names the Resmi Gazete in several ways.
+#   law         Yayımlandığı Resmî Gazete : Tarih : 4/2/2011 Sayı : 27836
+#   decision    Yayımlandığı R.Gazetenin Tarihi : 27/1/2013 No : 28541
 #   regulation  Resmî Gazete Tarihi: 25.07.2012 Resmî Gazete Sayısı: 28364
 _OFFICIAL_GAZETTE = re.compile(
     r"(?:R\.\s*Gazete|Resm[iî]\s+Gazete)\D*?(\d{1,2}[/.]\d{1,2}[/.]\d{4})"
-    r"\D*?Say[ıi](?:s[ıi])?\s*:?\s*(\d+)"
+    r"\D*?(?:Say[ıi](?:s[ıi])?|No)\s*:?\s*(\d+)"
+)
+
+# Regulations from mevzuat.gov.tr have no header. The table at their end
+# starts with the original publication, as in "Yönetmeliğin Yayımlandığı
+# Resmî Gazete’nin Tarihi Sayısı 9/5/2021 31479".
+_GAZETTE_TABLE_ROW = re.compile(
+    r"Yayımlandığı\s+Resm[iî]\s+Gazete\S*\s+Tarihi\s+Sayısı\s+(\d{1,2}[/.]\d{1,2}[/.]\d{4})\s+(\d+)"
 )
 
 
@@ -40,9 +52,12 @@ def build_document(entry: Document, split: SplitResult, raw_file: Path, root: Pa
     if not split.articles:
         warnings.append("no articles found")
 
-    if split.preamble and normalize(split.preamble[0]) != normalize(entry.title):
+    # Long titles often take two lines, so the first few header lines are
+    # searched together.
+    header_start = normalize(" ".join(split.preamble[:4]))
+    if split.preamble and normalize(entry.title) not in header_start:
         warnings.append(
-            f"title in catalog.json ({entry.title!r}) differs from the first header line ({split.preamble[0]!r})"
+            f"title in catalog.json ({entry.title!r}) is not in the first header lines ({split.preamble[0]!r})"
         )
 
     articles = []
@@ -74,10 +89,9 @@ def build_document(entry: Document, split: SplitResult, raw_file: Path, root: Pa
         "short_names": entry.short_names,
         "source_url": entry.source_url,
         "accepted_at": _find_accepted_at(header),
-        "official_gazette": _find_official_gazette(header),
+        "official_gazette": _find_official_gazette(header, split.trailer),
         "downloaded_at": downloaded_at(raw_file, root),
-        # ISO dates sort correctly as plain text, so max() gives the newest.
-        "latest_amendment_seen": max(note_dates) if note_dates else None,
+        "latest_amendment_seen": _latest_date(note_dates, split),
         "converter_version": VERSION,
         "articles": articles,
     }
@@ -119,11 +133,27 @@ def _find_accepted_at(header: str) -> str | None:
     return found[0] if found else None
 
 
-def _find_official_gazette(header: str) -> dict | None:
-    match = _OFFICIAL_GAZETTE.search(header)
+def _find_official_gazette(header: str, trailer: list[str]) -> dict | None:
+    """Read the Resmi Gazete date and issue from the header, or else from
+    the table at the end of a regulation."""
+    match = _OFFICIAL_GAZETTE.search(header) or _GAZETTE_TABLE_ROW.search(" ".join(trailer))
     if match is None:
         return None
     found = dates_in(match.group(1))
     if not found:
         return None
     return {"date": found[0], "number": match.group(2)}
+
+
+def _latest_date(note_dates: list[str], split: SplitResult) -> str | None:
+    """Return the newest date of the amendment notes, the footnotes and the
+    closing parts, such as the list of amending legislation.
+
+    Some of these are entry into force dates, so the result can be later
+    than the download date. ISO dates sort correctly as plain text, so max()
+    gives the newest.
+    """
+    dates = list(note_dates)
+    for paragraph in split.footnotes + split.trailer:
+        dates.extend(dates_in(paragraph))
+    return max(dates) if dates else None

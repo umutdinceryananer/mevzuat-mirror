@@ -44,10 +44,10 @@ data/<id>.json holds one object.
 | field                 | type           | meaning |
 |-----------------------|----------------|---------|
 | id, type, number, title, short_names, source_url | | Copied from catalog.json. |
-| accepted_at           | string or null | Kabul tarihi as an ISO date, read from the document header. |
-| official_gazette      | object or null | Resmi Gazete date (ISO) and issue number, read from the document header. |
+| accepted_at           | string or null | Kabul tarihi, or the date of the Bakanlar Kurulu decision, as an ISO date, read from the document header. |
+| official_gazette      | object or null | Resmi Gazete date (ISO) and issue number, read from the document header. Regulations have no header, so for them it comes from the first row of the Resmi Gazete table at the end. |
 | downloaded_at         | string         | ISO date. When raw/<id>.<ext> last changed in git. This is the upload date, which is normally the download date. |
-| latest_amendment_seen | string or null | ISO date. The newest date found in amendment notes. |
+| latest_amendment_seen | string or null | ISO date. The newest date found in the amendment notes, the footnotes and the closing parts of the text. Some of these are entry into force dates, so it can be later than downloaded_at. |
 | converter_version     | string         | Version of the converter that wrote the file. |
 | articles              | Article[]      | In document order. See ARTICLE. |
 
