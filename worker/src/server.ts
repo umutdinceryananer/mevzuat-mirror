@@ -9,6 +9,7 @@ import type { Env } from "./env";
 import { registerGetArticles } from "./tools/get-articles";
 import { registerGetOutline } from "./tools/get-outline";
 import { registerListDocuments } from "./tools/list-documents";
+import { registerSearch } from "./tools/search";
 
 // Sent to Claude when it connects. It explains what the data is and how
 // old it can be, so answers name their source and date.
@@ -35,6 +36,7 @@ export function createServer(env: Env): McpServer {
   registerListDocuments(server, env);
   registerGetOutline(server, env);
   registerGetArticles(server, env);
+  registerSearch(server, env);
 
   return server;
 }
