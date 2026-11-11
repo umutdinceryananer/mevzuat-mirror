@@ -6,6 +6,8 @@
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { CfWorkerJsonSchemaValidator } from "@modelcontextprotocol/sdk/validation/cfworker";
 import type { Env } from "./env";
+import { registerGetArticles } from "./tools/get-articles";
+import { registerListDocuments } from "./tools/list-documents";
 
 // Sent to Claude when it connects. It explains what the data is and how
 // old it can be, so answers name their source and date.
@@ -29,8 +31,8 @@ export function createServer(env: Env): McpServer {
     },
   );
 
-  // The tools are registered in later commits.
-  void env;
+  registerListDocuments(server, env);
+  registerGetArticles(server, env);
 
   return server;
 }

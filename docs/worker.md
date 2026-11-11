@@ -55,6 +55,21 @@ worker/src/server.ts
 worker/src/env.ts
     Types of the bindings and secrets.
 
+worker/src/tools/
+    One file per MCP tool.
+
+worker/src/documents.ts
+    Reads documents and finds the one a tool call names, by short name, number, id or title.
+
+worker/src/articles.ts
+    Reads article references such as 344, 347-352, geçici 1, ek 2 or 4/A, and fetches the articles.
+
+worker/src/normalize.ts
+    Same steps as normalize.py in the converter, see NORMALIZATION in data-format.md.
+
+worker/src/result.ts
+    Wraps text into MCP tool results.
+
 ## SEE ALSO
 
 architecture.md, data-format.md, converter.md
