@@ -126,7 +126,10 @@ The converter must recognize these forms. The list grows as samples arrive. The 
     BAŞLANGIÇ                             opening part of TMK and TTK, a section with no number and no title
     (Değişik: 24/11/2016-6763/14 md.)     amendment note in a law
     (Ek:RG-15/5/2019-30775-CK-36/1 md.)   amendment note citing Resmi Gazete
+    (Başlığıyla birlikte değişik:RG-...)  note about an article and its heading
     (Mülga: ...)                          repealed text
+
+A footnote number glued to the end of a note, as in "(Değişik:RG-28/3/2015-29309)15 Bu", is removed.
 
 ## END OF ARTICLES
 

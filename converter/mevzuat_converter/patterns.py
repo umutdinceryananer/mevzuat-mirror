@@ -53,9 +53,12 @@ _KIND_BY_PREFIX = {
     "mukerrer": "mukerrer_madde",
 }
 
-# A whole article is repealed when its text starts with "(Mülga:".
-# "(Mülga birinci fıkra: ...)" only repeals a part, so it does not count.
-_WHOLE_ARTICLE_REPEALED = re.compile(r"^\(\s*(?:Mülga|MÜLGA)\s*:")
+# A whole article is repealed when its text starts with "(Mülga:" or
+# "(Başlığıyla birlikte mülga:". "(Mülga birinci fıkra: ...)" only repeals a
+# part, so it does not count.
+_WHOLE_ARTICLE_REPEALED = re.compile(
+    r"^\(\s*(?:Başlığı(?:yla| ile) [Bb]irlikte\s+)?(?:Mülga|MÜLGA|mülga)\s*:"
+)
 
 
 @dataclass
@@ -152,11 +155,16 @@ def match_section_heading(paragraph: str) -> SectionHeading | None:
 
 # A note is a bracket that starts with one of these words and has a colon,
 # for example "(Değişik: 24/11/2016-6763/14 md.)" or
-# "(Mülga ikinci fıkra: 2/7/2012-6352/101 md.)". The \b after the word stops
-# "(Ekonomik ...)" from matching as "(Ek ...)".
-_NOTE = re.compile(
-    r"\((?:Değişik|DEĞİŞİK|Ek|EK|Mülga|MÜLGA|İptal|İPTAL|Yeniden düzenleme)\b[^():]*:[^()]*\)"
-)
+# "(Mülga ikinci fıkra: 2/7/2012-6352/101 md.)". A note about a whole article
+# can start with "Başlığıyla birlikte" or "Başlığı ile birlikte". The \b after
+# the word stops "(Ekonomik ...)" from matching as "(Ek ...)".
+_NOTE_WORDS = r"(?:Değişik|DEĞİŞİK|Ek|EK|Mülga|MÜLGA|İptal|İPTAL|Yeniden düzenleme)"
+_WITH_HEADING = r"Başlığı(?:yla| ile) [Bb]irlikte (?:değişik|mülga|ek|Değişik|Mülga|Ek)"
+_NOTE = re.compile(rf"\((?:{_WITH_HEADING}|{_NOTE_WORDS})\b[^():]*:[^()]*\)")
+
+# Word files glue footnote numbers to the end of a note, as in
+# "(Değişik:RG-28/3/2015-29309)15 Bu Yönetmelik". The number is removed.
+_NOTE_WITH_NUMBER = re.compile(rf"({_NOTE.pattern})\d{{1,3}}(?=\s|$)")
 
 # Dates are written day/month/year or day.month.year.
 _DATE = re.compile(r"\b(\d{1,2})[/.](\d{1,2})[/.](\d{4})\b")
@@ -165,6 +173,11 @@ _DATE = re.compile(r"\b(\d{1,2})[/.](\d{1,2})[/.](\d{4})\b")
 def find_notes(text: str) -> list[str]:
     """Return the amendment notes in a text, as printed."""
     return _NOTE.findall(text)
+
+
+def strip_footnote_numbers(text: str) -> str:
+    """Remove footnote numbers glued to the end of amendment notes."""
+    return _NOTE_WITH_NUMBER.sub(r"\1", text)
 
 
 def dates_in(text: str) -> list[str]:

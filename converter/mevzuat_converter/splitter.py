@@ -19,7 +19,13 @@ import re
 from dataclasses import dataclass, field
 
 from .normalize import normalize
-from .patterns import find_notes, is_repealed, match_article_label, match_section_heading
+from .patterns import (
+    find_notes,
+    is_repealed,
+    match_article_label,
+    match_section_heading,
+    strip_footnote_numbers,
+)
 
 # Heading lines printed between two articles. At most this many are moved
 # from the end of one article to the heading of the next.
@@ -150,7 +156,7 @@ def split_articles(paragraphs: list[str]) -> SplitResult:
     in_trailer = False
 
     for position, raw in enumerate(paragraphs):
-        paragraph = _clean(raw)
+        paragraph = strip_footnote_numbers(_clean(raw))
         if not paragraph or position in page_numbers or _WEB_LINK_TEXT.match(normalize(paragraph)):
             continue
 
