@@ -1,0 +1,92 @@
+# Converts raw files, commits the changed data/ files, rebuilds the D1
+# database and deploys the worker. See docs/deploy.md.
+name: build and deploy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "raw/**"
+      - "catalog.json"
+      - "converter/**"
+      - "worker/**"
+      - ".github/workflows/deploy.yml"
+  workflow_dispatch:
+
+# Needed to push the converted data/ files back to the repository.
+permissions:
+  contents: write
+
+# Two uploads close together run one after the other, never at the same time.
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      WRANGLER_SEND_METRICS: "false"
+
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          # downloaded_at comes from the git history of raw/, so the whole history is needed.
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Check catalog.json
+        working-directory: converter
+        run: python -m mevzuat_converter check
+
+      - name: Convert raw files
+        working-directory: converter
+        run: python -m mevzuat_converter convert
+
+      - name: Commit changed data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # data/ does not exist until the first document is converted.
+          if [ -d data ]; then git add data; fi
+          if git diff --cached --quiet; then
+            echo "data/ did not change"
+          else
+            git commit -m "Update data/ from raw files"
+            git push
+          fi
+
+      - name: Build the D1 import file
+        working-directory: converter
+        run: python -m mevzuat_converter export-sql
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: worker/package-lock.json
+
+      - name: Install worker dependencies
+        working-directory: worker
+        run: npm ci
+
+      - name: Typecheck the worker
+        working-directory: worker
+        run: npm run typecheck
+
+      # The two steps below need the Cloudflare secrets. Without them the
+      # workflow still checks and converts, and stops here.
+      - name: Import into D1
+        if: env.CLOUDFLARE_API_TOKEN != ''
+        working-directory: worker
+        run: npx wrangler d1 execute mevzuat --remote --file=../build/d1.sql --yes
+
+      - name: Deploy the worker
+        if: env.CLOUDFLARE_API_TOKEN != ''
+        working-directory: worker
+        run: npx wrangler deploy
