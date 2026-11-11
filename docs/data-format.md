@@ -123,6 +123,7 @@ The converter must recognize these forms. The list grows as samples arrive. The 
     EK MADDE 2 –                          additional article
     EK GEÇİCİ MADDE 1 –                   additional provisional article
     Mükerrer Madde 257 –                  duplicate-numbered article in older laws
+    BAŞLANGIÇ                             opening part of TMK and TTK, a section with no number and no title
     (Değişik: 24/11/2016-6763/14 md.)     amendment note in a law
     (Ek:RG-15/5/2019-30775-CK-36/1 md.)   amendment note citing Resmi Gazete
     (Mülga: ...)                          repealed text

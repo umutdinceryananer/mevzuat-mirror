@@ -116,7 +116,7 @@ _MAX_HEADING_LENGTH = 200
 class SectionHeading:
     """A heading such as "İKİNCİ KISIM" or "BİRİNCİ BÖLÜM Genel Hükümler"."""
 
-    level: str          # kitap, kisim, bap, bolum, fasil or ayirim
+    level: str          # kitap, kisim, bap, bolum, fasil, ayirim or baslangic
     label: str          # as printed, for example "İKİNCİ KISIM"
     title: str | None   # text after the label on the same line, if any
 
@@ -125,6 +125,11 @@ def match_section_heading(paragraph: str) -> SectionHeading | None:
     """Return the section heading in a paragraph, or None."""
     if len(paragraph) > _MAX_HEADING_LENGTH:
         return None
+
+    # TTK and TMK open with a part called BAŞLANGIÇ, which has no number
+    # and no title line.
+    if normalize(paragraph) == "baslangic":
+        return SectionHeading(level="baslangic", label=paragraph, title=None)
 
     match = _SECTION_HEADING.match(normalize(paragraph))
     if match is None:

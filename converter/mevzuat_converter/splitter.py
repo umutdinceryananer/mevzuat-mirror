@@ -178,17 +178,22 @@ def split_articles(paragraphs: list[str]) -> SplitResult:
             current = None
             pending_headings = []
             path = _enter_section(path, section.level, section.label, section.title)
-            waiting_for_title = section.title is None
+            # BAŞLANGIÇ has no title line. Other headings may have one next.
+            waiting_for_title = section.title is None and section.level != "baslangic"
             continue
 
         label = match_article_label(paragraph)
         if label is not None:
-            started = True
-            waiting_for_title = False
-            if current is None:
+            if current is not None:
+                heading_lines = _take_trailing_headings(current)
+            elif started:
                 heading_lines = pending_headings
             else:
-                heading_lines = _take_trailing_headings(current)
+                # The first article of a text without sections. Its heading
+                # is at the end of the preamble, after the header lines.
+                heading_lines = _take_preamble_headings(preamble)
+            started = True
+            waiting_for_title = False
             pending_headings = []
 
             current = Article(
@@ -293,11 +298,29 @@ def _enter_section(path: list[tuple[str, str]], level: str, label: str, title: s
     inside it, so "İKİNCİ BÖLÜM" replaces "BİRİNCİ BÖLÜM" and drops its
     AYIRIM. A level that is not in the path yet opens inside the current one.
     """
+    # BAŞLANGIÇ holds only the opening articles. Any other section ends it.
+    path = [item for item in path if item[0] != "baslangic"]
     levels = [item_level for item_level, _text in path]
     if level in levels:
         path = path[: levels.index(level)]
     text = label if title is None else f"{label} {title}"
     return path + [(level, text)]
+
+
+def _take_preamble_headings(preamble: list[str]) -> list[str]:
+    """Remove the heading of the first article from the end of the preamble.
+
+    Header lines such as "Kabul Tarihi : 11/1/2011" have a colon, and the
+    title of the law is in capitals, so neither is taken.
+    """
+    taken: list[str] = []
+    while preamble and len(taken) < _MAX_HEADING_LINES:
+        last = preamble[-1]
+        if not looks_like_heading(last) or ":" in last or _written_in_capitals(last):
+            break
+        taken.append(preamble.pop())
+    taken.reverse()
+    return taken
 
 
 def _take_trailing_headings(article: Article) -> list[str]:
