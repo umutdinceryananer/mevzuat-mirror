@@ -25,7 +25,7 @@ export-sql
 ## RAW FILE FORMATS
 
 .doc, .docx, .html
-    Converted to text by LibreOffice, one paragraph per line. Footnote texts are left out, the amendment notes in the text carry the same information.
+    Converted to text by LibreOffice, one paragraph per line. Footnote texts are left out, the amendment notes in the text carry the same information. Some files hold cross references whose target is gone, and LibreOffice prints "Error: Reference source not found" in their place. That text is removed, together with a footnote number glued to it.
 
 .pdf
     Converted by pdftotext with -layout. Paragraphs are rebuilt from the indentation, because the first line of a paragraph is indented and the lines that continue it are not. The footnote block at the bottom of each page is dropped.

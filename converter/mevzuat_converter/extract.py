@@ -26,6 +26,16 @@ _UTF16_MARKS = (b"\xff\xfe", b"\xfe\xff")
 # The longest one conversion may take, in seconds.
 _TIMEOUT = 600
 
+# Some mevzuat.gov.tr Word files hold cross references whose target is gone.
+# LibreOffice prints its own error text in their place, sometimes followed by
+# a footnote number, as in "II. BelirlenmesiError: Reference source not
+# found34" for the heading of TBK 344. The reference only marked a footnote,
+# so the error text and the number are removed. The Turkish wording appears
+# when LibreOffice runs in Turkish.
+_BROKEN_REFERENCE = re.compile(
+    r"(?:Error: Reference source not found|Hata[:!] Başvuru kaynağı bulunamadı\.?)\d{0,3}"
+)
+
 # A line that is only a small number starts the footnotes at the bottom of
 # a PDF page, when the line after it talks about an amendment.
 _FOOTNOTE_NUMBER = re.compile(r"^\s*\d{1,3}\s*$")
@@ -87,7 +97,7 @@ def _read_with_libreoffice(path: Path) -> list[str]:
             source = work / f"{path.stem}.html"
             source.write_text(_decode_utf16_html(raw, path.name), encoding="utf-8")
         text = _libreoffice_to_text(source, work)
-    return text.splitlines()
+    return _BROKEN_REFERENCE.sub("", text).splitlines()
 
 
 def _decode_utf16_html(raw: bytes, name: str) -> str:
