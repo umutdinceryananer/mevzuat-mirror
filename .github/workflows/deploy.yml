@@ -40,6 +40,13 @@ jobs:
         with:
           python-version: "3.13"
 
+      # The converter reads Word and HTML files with LibreOffice and PDF files with pdftotext.
+      - name: Install LibreOffice and pdftotext
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libreoffice-writer-nogui poppler-utils \
+            || sudo apt-get install -y --no-install-recommends libreoffice-writer poppler-utils
+
       - name: Check catalog.json
         working-directory: converter
         run: python -m mevzuat_converter check

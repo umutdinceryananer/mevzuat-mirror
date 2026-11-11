@@ -8,15 +8,16 @@ deploy, how a change reaches the live server
 
 .github/workflows/deploy.yml runs on every push to main that changes raw/, catalog.json, converter/ or worker/. It can also be started by hand from the Actions tab.
 
-1. Checks catalog.json.
-2. Converts every raw file into data/<id>.json.
-3. Commits the changed data/ files back to main as github-actions[bot]. Commits made by the workflow do not start it again.
-4. Builds build/d1.sql.
-5. Installs the worker and runs the typecheck.
-6. Rebuilds the D1 database from build/d1.sql. During the import the database is unavailable for a few seconds.
-7. Deploys the worker.
+1. Installs LibreOffice and pdftotext, which the converter uses to read Word, HTML and PDF files.
+2. Checks catalog.json.
+3. Converts every raw file into data/<id>.json.
+4. Commits the changed data/ files back to main as github-actions[bot]. Commits made by the workflow do not start it again.
+5. Builds build/d1.sql.
+6. Installs the worker and runs the typecheck.
+7. Rebuilds the D1 database from build/d1.sql. During the import the database is unavailable for a few seconds.
+8. Deploys the worker.
 
-Steps 6 and 7 run only when the Cloudflare secrets exist. Without them the workflow stops after the typecheck and stays green.
+Steps 7 and 8 run only when the Cloudflare secrets exist. Without them the workflow stops after the typecheck and stays green.
 
 ## SECRETS
 
