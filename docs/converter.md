@@ -35,6 +35,9 @@ converter/mevzuat_converter/catalog.py
 converter/mevzuat_converter/normalize.py
     Search normalization, see NORMALIZATION in data-format.md.
 
+converter/mevzuat_converter/patterns.py
+    Recognizes article labels, section headings and amendment notes, see KNOWN TEXT PATTERNS in data-format.md.
+
 converter/tests/
     Tests. test_repository_catalog_is_valid also checks the real catalog.json, so a broken catalog fails the tests.
 
