@@ -25,14 +25,18 @@ from .normalize import normalize
 # "EK GEÇİCİ" is tried before "EK".
 _PREFIX = r"EK\s+GEÇİCİ|Ek\s+Geçici|Ek\s+geçici|GEÇİCİ|Geçici|EK|Ek|MÜKERRER|Mükerrer"
 
-# MADDE, then the number (344, or 4/A for an inserted article), then a
-# hyphen, an en dash or an em dash, then the start of the article text.
-# The dashes are written as – and — so the file stays plain ASCII there.
+# The dash after the number is a hyphen, an en dash or an em dash. The two
+# long dashes are made with chr(), so the source file holds only the plain
+# hyphen and the patterns stay easy to read in any editor.
+_DASHES = "-" + chr(0x2013) + chr(0x2014)
+
+# MADDE, then the number (344, or 4/A for an inserted article), then one of
+# the dashes, then the start of the article text.
 _ARTICLE_LABEL = re.compile(
     rf"^(?:(?P<prefix>{_PREFIX})\s+)?"
     r"(?:MADDE|Madde)\s+"
     r"(?P<number>\d+(?:\s*/\s*[A-Za-zÇĞİÖŞÜçğıöşü])?)"
-    r"\s*[-–—]\s*"
+    rf"\s*[{_DASHES}]\s*"
     r"(?P<rest>.*)$",
     re.DOTALL,
 )
