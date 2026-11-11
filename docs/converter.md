@@ -9,6 +9,7 @@ converter, turns files in raw/ into data/<id>.json
     cd converter
     python -m mevzuat_converter check
     python -m mevzuat_converter convert [--only <id>]
+    python -m mevzuat_converter export-sql [--output <file>]
 
 ## DESCRIPTION
 
@@ -17,6 +18,9 @@ check
 
 convert
     For every document in catalog.json that has exactly one raw file, reads the file into paragraphs, splits it into articles, and writes data/<id>.json. --only <id> converts one document. When no articles are found, the document is reported and its old data file stays as it was. Exits with status 1 when any document fails.
+
+export-sql
+    Writes build/d1.sql, which drops every table, recreates them from worker/schema.sql, and inserts all of data/. The search index gets the normalized form of each heading and text. build/ is not committed.
 
 Only .txt raw files can be read so far, text copied from the mevzuat.gov.tr page with one paragraph per line. The PDF, Word and HTML readers come after the sample files are checked.
 
@@ -50,6 +54,9 @@ converter/mevzuat_converter/document.py
 
 converter/mevzuat_converter/extract.py
     Reads a raw file into paragraphs. Only .txt for now.
+
+converter/mevzuat_converter/export_sql.py
+    Builds the SQL file for D1 from data/*.json.
 
 converter/tests/
     Tests. test_repository_catalog_is_valid also checks the real catalog.json, so a broken catalog fails the tests.

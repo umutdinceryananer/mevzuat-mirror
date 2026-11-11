@@ -4,6 +4,7 @@ Run it from the converter/ directory.
 
     python -m mevzuat_converter check
     python -m mevzuat_converter convert
+    python -m mevzuat_converter export-sql
 """
 
 import argparse
@@ -13,6 +14,7 @@ from pathlib import Path
 from . import VERSION
 from .catalog import CatalogError, find_raw_files, load_catalog
 from .document import build_document, write_document
+from .export_sql import build_sql
 from .extract import UnsupportedFormat, read_paragraphs
 from .splitter import split_articles
 
@@ -98,6 +100,16 @@ def convert(root: Path, only: str | None) -> int:
     return 1 if failed else 0
 
 
+def export_sql(root: Path, output: Path | None) -> int:
+    """Write the SQL file that rebuilds the D1 database from data/."""
+    output = output or root / "build" / "d1.sql"
+    sql, document_count, article_count = build_sql(root / "data", root / "worker" / "schema.sql")
+    output.parent.mkdir(parents=True, exist_ok=True)
+    output.write_text(sql, encoding="utf-8")
+    print(f"{document_count} document(s), {article_count} article(s) written to {output}")
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(
         prog="mevzuat_converter",
@@ -114,12 +126,16 @@ def main() -> int:
     commands.add_parser("check", help="check catalog.json and list raw files")
     convert_parser = commands.add_parser("convert", help="write data/<id>.json for documents with a raw file")
     convert_parser.add_argument("--only", metavar="ID", help="convert only this document, such as kanun-6098")
+    export_parser = commands.add_parser("export-sql", help="write the SQL that rebuilds the D1 database")
+    export_parser.add_argument("--output", type=Path, help="defaults to build/d1.sql in the repository")
 
     args = parser.parse_args()
     if args.command == "check":
         return check(args.root)
     if args.command == "convert":
         return convert(args.root, args.only)
+    if args.command == "export-sql":
+        return export_sql(args.root, args.output)
     return 2
 
 
