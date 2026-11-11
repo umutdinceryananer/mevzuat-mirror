@@ -18,8 +18,8 @@
     {
       "binding": "DB",
       "database_name": "mevzuat",
-      // Replace with the id that `npx wrangler d1 create mevzuat` prints.
-      "database_id": "00000000-0000-0000-0000-000000000000"
+      // Written by npm run setup on 11 November 2026, see docs/worker.md.
+      "database_id": "30debdc2-e9e6-41c4-bac1-f55c4e6d7271"
     }
   ]
 }
