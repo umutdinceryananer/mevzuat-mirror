@@ -8,6 +8,7 @@ worker, the Cloudflare Worker that serves the MCP endpoint
 
     cd worker
     npm install
+    npm run setup        one-time Cloudflare setup, see SETUP
     npm run dev          local server at http://localhost:8787
     npm run typecheck
     npm run deploy
@@ -20,14 +21,25 @@ The endpoint is /<MCP_PATH_SECRET>/mcp. Every other path returns 404. When MCP_P
 
 ## SETUP
 
-One time, from worker/.
+One time, on a computer with Node.js, Python 3 and openssl. LibreOffice is not needed, because data/ is already converted.
 
-1. Run npx wrangler login.
-2. Run npx wrangler d1 create mevzuat and copy the printed database_id into wrangler.jsonc.
-3. Pick a long random secret, for example the output of openssl rand -hex 24, and store it with npx wrangler secret put MCP_PATH_SECRET.
-4. Fill the database. From converter/, run python -m mevzuat_converter convert and python -m mevzuat_converter export-sql. Then from worker/, run npm run db:remote.
-5. Run npm run deploy. Cloudflare creates the DNS record for mevzuat.yananer.dev.
-6. In Claude, add a custom connector with the URL https://mevzuat.yananer.dev/<secret>/mcp.
+    git clone https://github.com/umutdinceryananer/mevzuat-mirror
+    cd mevzuat-mirror/worker
+    npm install
+    npx wrangler login
+    npm run setup
+
+npx wrangler login opens the browser to approve access to the Cloudflare account that holds yananer.dev. npm run setup runs scripts/setup.sh, which takes five steps.
+
+1. Checks the login.
+2. Finds the D1 database called mevzuat, or creates it in Eastern Europe, and writes its id into wrangler.jsonc.
+3. Builds build/d1.sql from data/ and imports it into the database.
+4. Deploys the worker. The first deploy also creates the DNS record and certificate for mevzuat.yananer.dev, which can take a few minutes to answer.
+5. Sets MCP_PATH_SECRET to a random value and prints the address to add in Claude as a custom connector.
+
+Commit and push the database_id change in wrangler.jsonc, so the workflow uses the same database. The address works like a password, so share it only with the person who uses the connector.
+
+Running the script again is safe. It keeps the secret and the address. npm run setup -- --rotate sets a new secret, prints a new address and stops the old one.
 
 ## LOCAL RUN
 
@@ -42,6 +54,9 @@ The endpoint is then http://localhost:8787/local/mcp.
 
 worker/wrangler.jsonc
     Cloudflare settings. Logs are off, the workers.dev address is off, and the custom domain is mevzuat.yananer.dev.
+
+worker/scripts/setup.sh
+    The one-time setup behind npm run setup.
 
 worker/schema.sql
     The D1 tables. The export-sql command of the converter runs it on every import.
