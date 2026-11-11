@@ -59,9 +59,9 @@ data/<id>.json holds one object.
 | kind     | string         | madde, ek_madde, gecici_madde, ek_gecici_madde or mukerrer_madde. |
 | number   | string         | As printed, for example 344, 4/A or 1. |
 | label    | string         | As printed, for example MADDE 344 or GEÇİCİ MADDE 1. |
-| heading  | string or null | Madde başlığı, the heading line above the article. |
+| heading  | string or null | Madde başlığı, the heading line above the article. Several heading lines are joined with " / ". |
 | path     | string[]       | Section headings above the article, outermost first. |
-| repealed | boolean        | True when the article is marked Mülga. |
+| repealed | boolean        | True when the article text starts with "(Mülga:". A partial repeal such as "(Mülga birinci fıkra: ...)" does not count. |
 | text     | string         | Full article text. Paragraphs are separated by one blank line. Amendment notes stay inline, as printed. |
 | notes    | string[]       | Amendment notes found in the text, as printed. |
 
