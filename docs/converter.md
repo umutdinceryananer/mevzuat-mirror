@@ -8,13 +8,17 @@ converter, turns files in raw/ into data/<id>.json
 
     cd converter
     python -m mevzuat_converter check
+    python -m mevzuat_converter convert [--only <id>]
 
 ## DESCRIPTION
 
 check
     Reads catalog.json, checks every entry against the rules in data-format.md, and lists the raw files found for each document. Exits with status 1 when catalog.json has an error, so it can run as a step in the GitHub Action.
 
-More commands arrive with later commits. The plan is to read the raw file, split it into articles, and write data/<id>.json.
+convert
+    For every document in catalog.json that has exactly one raw file, reads the file into paragraphs, splits it into articles, and writes data/<id>.json. --only <id> converts one document. When no articles are found, the document is reported and its old data file stays as it was. Exits with status 1 when any document fails.
+
+Only .txt raw files can be read so far, text copied from the mevzuat.gov.tr page with one paragraph per line. The PDF, Word and HTML readers come after the sample files are checked.
 
 ## SETUP
 
@@ -43,6 +47,9 @@ converter/mevzuat_converter/splitter.py
 
 converter/mevzuat_converter/document.py
     Builds the data/<id>.json object, reads Kabul Tarihi and Resmi Gazete from the header, takes downloaded_at from git, and writes the file.
+
+converter/mevzuat_converter/extract.py
+    Reads a raw file into paragraphs. Only .txt for now.
 
 converter/tests/
     Tests. test_repository_catalog_is_valid also checks the real catalog.json, so a broken catalog fails the tests.

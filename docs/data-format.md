@@ -10,7 +10,7 @@ catalog.json
     Hand-edited list of tracked documents, one entry per document.
 
 raw/<id>.<ext>
-    The file as downloaded from mevzuat.gov.tr. The extension is pdf, doc, docx or html. The path stays the same when the document is updated, so git history keeps every earlier version.
+    The file as downloaded from mevzuat.gov.tr. The extension is pdf, doc, docx, html or txt. A .txt file holds text copied from the mevzuat.gov.tr page, one paragraph per line. Keep one raw file per document. The path stays the same when the document is updated, so git history keeps every earlier version.
 
 data/<id>.json
     Converter output for one document. Never edited by hand.

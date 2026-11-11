@@ -12,8 +12,9 @@ from pathlib import Path
 # Document types we accept. Keep this in sync with docs/data-format.md (ID).
 TYPES = {"kanun", "khk", "cbk", "tuzuk", "yonetmelik", "teblig", "karar", "genelge"}
 
-# File types a person can download from mevzuat.gov.tr.
-RAW_EXTENSIONS = ["pdf", "doc", "docx", "html"]
+# File types a person can download from mevzuat.gov.tr, plus "txt" for
+# text copied from the page with one paragraph per line.
+RAW_EXTENSIONS = ["pdf", "doc", "docx", "html", "txt"]
 
 # Lowercase ASCII letters and digits, with one hyphen after the type.
 # Examples that match are "kanun-6098" and "yonetmelik-12345".
