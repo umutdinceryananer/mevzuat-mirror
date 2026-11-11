@@ -142,6 +142,14 @@ Up to three lines in capitals or standalone amendment notes right before such a 
 
 Lines that read "Eki için tıklayınız" are link texts from the web page and are dropped everywhere.
 
+## FOOTNOTES AND PAGE NUMBERS
+
+A line of underscores inside the text starts a footnote block. The paragraphs after it that start with a number in brackets and talk about an amendment, such as "(1) 12/12/2019 tarihli ve 30976 sayılı Resmî Gazete’de ...", are footnotes. They are taken out of the article text. Footnotes can follow every page, as in the Ticaret Sicili Yönetmeliği, or all come at the end, as in DUY.
+
+Page numbers of a transcribed print are dropped. They are found as a run of at least five paragraphs that hold only a three to five digit number, each one or two more than the one before.
+
+Letters from symbol fonts, which land in the Unicode private use area, are removed from every paragraph.
+
 ## NOT STORED
 
 No user data, no query logs and no secrets. The secret path segment of the MCP URL lives in a Cloudflare secret.

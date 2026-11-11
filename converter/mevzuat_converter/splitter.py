@@ -32,6 +32,27 @@ _MAX_HEADING_LENGTH = 150
 # a soft hyphen plus "-". It is removed from every paragraph.
 _SOFT_HYPHEN = chr(0x00AD)
 
+# Letters of symbol fonts land in the Unicode private use area, such as a
+# stray U+F074 at the end of a law. They carry no text and are removed.
+_PRIVATE_USE = range(0xE000, 0xF900)
+
+# A line of underscores. In Word files the footnotes of a page, or of the
+# whole document, follow it.
+_UNDERLINE = re.compile(r"_{3,}")
+
+# A footnote after the underline, such as "(1) 12/12/2019 tarihli ve 30976
+# sayılı Resmî Gazete’de yayımlanan ..." or "(3) Bu değişiklik yayımı
+# tarihinden 1 ay sonra yürürlüğe girer.".
+_FOOTNOTE = re.compile(
+    r"^\(\d+\).*(?:tarihli|Resm[iî] Gazete|yürürlüğe gir|maddesiyle|değiştiril|eklen|kaldırıl|ibare|teselsül)"
+)
+
+# Page numbers of a transcribed print, such as 5995, 5996, ... in the
+# Ticaret Sicili Yönetmeliği. A run of at least this many paragraphs that
+# hold only a three to five digit number, each one or two more than the
+# last, counts as page numbers.
+_PAGE_RUN = 5
+
 # Paragraphs that end the articles. The first one found starts the trailer,
 # and everything after it goes there too. See END OF ARTICLES in
 # docs/data-format.md.
@@ -87,6 +108,7 @@ class SplitResult:
     preamble: list[str]
     articles: list[Article]
     trailer: list[str]
+    footnotes: list[str] = field(default_factory=list)  # taken out of the article text
 
 
 def looks_like_heading(paragraph: str) -> bool:
@@ -113,6 +135,9 @@ def split_articles(paragraphs: list[str]) -> SplitResult:
     preamble: list[str] = []
     articles: list[Article] = []
     trailer: list[str] = []
+    footnotes: list[str] = []
+    page_numbers = _page_number_positions(paragraphs)
+    in_footnotes = False  # True after a line of underscores, while footnotes follow
 
     # Section headings above the current position, outermost first. Each
     # item is (level, text), such as ("kisim", "İKİNCİ KISIM Özel Borç İlişkileri").
@@ -124,10 +149,9 @@ def split_articles(paragraphs: list[str]) -> SplitResult:
     started = False                   # True after the first section heading or article label
     in_trailer = False
 
-    for raw in paragraphs:
-        # Drop soft hyphens, then collapse line breaks and repeated spaces.
-        paragraph = " ".join(raw.replace(_SOFT_HYPHEN, "").split())
-        if not paragraph or _WEB_LINK_TEXT.match(normalize(paragraph)):
+    for position, raw in enumerate(paragraphs):
+        paragraph = _clean(raw)
+        if not paragraph or position in page_numbers or _WEB_LINK_TEXT.match(normalize(paragraph)):
             continue
 
         if in_trailer or (started and _is_trailer_start(paragraph)):
@@ -138,6 +162,15 @@ def split_articles(paragraphs: list[str]) -> SplitResult:
             in_trailer = True
             trailer.append(paragraph)
             continue
+
+        if started and _UNDERLINE.fullmatch(paragraph):
+            in_footnotes = True
+            continue
+        if in_footnotes:
+            if _FOOTNOTE.match(paragraph):
+                footnotes.append(paragraph)
+                continue
+            in_footnotes = False
 
         section = match_section_heading(paragraph)
         if section is not None:
@@ -184,7 +217,35 @@ def split_articles(paragraphs: list[str]) -> SplitResult:
         else:
             current.paragraphs.append(paragraph)
 
-    return SplitResult(preamble=preamble, articles=articles, trailer=trailer)
+    return SplitResult(preamble=preamble, articles=articles, trailer=trailer, footnotes=footnotes)
+
+
+def _clean(raw: str) -> str:
+    """Drop soft hyphens and private use letters, then collapse all whitespace."""
+    kept = (ch for ch in raw if ch != _SOFT_HYPHEN and ord(ch) not in _PRIVATE_USE)
+    return " ".join("".join(kept).split())
+
+
+def _page_number_positions(paragraphs: list[str]) -> set[int]:
+    """Return the positions of paragraphs that are page numbers. See _PAGE_RUN."""
+    found: set[int] = set()
+    run: list[int] = []
+    last_value = None
+    for position, paragraph in enumerate(paragraphs):
+        text = paragraph.strip()
+        if not (text.isdigit() and 3 <= len(text) <= 5):
+            continue
+        value = int(text)
+        if last_value is not None and value - last_value in (1, 2):
+            run.append(position)
+        else:
+            if len(run) >= _PAGE_RUN:
+                found.update(run)
+            run = [position]
+        last_value = value
+    if len(run) >= _PAGE_RUN:
+        found.update(run)
+    return found
 
 
 def _is_trailer_start(paragraph: str) -> bool:
