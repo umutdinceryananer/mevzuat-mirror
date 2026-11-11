@@ -30,13 +30,16 @@ _PREFIX = r"EK\s+GEÇİCİ|Ek\s+Geçici|Ek\s+geçici|GEÇİCİ|Geçici|EK|Ek|MÜ
 # hyphen and the patterns stay easy to read in any editor.
 _DASHES = "-" + chr(0x2013) + chr(0x2014)
 
-# MADDE, then the number (344, or 4/A for an inserted article), then one of
-# the dashes, then the start of the article text.
+# MADDE, then the number (344, or 4/A for an inserted article), then the
+# start of the article text. Most labels have a dash after the number. Some
+# real files leave it out, as in "MADDE 428 İşyerinin" or "Madde 87 (Mülga",
+# so a missing dash is accepted when the text goes on with a capital letter
+# or a bracket. A lowercase word, as in "Madde 5 uyarınca", is not a label.
 _ARTICLE_LABEL = re.compile(
     rf"^(?:(?P<prefix>{_PREFIX})\s+)?"
     r"(?:MADDE|Madde)\s+"
     r"(?P<number>\d+(?:\s*/\s*[A-Za-zÇĞİÖŞÜçğıöşü])?)"
-    rf"\s*[{_DASHES}]\s*"
+    rf"(?:\s*[{_DASHES}]\s*|\s+(?=[A-ZÇĞİÖŞÜ(])|\s*$)"
     r"(?P<rest>.*)$",
     re.DOTALL,
 )

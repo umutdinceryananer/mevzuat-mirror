@@ -112,10 +112,12 @@ After these steps KİRACI, kiracı and kiraci are the same word. Prefix matching
 
 ## KNOWN TEXT PATTERNS
 
-The converter must recognize these forms. The list grows as samples arrive. The separator after an article number is a hyphen or an en dash.
+The converter must recognize these forms. The list grows as samples arrive. The separator after an article number is a hyphen, an en dash or an em dash. A few labels have no separator, and then the text after the number starts with a capital letter or a bracket. Soft hyphens are removed from every paragraph before matching.
 
     MADDE 344 –                           article, new style
     Madde 5-                              article, old style
+    MADDE 428 İşyerinin                   article without a dash
+    Madde 87 (Mülga: ...)                 article without a dash
     MADDE 4/A-                            inserted article
     GEÇİCİ MADDE 1 –                      provisional article
     EK MADDE 2 –                          additional article

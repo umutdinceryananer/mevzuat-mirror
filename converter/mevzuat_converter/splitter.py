@@ -27,6 +27,10 @@ _MAX_HEADING_LINES = 3
 # Headings are short. Longer paragraphs are always article text.
 _MAX_HEADING_LENGTH = 150
 
+# Word files sometimes hold an invisible soft hyphen, as in "MADDE 464" plus
+# a soft hyphen plus "-". It is removed from every paragraph.
+_SOFT_HYPHEN = chr(0x00AD)
+
 # A paragraph whose normalized text contains both of these starts the list
 # of amending legislation at the end of a file. Everything from there on
 # goes to the trailer.
@@ -95,8 +99,8 @@ def split_articles(paragraphs: list[str]) -> SplitResult:
     in_trailer = False
 
     for raw in paragraphs:
-        # Collapse line breaks and repeated spaces inside the paragraph.
-        paragraph = " ".join(raw.split())
+        # Drop soft hyphens, then collapse line breaks and repeated spaces.
+        paragraph = " ".join(raw.replace(_SOFT_HYPHEN, "").split())
         if not paragraph:
             continue
 
