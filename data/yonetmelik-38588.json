@@ -1,0 +1,244 @@
+{
+  "id": "yonetmelik-38588",
+  "type": "yonetmelik",
+  "number": "38588",
+  "title": "Elektrik Piyasasında Depolama Faaliyetleri Yönetmeliği",
+  "short_names": [
+    "Depolama Yönetmeliği"
+  ],
+  "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38588&MevzuatTur=7&MevzuatTertip=5",
+  "accepted_at": null,
+  "official_gazette": {
+    "date": "2021-05-09",
+    "number": "31479"
+  },
+  "downloaded_at": "2026-11-11",
+  "latest_amendment_seen": "2026-10-19",
+  "converter_version": "0.1.0",
+  "articles": [
+    {
+      "order": 1,
+      "kind": "madde",
+      "number": "1",
+      "label": "MADDE 1",
+      "heading": "Amaç ve kapsam",
+      "path": [
+        "BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmeliğin amacı; 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanunu kapsamında, elektrik depolama üniteleri veya tesislerinin kurulmaları, iletim veya dağıtım sistemine bağlanmaları ile bu ünite veya tesislerin piyasa faaliyetlerinde kullanılmalarına ilişkin usul ve esasları belirlemektir.\n\n(2) Pompaj depolamalı hidroelektrik santraller ile enerji kesintisi sırasında kullanılmak üzere tesis edilen kesintisiz güç kaynakları bu Yönetmeliğin kapsamı dışındadır.",
+      "notes": []
+    },
+    {
+      "order": 2,
+      "kind": "madde",
+      "number": "2",
+      "label": "MADDE 2",
+      "heading": "Dayanak",
+      "path": [
+        "BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik, 14/3/2013 tarihli ve 6446 sayılı Elektrik Piyasası Kanununa dayanılarak hazırlanmıştır.",
+      "notes": []
+    },
+    {
+      "order": 3,
+      "kind": "madde",
+      "number": "3",
+      "label": "MADDE 3",
+      "heading": "Tanımlar",
+      "path": [
+        "BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelikte geçen;\n\na) (Değişik:RG-19/11/2022-32018) Elektrik depolama tesisi: Elektrik enerjisini başka bir enerji türüne çevirerek depolayabilen ve depolanan enerjiyi kullanılmak üzere tekrar elektrik enerjisine çevirerek sisteme verebilen tesisi,\n\nb) İlgili mevzuat: Elektrik piyasasına ilişkin kanun, Cumhurbaşkanlığı kararnamesi, Cumhurbaşkanı kararı, yönetmelik, tebliğ, lisans, genelge ve Kurul kararlarını,\n\nc) İlgili standart: Elektrik depolama tesisinde kullanılacak teçhizat, bağlantı sistemi ve performans kriterlerine ilişkin olan, öncelik sırasına göre TS, EN, IEC, ISO ve diğer uluslararası standartları,\n\nç) İlgili teknik mevzuat: Enerji ve Tabii Kaynaklar Bakanlığı tarafından çıkarılan ilgili yönetmelik, tebliğ ve diğer düzenlemeleri,\n\nd) Kurul: Enerji Piyasası Düzenleme Kurulunu,\n\ne) Kurum: Enerji Piyasası Düzenleme Kurumunu,\n\nf) Müstakil elektrik depolama tesisi: Herhangi bir üretim veya tüketim tesisiyle irtibatı olmaksızın doğrudan şebekeye bağlı elektrik depolama tesisini,\n\ng) Şebeke işletmecisi: 36 kV ve altındaki şebeke için ilgili dağıtım lisansı sahibi tüzel kişiyi, 36 kV üstü şebeke için TEİAŞ’ı,\n\nğ) TEİAŞ: Türkiye Elektrik İletim Anonim Şirketini,\n\nh) Toptan elektrik piyasası: Elektrik enerjisi, kapasitesi ya da bunların türev ürünlerinin toptan alış-satışının gerçekleştirildiği; ikili anlaşmalar piyasası ya da piyasa ve/veya sistem işletmecisi tarafından organize edilen vadeli elektrik piyasası, gün öncesi piyasası, gün içi piyasası, dengeleme güç piyasası, yan hizmetler gibi elektrik piyasalarını,\n\nı) Tüketim tesisine bütünleşik elektrik depolama tesisi: Bir tüketim tesisiyle aynı ölçüm noktasına bağlı elektrik depolama tesisini,\n\ni) Üretim tesisine bütünleşik elektrik depolama ünitesi: Santral sahası sınırları içerisinde, üretim tesisinde üretilen veya sistemden çekilen elektrik enerjisini depolayabilen ve depolanan enerjiyi tekrar kullanılmak üzere sisteme verebilen elektrik depolama ünitesini,\n\nj) Yan hizmetler: 26/11/2017 tarihli ve 30252 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Yan Hizmetler Yönetmeliğinde tanımlanan yan hizmetleri,\n\nk) YEK Destekleme Mekanizması (YEKDEM): 10/5/2005 tarihli ve 5346 sayılı Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanun ve diğer ilgili mevzuat uyarınca yenilenebilir enerji kaynaklarına dayalı üretim faaliyeti gösteren üretim lisansı sahibi tüzel kişilerin bizzat ve muafiyetli üretim kapsamında yenilenebilir enerji kaynaklarından üretim yapan kişilerin bölgelerinde bulundukları görevli tedarik şirketleri aracılığıyla faydalanabileceği fiyatlar, süreler, miktarlar ve bunlara yapılacak ödemelere ilişkin usul ve esasları içeren destekleme mekanizmasını,\n\nl) (Ek:RG-19/11/2022-32018) Depolamalı elektrik üretim tesisi: Kanunun 7 nci maddesinin onuncu ve on birinci fıkraları kapsamında kurulan üretim tesisini\n\nifade eder.\n\n(2) Bu Yönetmelikte geçen ve birinci fıkrada yer almayan tanımlar ilgili mevzuattaki anlam ve kapsama sahiptir.",
+      "notes": [
+        "(Değişik:RG-19/11/2022-32018)",
+        "(Ek:RG-19/11/2022-32018)"
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "madde",
+      "number": "4",
+      "label": "MADDE 4",
+      "heading": "Vasıtasıyla Yürütülebilecek Faaliyetler / Elektrik depolama ünitesi ve tesisleri ile kurulum ve bağlantı esasları",
+      "path": [
+        "İKİNCİ BÖLÜM Elektrik Depolama Ünitesi ve Tesisleri ile Bu Ünite ve Tesisler"
+      ],
+      "repealed": false,
+      "text": "(1) Elektrik depolama ünitesi veya tesisi vasıtasıyla yürütülebilecek faaliyetler bu Yönetmelik hükümlerinde düzenlenmiş sınırlar içerisinde;\n\na) Üretim tesisine bütünleşik elektrik depolama ünitesi,\n\nb) Tüketim tesisine bütünleşik elektrik depolama tesisi,\n\nc) Müstakil elektrik depolama tesisi,\n\nç) (Değişik:RG-19/11/2022-32018) Şebeke işletmecileri tarafından kurulan elektrik depolama tesisi,\n\nd) (Ek:RG-29/12/2025-33122)[1] Lisanssız elektrik üretim tesisleri tarafından kurulan elektrik depolama tesisi,\n\nvasıtasıyla gerçekleştirilebilir.\n\n(2) Üretim tesisine bütünleşik elektrik depolama ünitesi (Ek ibare:RG-19/11/2022-32018) , depolamalı elektrik üretim tesisi bünyesindeki elektrik depolama ünitesi ile müstakil elektrik depolama tesislerinin sisteme bağlantısı ve sistem kullanımı hakkında 2/11/2013 tarihli ve 28809 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Lisans Yönetmeliğinin 15 inci maddesinin ikinci fıkrası kapsamında işlem tesis edilir.\n\n(3) (Ek:RG-19/11/2022-32018) (Değişik:RG-29/12/2025-33122) 12/5/2019 tarihli ve 30772 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği çerçevesinde çağrı mektubu alan ve ihtiyaç fazlası enerji için adı geçen Yönetmeliğin 26 ncı maddesi uyarınca mahsuplaşma yapılan lisanssız elektrik üretim tesislerinde elektrik depolama tesisi kurulabilir. Ancak, bu kapsamda kurulacak elektrik depolama tesislerinin Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliğinin 37 nci maddesinin altıncı fıkrasında yer alan şartları sağlaması zorunludur. Bu fıkra kapsamında kurulan elektrik depolama tesislerinden şebekeye enerji verilmesi durumunda mahsuplaşma sonrası kalan ihtiyaç fazlası enerjinin, depodan verilen miktarı için herhangi bir ödeme yapılmaz. Depodan verilen miktarın tespit edilememesi durumunda ihtiyaç fazlası enerjinin tamamı için herhangi bir ödeme yapılmaz. Söz konusu enerji, YEKDEM katılımcısı görevli tedarik şirketi tarafından üretilmiş kabul edilir ve YEKDEM’e bedelsiz katkı olarak dikkate alınır.\n\n(4) (Ek:RG-21/1/2025-32789) (Değişik:RG-29/12/2025-33122) Depolamalı elektrik üretim tesisleri bünyesinde bulunan elektrik depolama ünitelerinin “emre amade olma” durumu, söz konusu depolama ünitelerinin EK-1’de yer alan bağlantı konfigürasyonlarında yer alan şekle uygun olarak çalışabilir halde olma durumunu ifade eder.\n\n(5) (Ek:RG-21/1/2025-32789) Bu Yönetmelik kapsamındaki depolama ünitesi veya tesislerinin kabulünde yüzde on tolerans uygulanır.",
+      "notes": [
+        "(Değişik:RG-19/11/2022-32018)",
+        "(Ek:RG-29/12/2025-33122)",
+        "(Ek ibare:RG-19/11/2022-32018)",
+        "(Ek:RG-19/11/2022-32018)",
+        "(Değişik:RG-29/12/2025-33122)",
+        "(Ek:RG-21/1/2025-32789)",
+        "(Değişik:RG-29/12/2025-33122)",
+        "(Ek:RG-21/1/2025-32789)"
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "madde",
+      "number": "5",
+      "label": "MADDE 5",
+      "heading": "Üretim tesisine bütünleşik elektrik depolama ünitesi",
+      "path": [
+        "İKİNCİ BÖLÜM Elektrik Depolama Ünitesi ve Tesisleri ile Bu Ünite ve Tesisler"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-19/11/2022-32018) Üretim lisansı sahibi tüzel kişiler, lisanslı bir üretim tesisine bütünleşik elektrik depolama ünitesi kurabilir.\n\n(2) (Mülga:RG-19/11/2022-32018)\n\n(3) (Değişik:RG-19/11/2022-32018) Depolamalı elektrik üretim tesisi bünyesinde kurulan elektrik depolama ünitesi ile üretim tesisine bütünleşik elektrik depolama ünitesine şebekeden çekilip tekrar şebekeye verilen enerji, ilgili üretim tesisinin ürettiği enerji için verilen herhangi bir teşvik veya alım garantisi kapsamına girmez.\n\n(4) (Değişik:RG-19/11/2022-32018) Depolamalı elektrik üretim tesisi bünyesinde kurulan elektrik depolama ünitesi ile üretim tesisine bütünleşik elektrik depolama ünitesindeki kayıp enerji, ilgili üretim tesisinin ürettiği enerji için verilen herhangi bir teşvik veya alım garantisi kapsamına girmez. Bu kapsamdaki kayıp enerji için herhangi bir bedel ödenmez.\n\n(5) (Değişik:RG-19/11/2022-32018) Depolamalı elektrik üretim tesisi bünyesinde kurulan elektrik depolama ünitesi ile üretim tesisine bütünleşik elektrik depolama ünitesi, ayrı bir uzlaştırmaya esas veriş çekiş birimi olarak kaydedilir.\n\n(6) (Mülga:RG-19/11/2022-32018)\n\n(7) (Değişik:RG-17/12/2024-32755)[2] (Değişik:RG-29/12/2025-33122) Depolamalı elektrik üretim tesisleri ile bütünleşik elektrik depolama ünitesinin yer aldığı üretim tesislerinin uzlaştırma dönemi bazında sisteme vereceği enerji miktarı, ana kaynağa dayalı geçici kabulü yapılmış olan ünitelerin toplam elektriksel kurulu gücü ile yapabileceği üretim miktarını geçemez. Ancak üretim lisansına dercedilen ana kaynağı kısmen veya tamamen işletmeye girmeyen üretim tesisleri için teknik gereklilikler bakımından sistem işletmecisi tarafından uygun görülmesi ve bu kapsamda belirlenen koşullara uyulması halinde, üretim tesisinin lisansına dercedilen ana kaynak elektriksel kurulu gücünü geçmemek kaydıyla, depolama ünitesi ya da depolama tesisinin kabulü yapılan kısmına kadar şebekeye enerji verilebilir.\n\n(8) (Ek:RG-19/11/2022-32018) (Değişik:RG-29/12/2025-33122) Depolamalı elektrik üretim tesisi bünyesindeki elektrik depolama ünitesi ile üretim tesisine bütünleşik elektrik depolama ünitesinin bağlantısı EK-1’de, üretim tesisine bütünleşik elektrik depolama ünitesinin bağlantısı ise EK-1 ve EK-2’de yer alan bağlantı konfigürasyonlarına göre yapılır.\n\n(9) (Ek:RG-19/11/2022-32018) (Mülga:RG-29/12/2025-33122)\n\n(10) (Ek:RG-19/11/2022-32018) (Değişik:RG-29/12/2025-33122) Bu madde kapsamında kurulan elektrik depolama üniteleri;\n\na) İlgili mevzuat uyarınca gerekli şartları sağlamaları halinde yan hizmetlere,\n\nb) Dengeleme birimi niteliğini haiz olmaları halinde dengeleme güç piyasasına,\n\nüretim tesisinin ilişkili oldukları uzlaştırmaya esas veriş-çekiş birimleriyle katılabilir.\n\n(11) (Ek:RG-29/12/2025-33122)1[3] Depolamalı elektrik üretim tesisleri ile üretim tesisine bütünleşik elektrik depolama ünitesini haiz üretim tesislerinde herhangi bir uzlaştırma döneminde;\n\na) Şebekeden enerji çekilmesi halinde, ilgili uzlaştırma döneminde depolama tesisinin çekişi olması durumunda şebekeden çekilen enerjinin öncelikle depolama tesisi tarafından çekildiği,\n\nb) Şebekeye enerji verilmesi halinde ilgili uzlaştırma döneminde depolama tesisinin verişi olması durumunda şebekeye verilen enerjinin öncelikle depolama tesisi tarafından verildiği,\n\nkabul edilir.\n\n(12) (Ek:RG-19/11/2022-32018) Depolamalı elektrik üretim tesisi bünyesinde kurulan elektrik depolama ünitesi için özel düzenlemeler saklı kalmak koşuluyla, bu madde kapsamındaki hükümler uygulanır.",
+      "notes": [
+        "(Değişik:RG-19/11/2022-32018)",
+        "(Mülga:RG-19/11/2022-32018)",
+        "(Değişik:RG-19/11/2022-32018)",
+        "(Değişik:RG-19/11/2022-32018)",
+        "(Değişik:RG-19/11/2022-32018)",
+        "(Mülga:RG-19/11/2022-32018)",
+        "(Değişik:RG-17/12/2024-32755)",
+        "(Değişik:RG-29/12/2025-33122)",
+        "(Ek:RG-19/11/2022-32018)",
+        "(Değişik:RG-29/12/2025-33122)",
+        "(Ek:RG-19/11/2022-32018)",
+        "(Mülga:RG-29/12/2025-33122)",
+        "(Ek:RG-19/11/2022-32018)",
+        "(Değişik:RG-29/12/2025-33122)",
+        "(Ek:RG-29/12/2025-33122)",
+        "(Ek:RG-19/11/2022-32018)"
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "madde",
+      "number": "6",
+      "label": "MADDE 6",
+      "heading": "Tüketim tesisine bütünleşik elektrik depolama tesisleri",
+      "path": [
+        "İKİNCİ BÖLÜM Elektrik Depolama Ünitesi ve Tesisleri ile Bu Ünite ve Tesisler"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-19/10/2026-33405) Tüketiciler tarafından; ilgili şebeke işletmecisi tarafından uygun bağlantı görüşü verilmesi ve aynı ölçüm noktasında olması kaydıyla elektrik depolama tesisi kurulabilir. Ancak, anlaşma gücünden daha yüksek kurulu güçte depolama tesisi kurmak isteyen tüketiciler 28/1/2014 tarihli ve 28896 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Bağlantı ve Sistem Kullanım Yönetmeliğinin 14 üncü maddesinde belirtilen ünite ve sistemleri kurmak ile yükümlüdür.\n\n(2) (Mülga:RG-19/11/2022-32018)\n\n(3) Tüketim tesisine bütünleşik elektrik depolama tesisi sadece ilgili tüketim tesisinin ihtiyacı için kurulabilir. Tüketim tesisine bütünleşik elektrik depolama tesislerinden şebekeye enerji verilmesi durumunda bu enerji, ilgili tedarikçinin uzlaştırmaya esas veriş miktarlarında dikkate alınmaz.\n\n(4) Organize sanayi bölgesi tüzel kişiliği (Ek ibare:RG-29/12/2025-33122) veya endüstri bölgesi tüzel kişiliği tarafından OSB (Ek ibare:RG-29/12/2025-33122) ve endüstri bölgesi sınırları içerisinde kurulan elektrik depolama tesisleri, bu madde kapsamında tüketim tesisine bütünleşik elektrik depolama tesisi olarak değerlendirilir.",
+      "notes": [
+        "(Değişik:RG-19/10/2026-33405)",
+        "(Mülga:RG-19/11/2022-32018)",
+        "(Ek ibare:RG-29/12/2025-33122)",
+        "(Ek ibare:RG-29/12/2025-33122)"
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "madde",
+      "number": "7",
+      "label": "MADDE 7",
+      "heading": "Müstakil elektrik depolama tesisleri",
+      "path": [
+        "İKİNCİ BÖLÜM Elektrik Depolama Ünitesi ve Tesisleri ile Bu Ünite ve Tesisler"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-17/12/2024-32755) Tedarik veya toplayıcı lisansına sahip olmak ve 2 MW kurulu gücünden düşük olmamak kaydıyla, aynı tedarik veya toplayıcı lisansı kapsamında bir veya birden fazla müstakil elektrik depolama tesisi kurulabilir. Bu tesislerin sisteme verdiği ve sistemden çektiği enerji, ilgili piyasa katılımcısının uzlaştırmaya esas veriş çekiş miktarında dikkate alınır.\n\n(2) (Ek:RG-29/12/2025-33122)1[4] Müstakil elektrik depolama tesislerinin bağlantısı EK-3’te yer alan bağlantı konfigürasyonlarına göre yapılır.\n\n(3) (Ek:RG-29/12/2025-33122) Müstakil elektrik depolama tesislerinin uzlaştırma dönemi bazında sisteme vereceği enerji miktarı, kabulü yapılmış olan depolama tesisinin elektriksel kurulu gücü ile verebileceği enerji miktarını geçemez. Kurulu gücü ile verebileceği enerji miktarının aşılması halinde, aşan enerji; YEKDEM katılımcısı görevli tedarik şirketi tarafından üretilmiş kabul edilir ve YEKDEM’e bedelsiz katkı olarak dikkate alınır.\n\n(4) Bu madde kapsamında kurulan elektrik depolama tesislerinden Elektrik Piyasası Yan Hizmetler Yönetmeliği uyarınca gerekli şartları sağlayan tesisler yan hizmetlere, dengeleme birimi niteliğini haiz olanlar dengeleme güç piyasasına katılabilir.",
+      "notes": [
+        "(Değişik:RG-17/12/2024-32755)",
+        "(Ek:RG-29/12/2025-33122)",
+        "(Ek:RG-29/12/2025-33122)"
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "madde",
+      "number": "8",
+      "label": "MADDE 8",
+      "heading": "Şebeke işletmecileri tarafından kurulan elektrik depolama tesisleri (Değişik başlık:RG-19/11/2022-32018)",
+      "path": [
+        "İKİNCİ BÖLÜM Elektrik Depolama Ünitesi ve Tesisleri ile Bu Ünite ve Tesisler"
+      ],
+      "repealed": false,
+      "text": "(1) Dağıtım şirketleri fayda-maliyet analizleriyle yeni şebeke yatırımından daha ekonomik olduğunu ispat etmek kaydıyla; elektrik depolama tesisini, tesis bazında Kurul onayı ile yatırım planları kapsamında kurabilir.\n\n(2) Dağıtım şirketleri tarafından tesis edilen elektrik depolama tesisleri, dağıtım faaliyeti dışında kullanılamaz.\n\n(3) TEİAŞ, yatırım planlarında yer almak kaydı ile pilot uygulamalar kapsamında ve ticari faaliyete konu edilmeksizin depolama tesisleri kurabilir.",
+      "notes": [
+        "(Değişik başlık:RG-19/11/2022-32018)"
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "madde",
+      "number": "9",
+      "label": "MADDE 9",
+      "heading": "İlgili teknik mevzuat ve ilgili standartlar kapsamındaki işlemler",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik kapsamındaki elektrik depolama ünitesi ve tesislerinin projelendirilmesi, kurulumu, sisteme bağlantısı, kabulü, işletilmesi ile gerekli görülmesi halinde test faaliyetleri ilgili teknik mevzuat, ilgili standartlar ile teknik kriterlerde tanımlandığı şekliyle yürütülür.\n\n(2) Şebeke işletmecisi tarafından ilgili teknik mevzuatın ve ilgili standartların gerektirdiği koşulları sağlamayan elektrik depolama tesislerine ilişkin olarak, can ve/veya mal güvenliği bakımından tehlikeli veya elektrik sisteminin güvenliğini etkileyen riskli durumlarda herhangi bir bildirime gerek kalmaksızın elektrik depolama ünitesi veya elektrik depolama tesisinin durumu uygun hale getirilinceye kadar şebekeden ayrılması da dâhil, gerekli önlemler alınır.",
+      "notes": []
+    },
+    {
+      "order": 10,
+      "kind": "madde",
+      "number": "10",
+      "label": "MADDE 10",
+      "heading": "Kamulaştırma",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": true,
+      "text": "(Mülga:RG-19/11/2022-32018)",
+      "notes": [
+        "(Mülga:RG-19/11/2022-32018)"
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "madde",
+      "number": "11",
+      "label": "MADDE 11",
+      "heading": "Ar-Ge kapsamında kurulacak elektrik depolama tesisleri",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Üniversiteler, teknoloji geliştirme bölgeleri ve endüstri bölgeleri tarafından Ar-Ge faaliyetlerinde kullanılmak amacıyla azami 1 MW kurulu gücünde elektrik depolama tesisi kurulabilir. Bu tesislerin sisteme verdikleri enerji, ilgili piyasa katılımcılarının uzlaştırmaya esas veriş miktarlarında dikkate alınmaz.",
+      "notes": []
+    },
+    {
+      "order": 12,
+      "kind": "gecici_madde",
+      "number": "1",
+      "label": "GEÇİCİ MADDE 1",
+      "heading": "Başvuruların alınmaya başlanması",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik kapsamındaki elektrik depolama ünitesi veya elektrik depolama tesisleri için yapılacak başvurular, 28/5/2014 tarihli ve 29013 mükerrer sayılı Resmî Gazete’de yayımlanan Elektrik Şebeke Yönetmeliğinin geçici 1 inci maddesinde yer alan kriterlerin TEİAŞ tarafından ilan edildiği tarihten bir ay sonra yapılabilir.",
+      "notes": []
+    },
+    {
+      "order": 13,
+      "kind": "madde",
+      "number": "12",
+      "label": "MADDE 12",
+      "heading": "Yürürlük",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "notes": []
+    },
+    {
+      "order": 14,
+      "kind": "madde",
+      "number": "13",
+      "label": "MADDE 13",
+      "heading": "Yürütme",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik hükümlerini Enerji Piyasası Düzenleme Kurumu Başkanı yürütür.",
+      "notes": []
+    }
+  ]
+}

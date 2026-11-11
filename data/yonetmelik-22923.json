@@ -1,0 +1,412 @@
+{
+  "id": "yonetmelik-22923",
+  "type": "yonetmelik",
+  "number": "22923",
+  "title": "Yenilenebilir Enerji Kaynak Alanları Yönetmeliği",
+  "short_names": [
+    "YEKA Yönetmeliği"
+  ],
+  "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22923&MevzuatTur=7&MevzuatTertip=5",
+  "accepted_at": null,
+  "official_gazette": {
+    "date": "2016-10-09",
+    "number": "29852"
+  },
+  "downloaded_at": "2026-11-11",
+  "latest_amendment_seen": "2025-12-09",
+  "converter_version": "0.1.0",
+  "articles": [
+    {
+      "order": 1,
+      "kind": "madde",
+      "number": "1",
+      "label": "MADDE 1",
+      "heading": "Amaç",
+      "path": [
+        "BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmeliğin amacı; kamu ve hazine taşınmazları ile özel mülkiyete konu taşınmazlarda (Mülga ibare:RG-5/10/2024-32683) yenilenebilir enerji kaynak alanları (YEKA) oluşturularak yenilenebilir enerji kaynaklarının etkin ve verimli kullanılması, bu alanların yatırımcılara tahsisiyle yatırımların hızlı bir şekilde gerçekleştirilmesi ve yenilenebilir enerji kaynaklarına dayalı elektrik enerjisi üretim tesislerinde kullanılan ileri teknoloji içeren aksamın yurt içinde üretilmesi ya da yurt içinden temin edilmesinin sağlanması, teknoloji transferinin teminine katkı sağlanmasıdır.",
+      "notes": [
+        "(Mülga ibare:RG-5/10/2024-32683)"
+      ]
+    },
+    {
+      "order": 2,
+      "kind": "madde",
+      "number": "2",
+      "label": "MADDE 2",
+      "heading": "Kapsam",
+      "path": [
+        "BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-11/4/2017-30035) Bu Yönetmeliğin kapsamı; YEKA’ların belirlenmesi, bu alanlar için bağlantı görüşünün verilmesi ve kapasite tahsisinin yapılması, tahsis edilen bağlantı kapasitesinin yurt içinde üretim ve/veya yerli malı kullanım şartı ile kullandırılması ve bu amaçla yapılacak yarışmaya katılacaklarda aranacak koşulların belirlenmesi, yarışmanın yapılması, teminat alınması, yükümlülüklerin yerine getirilmemesi halinde teminatın irat kaydedilmesi, YEKA’da kurulacak elektrik enerjisi üretim tesislerinin önlisans/lisans (Değişik ibare:RG-5/10/2024-32683) süreçleri ve elektrik enerjisi satışına ilişkin usul ve esaslardır.",
+      "notes": [
+        "(Değişik:RG-11/4/2017-30035)",
+        "(Değişik ibare:RG-5/10/2024-32683)"
+      ]
+    },
+    {
+      "order": 3,
+      "kind": "madde",
+      "number": "3",
+      "label": "MADDE 3",
+      "heading": "Dayanak",
+      "path": [
+        "BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar"
+      ],
+      "repealed": false,
+      "text": "(Değişik:RG-9/12/2025-33102)\n\n(1) Bu Yönetmelik; 10/5/2005 tarihli ve 5346 sayılı Yenilenebilir Enerji Kaynaklarının Elektrik Enerjisi Üretimi Amaçlı Kullanımına İlişkin Kanunun 4 üncü maddesine dayanılarak hazırlanmıştır.",
+      "notes": [
+        "(Değişik:RG-9/12/2025-33102)"
+      ]
+    },
+    {
+      "order": 4,
+      "kind": "madde",
+      "number": "4",
+      "label": "MADDE 4",
+      "heading": "Tanımlar ve kısaltmalar",
+      "path": [
+        "BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak, Tanımlar ve Kısaltmalar"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelikte geçen;\n\na) (Değişik:RG-5/10/2024-32683) Aday YEKA: Bakanlık tarafından YEKA olarak ilan edilmesi amacıyla Bakanlık internet sayfasında duyurulan alanı,\n\nb) Araştırma ve Geliştirme Faaliyeti (AR-GE): 28/2/2008 tarihli ve 5746 sayılı Araştırma, Geliştirme ve Tasarım Faaliyetlerinin Desteklenmesi Hakkında Kanun kapsamında tanımlanan faaliyeti,\n\nc) Bakan: Enerji ve Tabii Kaynaklar Bakanını,\n\nç) Bakanlık: Enerji ve Tabii Kaynaklar Bakanlığını,\n\nd) (Değişik:RG-31/12/2019-30995 4.Mükerrer) STB: Sanayi ve Teknoloji Bakanlığını,\n\ne) EPDK: Enerji Piyasası Düzenleme Kurumunu,\n\nf) (Mülga:RG-5/10/2024-32683)\n\ng) (Değişik:RG-31/12/2019-30995 4.Mükerrer) Genel Müdürlük: Enerji İşleri Genel Müdürlüğünü,\n\nğ) Şartname: Yapılacak iş ve işlemleri, yarışmaya dair kapsam, usul ve esasları, teknik ve idari şartları, başvuru sahibi tüzel kişilerde aranan nitelikleri, diğer bilgileri kapsayan ve YEKA Kullanım Hakkı Sözleşmesinin eki olan dokümanı,\n\nh) TEİAŞ: Türkiye Elektrik İletim Anonim Şirketini,\n\nı) Teknoloji Sağlayıcı: Yurt içinde üretim karşılığı tahsis halinde Şartnamede tanımlanan aksamın üretim ve teknoloji geliştirme yetkinliğine sahip tüzel kişi/kişileri,\n\ni) TSE: Türk Standardları Enstitüsünü,\n\nj) (Mülga:RG-5/10/2024-32683)\n\nk) (Değişik:RG-5/10/2024-32683) YEKA Sözleşmesi: Genel Müdürlük tarafından geliştirilen YEKA ve bu alan için tahsis edilen bağlantı kapasitesinin veya YEKA Yarışması sonrasında YEKA geliştirilmesi durumunda bağlantı bölgeleri bazında Bakanlık tarafından ilan edilen bağlantı kapasitesinin yarışma dokümanlarına uygun olarak kullandırılmasına yönelik Bakanlık ile yarışmayı kazanan arasında imzalanan sözleşmeyi,\n\nl) (Değişik:RG-5/10/2024-32683) Yenilenebilir enerji kaynak alanı (YEKA): Kamu ve hazine taşınmazları ile özel mülkiyete konu taşınmazlarda geliştirilebilir yenilenebilir enerji kaynaklarından en az birinin yüksek yoğunlukta bulunduğu yenilenebilir enerji kaynak alanı/alanları,\n\nm) (Değişik:RG-5/10/2024-32683) Yerli malı: 13/9/2014 tarihli ve 29118 sayılı Resmî Gazete’de yayımlanan Yerli Malı Tebliği (SGM 2014/35) kapsamında hesaplanan ve Şartnamede belirtilen yerli katkı oranını sağlayan ürünü,\n\nn) (Değişik:RG-11/4/2017-30035) Yerli Malı Belgesi: Yerli Malı Tebliği (SGM 2014/35) ve Şartnamede belirtilen esaslar kapsamında düzenlenen ve ürünün yerli katkı oranını gösteren belgeyi,\n\no) (Mülga:RG-5/10/2024-32683)\n\nö) (Mülga:RG-5/10/2024-32683)\n\np) (Ek:RG-5/10/2024-32683) Çevresel Etki Değerlendirmesi (ÇED): 29/7/2022 tarihli ve 31907 sayılı Resmî Gazete’de yayımlanan Çevresel Etki Değerlendirmesi Yönetmeliğinde tanımlanan süreci,\n\nr) (Ek:RG-5/10/2024-32683) Yarışma dokümanları: YEKA Sözleşmesi, Şartname, zeyilnameler, soru ve cevapları,\n\nifade eder.\n\n(2) Bu Yönetmelikte geçen diğer ifade ve kısaltmalar ilgili mevzuattaki anlam ve kapsama sahiptir.",
+      "notes": [
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-31/12/2019-30995 4.Mükerrer)",
+        "(Mülga:RG-5/10/2024-32683)",
+        "(Değişik:RG-31/12/2019-30995 4.Mükerrer)",
+        "(Mülga:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-11/4/2017-30035)",
+        "(Mülga:RG-5/10/2024-32683)",
+        "(Mülga:RG-5/10/2024-32683)",
+        "(Ek:RG-5/10/2024-32683)",
+        "(Ek:RG-5/10/2024-32683)"
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "madde",
+      "number": "5",
+      "label": "MADDE 5",
+      "heading": "YEKA belirleme ve derecelendirme kriterleri",
+      "path": [
+        "İKİNCİ BÖLÜM Yenilenebilir Enerji Kaynak Alanlarının Belirlenmesi"
+      ],
+      "repealed": false,
+      "text": "(Değişik:RG-5/10/2024-32683)\n\n(1) YEKA’lar;\n\na) Genel Müdürlük tarafından yapılacak çalışmalar,\n\nb) YEKA Yarışması sonrasında yapılacak çalışmalar,\n\nsonucunda olmak üzere iki farklı şekilde geliştirilebilir.\n\n(2) YEKA’ların Genel Müdürlük tarafından geliştirilmesi durumunda aşağıdaki teknik ve idari çalışmalar yürütülür:\n\na) Halihazır haritalar, enerji potansiyel atlasları, ölçüm verileri, mevcut ve planlanan şebeke altyapısı ile bilimsel çalışmalar kullanılarak kamu ve hazine taşınmazları ile özel mülkiyete konu taşınmazlar üzerinde ön değerlendirmeler yapılır.\n\nb) Uygun bulunan alanlar, detay çalışmalar için Aday YEKA olarak ilan edilir.\n\nc) İlan edilen Aday YEKA’lar için Bakanlığın belirleyeceği kurum ve kuruluşlar nezdinde sorgulama yapılır veya ilan edilen alanlardan uygun görülen Aday YEKA’lar için ÇED süreci başlatılır.\n\nç) Aday YEKA içerisinde kullanılabilir alanlar dikkate alınarak kurulabilecek güç kapasitesi belirlenir.\n\nd) Aday YEKA üzerinde, gerekmesi halinde kaynak türüne göre yeterli sayıda enerji amaçlı ölçüm istasyonları kurulur ve/veya kurdurulur. Bu amaçla arazi sahiplerinden izinler alınır.\n\ne) Yeterli sürelerde alınan enerji amaçlı ölçüm verileri kullanılarak gerekli teknik ve ekonomik analizler yapılır ve/veya yaptırılır.\n\nf) Kurum ve kuruluşlar nezdinde sorgulanan veya ÇED Olumlu/Gerekli Değildir Kararı alınmış olan Aday YEKA, YEKA olarak Resmî Gazete’de ilan edilir ve çevre düzeni planlarına işlenmek üzere ilgili mercilere bildirilir.\n\ng) YEKA olarak ilan edilen alanda çalışmaların Bakanlık tarafından yapılabilmesi ve/veya yaptırılabilmesi için araziye ilişkin yetki sahibi olan kurum/kuruluşlar tarafından Bakanlığa yer tahsisi yapılır.\n\nğ) Aday YEKA’nın uygun nitelikte olmadığının değerlendirilmesi veya 2 (iki) yıl içerisinde YEKA olarak ilan edilmemesi halinde Aday YEKA niteliği iptal olur.\n\nh) Genel Müdürlük tarafından belirlenen YEKA’lar, Bakanlığın hedef ve politikaları, kaynak türü, belirlenen kaynak potansiyeli ile tahmini birim elektrik enerjisi üretim maliyeti dikkate alınarak derecelendirilir. Yatırıma açılacak YEKA ve önceliği, Bakanlık tarafından belirlenir.\n\nı) YEKA’nın yatırıma hazır hale getirilebilmesi için Genel Müdürlük tarafından gerekli görülmesi halinde kaynak alanına ilişkin, jeolojik ve jeoteknik etütler, kamulaştırma, halihazır haritaların hazırlanması, parselasyon, imar çalışmaları ve elektrik iletim alt yapı çalışmaları yapılır ve/veya yaptırılır.\n\ni) 9/1/2002 tarihli ve 4737 sayılı Endüstri Bölgeleri Kanunu (Endüstri Bölgeleri Kanunu ve Organize Sanayi Bölgeleri Kanununda Değişiklik Yapılması Hakkında Kanun) kapsamında belirlenen bölgelerin Resmî Gazete’de YEKA olarak ilan edilmesi halinde, bu alanların tahsis edileceği tüzel kişiler bu Yönetmelik kapsamında belirlenir. YEKA’nın yatırıma hazır hale getirilebilmesi için gerekli diğer işlemler 4737 sayılı Kanuna göre STB ile koordineli olarak yürütülür.\n\n(3) YEKA Yarışması sonrasında YEKA geliştirilmesi durumunda aşağıdaki teknik ve idari çalışmalar yürütülür:\n\na) Bakanlık tarafından ilan edilen bağlantı bölgeleri ve bağlantı kapasiteleri için kaynak türü bazında YEKA Yarışması yapılır.\n\nb) YEKA Yarışmasını kazanan ve YEKA Sözleşmesini imzalamış tüzel kişi, bağlantı bölgeleri içerisinde kalacak şekilde ve bağlantı kapasitesinin tamamına göre ilgili mevzuatı kapsamında belirleyecekleri alanları, Şartnamede belirtilen süre içerisinde, talep edilen bilgi ve belgelerle birlikte Genel Müdürlüğe önerir. Uygun bulunan alanlar Bakanlık internet sitesinde Aday YEKA olarak ilan edilir. Uygun bulunmayan her bir alan için yarışmayı kazanandan yarışmanın kazanıldığı bağlantı bölgesinin değiştirilmemesi kaydıyla Şartnamede belirlenen koşullarda yeni alan önermesi istenebilir. Tahsis edilen bağlantı bölgesi ve bağlantı kapasitesi için Aday YEKA’nın uygun bulunması ile bu Aday YEKA Resmî Gazete’de YEKA olarak ilan edilir. Aday YEKA’ların değerlendirme süreci, Şartnamede belirlenen koşullarda ve sürede tamamlanır. Süresi içerisinde Genel Müdürlüğe sunulmayan veya değerlendirme sonucunda uygun bulunmayan alanlara karşılık gelen kapasite, YEKA Sözleşmesinde belirtilen toplam kapasiteden düşürülerek iptal edilir. YEKA Sözleşmesi kapsamında tahsis edilen kapasitenin yüzde yetmişinden daha az olmamak kaydıyla Şartnamede belirlenen asgari orana karşılık gelen kurulu güçte elektrik enerjisi üretim tesisinin kurulması esastır. Bu durum, YEKA Sözleşmesinde ve eklerinde bir değişiklik hakkı doğurmaz. Kullanılabilir Aday YEKA belirlenememesi veya bağlantı kapasitesinin yüzde yetmişinden daha az olmamak kaydıyla Şartnamede belirlenen asgari orandan daha az Aday YEKA belirlenmesi halinde teminat irat kaydedilerek YEKA Sözleşmesi feshedilir.\n\nc) YEKA Yarışması sonrasında YEKA geliştirilmesi yönteminde alan seçimi, gerekli etüt ve izinler, YEKA Sözleşmesi ve Şartname koşulları içerisinde tamamlanır.\n\nç) Bakanlık, YEKA Yarışması sonrasında YEKA geliştirilmesi yöntemi kullanılarak belirlenecek YEKA’nın yatırıma hazır hale getirilmesi amacıyla gerekli izin süreçleri için iyi niyet çerçevesinde işbirliği yapar. Bakanlık, bu yöntemde ÇED, imar ve izin süreçleri ile ilgili iş ve işlemleri yapabilir.\n\nd) YEKA’nın yatırıma hazır hale getirilmesi, gerekli diğer iş ve işlemler için tüm masraflar yarışmayı kazanan tüzel kişiye aittir. Bu işlemler ve gecikme nedeniyle tüzel kişi zarar, ziyan ve benzeri ad altında herhangi bir talepte bulunamaz.\n\ne) Mücbir sebepler veya kamudan kaynaklanan ve Genel Müdürlüğün uygun göreceği sebeplerle belirlenemeyen veya kullanılamayan santral sahaları bağlantı bölgesi aynı kalmak kaydıyla değiştirilebilir. Değiştirilen sahalar Genel Müdürlüğe sunulur. Uygun bulunması durumunda YEKA ilan edilir. Santral sahası belirleme sürecinde geçen ilave süre, toplam sözleşme süresine eklenmez.",
+      "notes": [
+        "(Değişik:RG-5/10/2024-32683)"
+      ]
+    },
+    {
+      "order": 6,
+      "kind": "madde",
+      "number": "6",
+      "label": "MADDE 6",
+      "heading": "Sözleşmesinin İmzalanması[1] / YEKA (Mülga ibare:RG-5/10/2024-32683) yarışma ilanı",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Başvuruların Alınması, İncelenmesi, Sonuçlandırılması ve YEKA"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-11/4/2017-30035) YEKA Kullanım Hakkı yarışma ilanı, Resmî Gazete’de ve Genel Müdürlük internet adresinde yayımlanır. İlanda asgari olarak aşağıdaki bilgilere yer verilir:\n\na) YEKA’lara ilişkin olarak Genel Müdürlük tarafından ilan edilmesi gerekli görülen teknik ve idari özellikler ile YEKA’nın bağlantı kapasitesi.\n\nb) Başvuru yapacaklarda aranacak şartlar.\n\nc) Teminat mektubu (Mülga ibare:RG-5/10/2024-32683).\n\nç) Başvuru yeri, tarihi ve zamanı.\n\nd) Şartnamenin temin edileceği yer ve tutarı.\n\ne) (Değişik:RG-5/10/2024-32683) Yarışma şartları.\n\nf) Bakanlık tarafından gerekli görülen diğer bilgiler.\n\n(2) İlan tarihi ile (Mülga ibare:RG-5/10/2024-32683) başvuru dosyasının teslim tarihi arasındaki süre 30 (otuz) takvim gününden az olamaz.",
+      "notes": [
+        "(Mülga ibare:RG-5/10/2024-32683)",
+        "(Değişik:RG-11/4/2017-30035)",
+        "(Mülga ibare:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Mülga ibare:RG-5/10/2024-32683)"
+      ]
+    },
+    {
+      "order": 7,
+      "kind": "madde",
+      "number": "7",
+      "label": "MADDE 7",
+      "heading": "YEKA kullanım hakkı yarışması başvurularının alınması",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Başvuruların Alınması, İncelenmesi, Sonuçlandırılması ve YEKA"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-11/4/2017-30035) Bu Yönetmelik kapsamında yapılacak yarışmalara bu Yönetmelik ve Şartnamede yer alan şartları taşıyanlar başvuruda bulunabilirler.\n\n(2) (Değişik:RG-11/4/2017-30035) Bu Yönetmelik kapsamında önlisans başvurusu yapma hakkı elde eden tüzel kişilerin, 2/11/2013 tarihli ve 28809 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasası Lisans Yönetmeliği kapsamında belirtilen önlisans başvurusu yapmaya haiz tüzel kişilerde aranan şartları sağlaması gerekmektedir\n\n(3) Başvurunun birden fazla tüzel kişi tarafından yapılması halinde, başvurunun ortak girişim olarak yapılmasına dair hususlar Şartnamede tanımlanır.\n\n(4) Yarışmaya katılan tüzel kişinin veya ortak girişimin ortaklık yapısındaki Türkiye Cumhuriyeti vatandaşlarına ve Teknoloji Sağlayıcısına ait asgari pay oranı Şartnamede belirtilir. Başvurularda Türkiye Cumhuriyeti vatandaşı payını göstermek üzere ortaklık yapısı gerçek kişiye kadar sunulur. Ortak girişim olarak başvurulması halinde ortaklara ait iş deneyim belgesinin hesaplanma yöntemi Şartnamede tanımlanır.\n\n(5) (Değişik:RG-5/10/2024-32683) Yarışmaya başvuru yapmak isteyenler; Şartnamede belirtilen belgeleri Genel Müdürlüğe başvuru dosyasında sunar.\n\n(6) Başvuru dosyaları, aşağıda belirtilen hususlara uyulmak şartıyla sunulacaktır:\n\na) Tüm başvuru evrakları, üzerinde (Değişik ibare:RG-9/4/2021-31449) sicil tasdiknamesinde yer alan yetkili imzalar ve kaşeli olacak şekilde (Mülga ibare:RG-5/10/2024-32683) kapalı bir zarf içerisine konularak sunulacaktır.\n\nb) Mali Teklif, kapalı, kaşeli ve ıslak imzalı (Mülga ibare:RG-5/10/2024-32683) bir zarfa konulmuş olarak, tüm başvuru evraklarının bulundurulduğu kapalı zarf içinde yer alacaktır.\n\nc) Evrakların asıl veya noter tasdikli olarak sunulması esastır. Onaysız suretler işleme alınmaz.\n\nç) Dokümanların Türkçe olarak sunulması esas olup yabancı dilde olan belgelerin apostil tasdik şerhi onayı, Lahey Konvansiyonuna taraf olmayan ülkeler için dokümanın ait olduğu ilgili ülke muadil makam onayı ile Türk Konsolosluğundan tasdikli ve yeminli tercümesinin yapılması gerekmektedir.\n\n(7) (Değişik:RG-11/4/2017-30035) Başvuru dosyaları ilanda belirtilen adrese, ilanda belirtilen tarih ve saate kadar sunulmalıdır. Süresinde sunulmayan başvurular değerlendirmeye alınmaz. Başvurularda postadan kaynaklı gecikmeler dikkate alınmaz.",
+      "notes": [
+        "(Değişik:RG-11/4/2017-30035)",
+        "(Değişik:RG-11/4/2017-30035)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik ibare:RG-9/4/2021-31449)",
+        "(Mülga ibare:RG-5/10/2024-32683)",
+        "(Mülga ibare:RG-5/10/2024-32683)",
+        "(Değişik:RG-11/4/2017-30035)"
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "madde",
+      "number": "8",
+      "label": "MADDE 8",
+      "heading": "Komisyonun teşkili ve çalışma esasları",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Başvuruların Alınması, İncelenmesi, Sonuçlandırılması ve YEKA"
+      ],
+      "repealed": false,
+      "text": "(1) Komisyon; toplam üye sayısı tek sayı olmak üzere Bakanlığın belirleyeceği kurum/kuruluşlardan bir başkan, en az dört asil üyeden ve asil üye/üyelerin bulunamadığı hallerde yerine görev yapmak üzere yedek üyelerden Bakan Oluruyla teşkil ettirilir. Komisyonca yapılan iş ve işlemler tutanakla tespit edilir ve Komisyonun bütün üyeleri tarafından imzalanır.\n\n(2) Komisyon eksiksiz olarak toplanır. Komisyon kararları oy çokluğuyla alınır. Kararlarda çekimser kalınamaz. Komisyon başkanı ve üyeleri oy ve kararlarından sorumludur. Karşı oy kullanan Komisyon üyeleri, gerekçesini Komisyon kararına yazmak ve imzalamak zorundadır. Komisyonca alınan kararlar ve düzenlenen tutanaklar, Komisyon başkan ve üyelerinin adları, soyadları ve görev unvanları belirtilerek imzalanır.",
+      "notes": []
+    },
+    {
+      "order": 9,
+      "kind": "madde",
+      "number": "9",
+      "label": "MADDE 9",
+      "heading": "Başvuruların incelenmesi",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Başvuruların Alınması, İncelenmesi, Sonuçlandırılması ve YEKA"
+      ],
+      "repealed": false,
+      "text": "(1) Başvurular, Komisyon tarafından değerlendirilir.\n\n(2) (Mülga:RG-5/10/2024-32683)\n\n(3) (Değişik:RG-5/10/2024-32683) Komisyon, başvurular için sunulan tüm bilgi ve belgeler üzerinden evrak incelemesini, ilanda belirtilen en son başvuru tarihinden itibaren 30 (otuz) takvim gününe kadar tamamlar. Bu çalışmaların süresi içerisinde tamamlanamaması halinde Komisyon, 30 (otuz) takvim gününe kadar bir defaya mahsus olmak üzere ek süre uzatımı kararı alabilir. Komisyon tarafından belirlenen yarışma yer, tarih ve saati yarışma tarihinden en az 3 (üç) takvim günü öncesinde Bakanlık internet adresinde yayımlanır ve/veya başvuru sahiplerine yazışma yöntemlerinden biriyle yarışma tarihinden en az 3 (üç) takvim günü öncesinden bildirilir.\n\n(4) (Değişik:RG-5/10/2024-32683) Başvuru sahibinin herhangi bir ek açıklamaya mahal bırakmayacak şekilde başvurusunu usulüne uygun ve eksiksiz yapması esastır. Komisyon, evrak incelemesi sürecinde ihtiyaç görmesi halinde; başvuru sahiplerinden eksik, hatalı, içeriği anlaşılamayan başvuru evrakları için düzeltme ve Şartname kapsamında sunulan bilgi ve belgelere ilişkin detaylı açıklama isteyebilir. Başvuru sahibi tüzel kişilere, yazışma yöntemlerinden biriyle, istenen evrak, düzeltme veya açıklamaya dair bildirim yapılır. İstenen evrak, düzeltme veya detaylı açıklamalar bu bildirim tarihinden itibaren bildirimde belirtilen süre içerisinde Komisyona sunulur. Ancak; istenen evrak, düzeltme veya detaylı açıklamaların Komisyona sunulma süresi Komisyonun evrak inceleme süresini geçemez. Komisyonun inceleme süresi sonucunda eksik evrak içerdiği tespit edilen başvurular yarışmaya alınmaz.\n\n(5) (Değişik:RG-5/10/2024-32683) Yarışma başvurusunda mali teklif istenmesi halinde, mali teklifler Şartnamede verilen formatta, kaşeli ve sicil tasdiknamesinde yer alan yetkili kişiler tarafından ıslak imzalı olacak şekilde düzenlenecek ve geçerlilik süresi başvuru tarihinden itibaren en az 120 (yüz yirmi) takvim günü olacaktır.\n\n(6) Yapılacak yarışma, Komisyonun kararıyla askıya alınabilir veya iptal edilebilir.\n\n(7) Yarışmaya katılan tüzel kişiler herhangi bir gerekçeyle zarar, ziyan ve benzeri ad altında talepte bulunamazlar.",
+      "notes": [
+        "(Mülga:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)"
+      ]
+    },
+    {
+      "order": 10,
+      "kind": "madde",
+      "number": "10",
+      "label": "MADDE 10",
+      "heading": "YEKA (Mülga ibare:RG-5/10/2024-32683) yarışması usulü ve YEKA (Mülga ibare:RG-5/10/2024-32683) yarışmasının sonuçlandırılması",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Başvuruların Alınması, İncelenmesi, Sonuçlandırılması ve YEKA"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-11/4/2017-30035) Bu Yönetmelik ve Şartnamede belirlenen kriterleri sağlayan, geçerli başvuru sahipleri yarışmaya katılma hakkı kazanır.\n\n(2) (Değişik:RG-5/10/2024-32683) Yarışma başvurusunda mali teklif istenmesi halinde, yarışmaya katılma hakkı elde eden başvuru sahiplerinin Şartnamede belirtilen hususlara göre mali teklif zarfları başvuru sahibi yetkililerinin huzurunda Komisyon tarafından açılır.\n\n(3) (Değişik:RG-5/10/2024-32683) Yarışma, Bakanlık tarafından Şartnamede belirtilen usule göre yapılır.\n\n(4) (Değişik:RG-5/10/2024-32683) Son teklifini veren ve yeni bir teklif sunmayan başvuru sahipleri, yarışma tutanağını imzalarlar ve yarışmada bir daha teklif veremezler.\n\n(5) (Mülga:RG-5/10/2024-32683)\n\n(6) (Değişik:RG-5/10/2024-32683) Teklif veren tüzel kişilerin yarışma tutanağını imzalamamaları halinde, bu durum Komisyon tarafından ayrıca bir tutanakla tespit edilir. Yarışmada tüzel kişinin vermiş olduğu teklifleri imza şartı olmaksızın bağlayıcı ve geçerlidir.\n\n(7) (Değişik:RG-5/10/2024-32683) Şartnamede belirtilen kriterler çerçevesinde en uygun ilk üç teklif haricindeki diğer tekliflere ait teminat mektupları iade edilir.\n\n(8) Komisyon tutanağı, Bakan Onayına sunulur. Yarışma, Bakan Onayı ile sonuçlandırılarak, onay dahilinde en (Değişik ibare:RG-9/12/2025-33102) uygun birinci teklif sahibi YEKA Kullanım Hakkı Sözleşmesinin imzalanmasına davet edilir.\n\n(9) Bakanlık, herhangi bir aşamada yarışmayı iptal edebilir.",
+      "notes": [
+        "(Mülga ibare:RG-5/10/2024-32683)",
+        "(Mülga ibare:RG-5/10/2024-32683)",
+        "(Değişik:RG-11/4/2017-30035)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Mülga:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik ibare:RG-9/12/2025-33102)"
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "madde",
+      "number": "11",
+      "label": "MADDE 11",
+      "heading": "YEKA (Mülga ibare:RG-5/10/2024-32683) sözleşmesinin imzalanması ve ifası",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Başvuruların Alınması, İncelenmesi, Sonuçlandırılması ve YEKA"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-5/10/2024-32683) YEKA Sözleşmesine davet edilen tüzel kişinin davet edildiği yazının tebliğ tarihinden itibaren azami 30 (otuz) takvim günü içerisinde YEKA Sözleşmesini imzalaması esastır. En uygun birinci teklif sahibiyle YEKA Sözleşmesi imzalanması halinde veya en uygun ikinci ve üçüncü teklif sahibinin YEKA Sözleşmesine davet edilmemesi halinde en uygun ikinci ve üçüncü teklif sahibinin teminat mektubu iade edilir. Bu süre içerisinde en uygun birinci teklif sahibinin YEKA Sözleşmesi davetine icap etmemesi halinde teminatı irat kaydedilerek sırasıyla en uygun ikinci ve üçüncü teklif sahibine YEKA Sözleşmesine davet mektubu gönderilebilir. YEKA Sözleşmesine davet edilen teklif sahibinin süresi içerisinde YEKA Sözleşmesini imzalamaması halinde aynı şekilde işlem tesis edilir.\n\n(2) (Değişik:RG-5/10/2024-32683) YEKA Sözleşmesi imzalanmadan önce tüzel kişi; gerekli ticari kuruluşunu tamamlayarak Ticaret Sicil Gazetesini, tüzel kişilik adına düzenlenmiş teminat mektubunu ve Şartnamede istenilen belgeleri Genel Müdürlüğe sunar.\n\n(3) (Değişik:RG-5/10/2024-32683) Yarışmanın ortak girişim tarafından kazanılması halinde; ortak girişim üyeleri, YEKA Sözleşmesi imzalanmadan önce taahhüt ettikleri ve başvuruda sunulan ortaklık beyannamesine uygun olarak ticari kuruluşunu tamamlayarak Ticaret Sicil Gazetesini, tüzel kişilik adına düzenlenmiş teminat mektubunu ve Şartnamede istenilen belgeleri Genel Müdürlüğe sunar.\n\n(4) (Ek:RG-11/4/2017-30035) Teminata ilişkin diğer hususlar Şartnamede düzenlenir.",
+      "notes": [
+        "(Mülga ibare:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Ek:RG-11/4/2017-30035)"
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "madde",
+      "number": "12",
+      "label": "MADDE 12",
+      "heading": "Önlisans süreci",
+      "path": [
+        "DÖRDÜNCÜ BÖLÜM Lisans Süreci ve Elektrik Enerjisi Satışı"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-11/4/2017-30035) YEKA (Mülga ibare:RG-5/10/2024-32683) Sözleşmesi kapsamındaki YEKA’larda elektrik enerjisi üretim faaliyetinde bulunulabilmesi için önlisans ve üretim lisansı alınması zorunludur.\n\n(2) (Değişik:RG-9/12/2025-33102) Önlisans başvurusu yapmaya hak kazanan tüzel kişi ve bağlantı kapasitesi önlisans verilmek üzere EPDK’ya bildirilir. Bu tüzel kişi bildirim tarihinden itibaren 15 (on beş) iş günü içerisinde EPDK’ya önlisans başvurusu yapmak zorundadır.\n\n(3) (Mülga:RG-9/12/2025-33102)\n\n(4) (Değişik:RG-5/10/2024-32683) Önlisans başvuru tarihi veya süresi içerisinde başvuru yapılmadığı hususu EPDK tarafından Genel Müdürlüğe bildirilir. Süresi içerisinde önlisans başvurusu yapılmaması durumunda Bakanlık tarafından YEKA Sözleşmesi feshedilerek teminat irat kaydedilir. YEKA Sözleşmesi kapsamında tanınan bağlantı kapasitesi dahil tüm haklar sona erer. Şartname kapsamında YEKA Sözleşmesi imzalanan tüzel kişiden alınan bedeller (Ek ibare:RG-9/12/2025-33102) mücbir sebepler haricinde iade edilmez.\n\n(5) (Değişik:RG-5/10/2024-32683) EPDK tarafından yapılan değerlendirmeler sonucunda başvuru sahibinin başvuru evraklarında varsa eksiklikleri tespit edilerek (Değişik ibare:RG-9/12/2025-33102) Elektrik Piyasası Lisans Yönetmeliği hükümlerine göre verilecek süre içerisinde bu eksiklikleri tamamlatılarak önlisans verilir. Eksikliklerin süresi içerisinde giderilmemesi halinde, Bakanlık tarafından YEKA Sözleşmesi feshedilerek teminat irat kaydedilir.\n\n(6) (Değişik:RG-31/12/2019-30995 4.Mükerrer) Şartnamede belirtilen önlisans süresi içerisinde Elektrik Piyasası Lisans Yönetmeliği kapsamında gereken iş ve işlemler ile gerekli izinler tamamlanarak üretim lisansı başvurusunda bulunulur. Önlisans sahibi tüzel kişi Bakanlık tarafından ilan edilen YEKA’da tamamlanmamış olan iş ve işlemleri bu süreçte tamamlamakla yükümlüdür. Süresi içerisinde lisans başvurusunda bulunulmaması halinde şartnamede belirlenen müeyyideler uygulanır.\n\n(7) (Değişik:RG-5/10/2024-32683) Elektrik enerjisi üretim tesisinde kullanılacak yerli aksamın özellikleri ile üretimi ve/veya kullanımı ile ilgili hususlar Şartnamede belirlenir ve bu kapsamda Şartnamede istenen belgeler Genel Müdürlüğe sunulur.\n\n(8) (Değişik:RG-5/10/2024-32683) İlgili belgelerin süresi içerisinde sunulmaması halinde Bakanlık tarafından YEKA Sözleşmesi feshedilerek teminat irat kaydedilir.\n\n(9) (Mülga:RG-5/10/2024-32683)\n\n(10) (Mülga:RG-5/10/2024-32683)\n\n(11) (Mülga:RG-5/10/2024-32683)\n\n(12) (Değişik:RG-5/10/2024-32683) Elektrik enerjisi üretim tesisinin kurulumuna ait Genel Müdürlüğe sunulan detaylı iş programı çerçevesinde üçüncü taraf gözetim hizmeti, önlisans sahibi tüzel kişi tarafından Şartnamede belirlenen koşullarda alınır.\n\n(13) İş programlarında, ayrı ayrı ve toplamda Şartnamede belirtilen süreleri aşmamak kaydıyla, Genel Müdürlük Onayıyla değişiklik yapılabilir.\n\n(14) (Mülga:RG-11/4/2017-30035)",
+      "notes": [
+        "(Değişik:RG-11/4/2017-30035)",
+        "(Mülga ibare:RG-5/10/2024-32683)",
+        "(Değişik:RG-9/12/2025-33102)",
+        "(Mülga:RG-9/12/2025-33102)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Ek ibare:RG-9/12/2025-33102)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik ibare:RG-9/12/2025-33102)",
+        "(Değişik:RG-31/12/2019-30995 4.Mükerrer)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Mülga:RG-5/10/2024-32683)",
+        "(Mülga:RG-5/10/2024-32683)",
+        "(Mülga:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Mülga:RG-11/4/2017-30035)"
+      ]
+    },
+    {
+      "order": 13,
+      "kind": "madde",
+      "number": "13",
+      "label": "MADDE 13",
+      "heading": "Lisans süreci",
+      "path": [
+        "DÖRDÜNCÜ BÖLÜM Lisans Süreci ve Elektrik Enerjisi Satışı"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-11/4/2017-30035) (Değişik birinci cümle:RG-5/10/2024-32683) Elektrik Piyasası Lisans Yönetmeliği ve Şartnamede belirtilen yükümlülüklerin yerine getirilmesi durumunda önlisans sahibi tüzel kişiler EPDK’ya lisans başvurusunda bulunur. EPDK, lisans başvuru evraklarının yanı sıra Genel Müdürlük tarafından lisans almasına dair uygunluk yazısı ile lisans işlemlerini devam ettirir. Genel Müdürlük uygunluk yazısını, 12 nci maddenin yedinci fıkrasındaki gerekliliklerin yerine getirilmesi ve AR-GE Planlarına uyumlu hareket edildiğinin belirlenmesi halinde düzenler.\n\n(2) (Mülga:RG-5/10/2024-32683)\n\n(3) (Değişik:RG-5/10/2024-32683) YEKA’da taahhüt edilen yerli malı aksamın tesisin kabul aşamasında kullanılmadığının tespiti halinde, ilgili ünitenin kabulü yapılmaz ve lisans sahibi tüzel kişiye Şartnameye uygun yerli malı kullanması yönünde yazılı ihtarda bulunulur. Bu olumsuzluğun ihtarnamede belirtilen süre içerisinde giderilmemesi ve taahhüdün yerine getirilmemesi durumunda, YEKA Sözleşmesi feshedilerek teminat irat kaydedilir, genel hükümlere göre tasfiye işlemleri başlatılır ve EPDK’ya üretim lisansının iptali için bildirimde bulunulur.\n\n(4) (Değişik:RG-5/10/2024-32683) YEKA’lar için alınacak lisansların süresi ve kurulacak elektrik enerjisi üretim tesisinin inşaat süresi Şartnamede belirlenir.\n\n(5) (Mülga:RG-5/10/2024-32683)\n\n(6) (Mülga:RG-11/4/2017-30035)",
+      "notes": [
+        "(Değişik:RG-11/4/2017-30035)",
+        "(Değişik birinci cümle:RG-5/10/2024-32683)",
+        "(Mülga:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Mülga:RG-5/10/2024-32683)",
+        "(Mülga:RG-11/4/2017-30035)"
+      ]
+    },
+    {
+      "order": 14,
+      "kind": "madde",
+      "number": "14",
+      "label": "MADDE 14",
+      "heading": "Elektrik enerjisi satışı",
+      "path": [
+        "DÖRDÜNCÜ BÖLÜM Lisans Süreci ve Elektrik Enerjisi Satışı"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-11/4/2017-30035) YEKA’larda üretilen elektrik enerjisi, Şartnamede belirtilen süre boyunca ve YEKA Kullanım Hakkı Sözleşmesinde yer alan fiyat üzerinden, Yenilenebilir Enerji Kaynaklarını Destekleme Mekanizması (YEKDEM) kapsamında değerlendirilir. 17 nci maddede belirtilen sebepler haricinde süre uzatımı yapılmaz. Herhangi bir nedenle fiyat artışı yapılmaz.\n\n(2) (Değişik:RG-5/10/2024-32683) Alım süresi/miktarı Şartnamede belirlenen tarihten itibaren başlar. YEKA kapsamında üretilen elektrik enerjisi, elektrik enerjisi üretim tesisinin kısmen işletmeye girdiği tarihten itibaren müracaat gerekmeksizin YEKDEM kapsamında değerlendirilir.\n\n(3) (Değişik:RG-5/10/2024-32683) YEKA Sözleşmesinde belirlenen alım süresi sonunda üretim lisansı kapsamında piyasa faaliyetinde bulunulur.\n\n(4) (Değişik:RG-5/10/2024-32683) YEKA Sözleşmesi kapsamında 5346 sayılı Kanun kapsamında yerli ürün desteği uygulanmaz. Kullanılması zorunlu olan yerli aksam haricinde kullanılacak aksam için uygulanabilecek ilave yerli ürün desteği Şartnamede belirlenir.",
+      "notes": [
+        "(Değişik:RG-11/4/2017-30035)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)"
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "madde",
+      "number": "15",
+      "label": "MADDE 15",
+      "heading": "AR-GE faaliyetleri",
+      "path": [
+        "BEŞİNCİ BÖLÜM AR-GE ve Sertifikasyon"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-5/10/2024-32683) Şartnamede AR-GE yapılmasının öngörülmesi halinde; 5746 sayılı Kanun kapsamında ve Şartnamede belirlenen koşullarda Yıllık AR-GE Planı çerçevesinde AR-GE faaliyetleri gerçekleştirilir.\n\n(2) AR-GE faaliyetlerinin uygulama ve denetimi 5746 sayılı Kanun kapsamında görevlendirilen kurum/kuruluşlarca yapılır. İlgili kurum/kuruluşlar AR-GE faaliyetlerinin uygulama ve denetim sonuçlarını yılda bir defa Bakanlığa sunar.\n\n(3) AR-GE faaliyetlerine, YEKA (Mülga ibare:RG-5/10/2024-32683) Sözleşmesinin imzalanmasını müteakip Şartnamede verilen süre içerisinde AR-GE merkezi kurulumu tamamlanarak başlanır. AR-GE merkezi faaliyetleri Şartnamede belirtilen süreden az olmamak kaydıyla sunulmuş olan AR-GE planlamasına uygun olarak devam ettirilir. AR-GE faaliyetlerinin plana uygun yürütülmemesi halinde yıllık olarak sunulan uygulama ve denetim raporu ile AR-GE planında yer alan hedeflere ulaşma durumu dikkate alınarak, AR-GE faaliyetlerinin yürütülmediğinin veya etkin olarak sürdürülmediğinin anlaşılması halinde uygulanacak müeyyide Şartnamede belirtilir.",
+      "notes": [
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Mülga ibare:RG-5/10/2024-32683)"
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "madde",
+      "number": "16",
+      "label": "MADDE 16",
+      "heading": "Pay devri",
+      "path": [
+        "BEŞİNCİ BÖLÜM AR-GE ve Sertifikasyon"
+      ],
+      "repealed": false,
+      "text": "(Başlığı ile Birlikte Değişik:RG-9/12/2025-33102)\n\n(1) Yarışmayı kazananın doğrudan ortaklık yapısı değişiklikleri elektrik enerjisi üretim tesisinin tamamı işletmeye alınıncaya kadar Bakan Onayına tabidir. Elektrik enerjisi üretim tesisinin tamamı işletmeye alındıktan sonra yapılacak doğrudan ortaklık yapısı değişiklikleri için Bakanlığa bildirim yapılması yeterlidir.",
+      "notes": [
+        "(Başlığı ile Birlikte Değişik:RG-9/12/2025-33102)"
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "madde",
+      "number": "17",
+      "label": "MADDE 17",
+      "heading": "Mücbir sebepler",
+      "path": [
+        "BEŞİNCİ BÖLÜM AR-GE ve Sertifikasyon"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-11/4/2017-30035) Bu Yönetmelik kapsamında yürütülen iş ve işlemlerin, YEKA (Mülga ibare:RG-5/10/2024-32683) Sözleşmesinde belirlenen sürelerde tamamlanmaması durumunda, bu Yönetmelikte ve Şartnamede belirtilen cezalar uygulanır.\n\n(2) Mücbir sebepler nedeniyle süre uzatımı verilebilecek haller bunlarla sınırlı olmamak kaydıyla aşağıda sayılmıştır:\n\na) Doğal afetler.\n\nb) Kanuni grev.\n\nc) Genel salgın hastalık.\n\nç) Kısmi veya genel seferberlik ilanı.\n\nd) Yangın ve sabotaj halleri.\n\n(3) İkinci fıkrada belirtilen hallerin mücbir sebep olarak kabul edilmesi ve YEKA (Mülga ibare:RG-5/10/2024-32683) Sözleşmesi imzalanan tüzel kişiye süre uzatımı verilebilmesi için, mücbir sebep olarak kabul edilecek durumun;\n\na) Tüzel kişinin kusurundan kaynaklanmamış olması,\n\nb) Taahhüdün yerine getirilmesine engel nitelikte olması,\n\nc) Tüzel kişinin bu engeli ortadan kaldırmaya gücünün yetmemesi,\n\nç) (Değişik:RG-5/10/2024-32683) YEKA Sözleşmesi imzalanan tüzel kişinin Genel Müdürlüğe yazılı olarak bildirimde bulunması,\n\nd) Yetkili merciler tarafından belgelendirilmesi,\n\nzorunludur.\n\n(4) Tüzel kişinin mücbir sebep bildiriminde;\n\na) Mücbir sebebin başlama tarihini ve mahiyetini,\n\nb) İlgili mevzuat kapsamındaki yükümlülüklerine olan etkilerini,\n\nc) Mümkün olması halinde etkilerin tahmini giderilme süresini,\n\nyazılı olarak bildirmesi zorunludur.\n\n(5) Mücbir sebeplerin vukuu bulduğunun teyidi ile bu çerçevede meydana gelen gecikme süresi iş programına ve toplam süreye eklenir. Mücbir sebepler çerçevesinde süre uzatımı toplamda 1 (bir) yılı geçemez.\n\n(6) (Mülga:RG-5/10/2024-32683)\n\n(7) Genel Müdürlüğün, YEKA (Mülga ibare:RG-5/10/2024-32683) Sözleşmesinin ifasına ilişkin yükümlülüklerini tüzel kişinin kusuru olmaksızın yerine getirmemesi (Mülga ibare:RG-5/10/2024-32683) ve bu sebeple sorumluluğu tüzel kişiye ait olmayan gecikmelerin meydana gelmesi, bu durumun taahhüdün yerine getirilmesine engel nitelikte olması ve tüzel kişinin bu engeli ortadan kaldırmaya gücünün yetmemiş olması halinde, işi engelleyici sebeplere ve yapılacak işlerin niteliğine göre, işin bir kısmına veya tamamına ait süre en az gecikilen süre kadar uzatılır.\n\n(8) YEKA (Mülga ibare:RG-5/10/2024-32683) Sözleşmesini imzalayan taraflarca mücbir sebep çerçevesinde yaşanan gecikmenin 1 (bir) yıldan fazla sürmesi veya 1 (bir) yıl içerisinde giderilemeyeceğinin anlaşılması halinde bu durumun yetkili mercilerce belgelendirilmesi ile Genel Müdürlüğün YEKA (Mülga ibare:RG-5/10/2024-32683) Sözleşmesini feshederek sonlandırma hakkı mevcuttur. Bu durumda teminat mektubu iade edilir. Tüzel kişi bu durumda zarar, ziyan ve benzeri ad altında herhangi bir talepte bulunamaz.",
+      "notes": [
+        "(Değişik:RG-11/4/2017-30035)",
+        "(Mülga ibare:RG-5/10/2024-32683)",
+        "(Mülga ibare:RG-5/10/2024-32683)",
+        "(Değişik:RG-5/10/2024-32683)",
+        "(Mülga:RG-5/10/2024-32683)",
+        "(Mülga ibare:RG-5/10/2024-32683)",
+        "(Mülga ibare:RG-5/10/2024-32683)",
+        "(Mülga ibare:RG-5/10/2024-32683)",
+        "(Mülga ibare:RG-5/10/2024-32683)"
+      ]
+    },
+    {
+      "order": 18,
+      "kind": "madde",
+      "number": "18",
+      "label": "MADDE 18",
+      "heading": "YEKA’ ların korunması ve kullanılması",
+      "path": [
+        "ALTINCI BÖLÜM YEKA’ların Korunması ve Altyapı Yatırımları"
+      ],
+      "repealed": false,
+      "text": "(1) YEKA’nın korunmasına ilişkin aşağıda yer alan usul ve esaslara uyulur:\n\na) YEKA’da kullanılacak kaynağın doğallığının muhafaza edilmesi ve devamlılığının sağlanması esastır.\n\nb) Bu Yönetmelik kapsamında belirlenerek Resmî Gazete’de ilan edilen alanlardaki yenilenebilir enerji kaynağının karakteristik değerlerini değiştirebilecek her türlü proje ve planların hazırlık safhasında Genel Müdürlüğün görüşünün alınması zorunludur.\n\nc) YEKA’da ulusal güvenlik ile ilgili haller dışında bu kaynaktan yararlanmayı engelleyici nitelikte işlem tesis edilemez. Ancak, YEKA olarak ilan edilen alanların korunmasına yönelik alanın ekolojik, fiziki ve teknik özelliklerine göre talep edilebilecek ek tedbirler (Değişik ibare:RG-5/10/2024-32683) Genel Müdürlüğün uygun görüşü alınarak uygulanabilir.\n\nYEKA’dan azami derecede yararlanabilmek için gerekli altyapının geliştirilmesine yönelik kurum ve kuruluşların sorumluluklarına ilişkin esas ve ilkeler",
+      "notes": [
+        "(Değişik ibare:RG-5/10/2024-32683)"
+      ]
+    },
+    {
+      "order": 19,
+      "kind": "madde",
+      "number": "19",
+      "label": "MADDE 19",
+      "heading": null,
+      "path": [
+        "ALTINCI BÖLÜM YEKA’ların Korunması ve Altyapı Yatırımları"
+      ],
+      "repealed": false,
+      "text": "(1) YEKA’lardan verimli ve etkin bir şekilde yararlanılabilmesi için ilgili kurum ve kuruluşlar tarafından aşağıda belirtilen esas ve ilkelere azami derecede uyulur:\n\na) Genel Müdürlük; YEKA’da optimum büyüklüklerde kaynağa göre parselleri ve kurulu güçleri belirler, gerekli ölçüm ve fizibilite çalışmalarını yapar/yaptırır.\n\nb) Arazi izinlerinin alınmasında yöntem ve süreçleri azaltıcı yönde çalışmalar yapar.\n\nc) YEKA’larda kurulacak elektrik enerjisi üretim tesisleri için gerekli enerji iletim tesisleri TEİAŞ tarafından elektrik enerjisi üretim tesisleri ünitelerinin işletmeye giriş programına uygun olarak yapılır.\n\nç) Genel Müdürlük YEKA’nın ulaşım altyapısının iyileştirilmesi yönünde girişimlerde bulunur.",
+      "notes": []
+    },
+    {
+      "order": 20,
+      "kind": "madde",
+      "number": "20",
+      "label": "MADDE 20",
+      "heading": "Yürürlükten kaldırılan yönetmelik",
+      "path": [
+        "ALTINCI BÖLÜM YEKA’ların Korunması ve Altyapı Yatırımları"
+      ],
+      "repealed": false,
+      "text": "(1) 27/11/2013 tarihli ve 28834 sayılı Resmî Gazete’de yayımlanan Elektrik Enerjisi Üretimine Yönelik Yenilenebilir Enerji Kaynak Alanlarının Belirlenmesi, Derecelendirilmesi, Korunması ve Kullanılmasına İlişkin Usul ve Esaslara Dair Yönetmelik yürürlükten kaldırılmıştır.",
+      "notes": []
+    },
+    {
+      "order": 21,
+      "kind": "madde",
+      "number": "21",
+      "label": "MADDE 21",
+      "heading": "Yürürlük",
+      "path": [
+        "ALTINCI BÖLÜM YEKA’ların Korunması ve Altyapı Yatırımları"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "notes": []
+    },
+    {
+      "order": 22,
+      "kind": "madde",
+      "number": "22",
+      "label": "MADDE 22",
+      "heading": "Yürütme",
+      "path": [
+        "ALTINCI BÖLÜM YEKA’ların Korunması ve Altyapı Yatırımları"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik hükümlerini Enerji ve Tabii Kaynaklar Bakanı yürütür.",
+      "notes": []
+    }
+  ]
+}

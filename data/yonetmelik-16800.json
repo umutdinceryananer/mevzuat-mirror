@@ -1,0 +1,769 @@
+{
+  "id": "yonetmelik-16800",
+  "type": "yonetmelik",
+  "number": "16800",
+  "title": "Anonim Şirketlerin Genel Kurul Toplantılarının Usul ve Esasları ile Bu Toplantılarda Bulunacak Bakanlık Temsilcileri Hakkında Yönetmelik",
+  "short_names": [
+    "Genel Kurul Yönetmeliği"
+  ],
+  "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16800&MevzuatTur=7&MevzuatTertip=5",
+  "accepted_at": null,
+  "official_gazette": {
+    "date": "2012-11-28",
+    "number": "28481"
+  },
+  "downloaded_at": "2026-11-11",
+  "latest_amendment_seen": "2021-05-29",
+  "converter_version": "0.1.0",
+  "articles": [
+    {
+      "order": 1,
+      "kind": "madde",
+      "number": "1",
+      "label": "MADDE 1",
+      "heading": "Amaç",
+      "path": [
+        "BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmeliğin amacı; anonim şirketlerin genel kurul toplantılarının Kanuna, ilgili mevzuata, şirket esas sözleşmesine ve iç yönergeye uygun olarak yapılmasının sağlanması, şirketlerin genel kurul çalışmalarının esas ve usullerine ilişkin kuralları içeren iç yönergede bulunacak asgari unsurların belirlenmesi, anonim şirketlerde kendisine pay ve pay senedi tevdi edilen kişilerin bu pay ve pay senedinden doğan genel kurul toplantısına katılma ve oy hakkının kullanılmasına ilişkin usul ve esasları düzenlemektir.",
+      "notes": []
+    },
+    {
+      "order": 2,
+      "kind": "madde",
+      "number": "2",
+      "label": "MADDE 2",
+      "heading": "Kapsam",
+      "path": [
+        "BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik; bakanlık temsilcisinin bulunması zorunlu olan anonim şirket genel kurul toplantılarının belirlenmesini, anonim şirket genel kurul toplantılarında uygulanacak usul ve esasları ve toplantılarda bulunacak Bakanlık temsilcilerinin görev, yetki ve nitelikleri ile bunlara yapılacak ödemeleri, şirketlerin genel kurul çalışmalarının esas ve usullerine ilişkin kuralları içeren iç yönergede bulunacak asgari unsurları, genel kurula katılma ve oy kullanma hakkını kullanacak olan pay veya pay senetlerinin tevdi edildiği kişiler, tevdi edilen kişilerin bağlı oldukları esas ve usuller ile temsil belgesinin içeriğini kapsar.",
+      "notes": []
+    },
+    {
+      "order": 3,
+      "kind": "madde",
+      "number": "3",
+      "label": "MADDE 3",
+      "heading": "Dayanak",
+      "path": [
+        "BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununa dayanılarak hazırlanmıştır.",
+      "notes": []
+    },
+    {
+      "order": 4,
+      "kind": "madde",
+      "number": "4",
+      "label": "MADDE 4",
+      "heading": "Tanımlar",
+      "path": [
+        "BİRİNCİ BÖLÜM Amaç, Kapsam, Dayanak ve Tanımlar"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmeliğin uygulanmasında;\n\na) Bakanlık: (Mülga ibare:RG-9/10/2020-31269) (…) Ticaret Bakanlığını,\n\nb) Bakanlık Temsilcisi: Şirketlerin genel kurul toplantılarına katılmak üzere bu Yönetmelik hükümlerine göre görevlendirilen memuru,\n\nc) Elektronik Genel Kurul Sistemi (EGKS): Genel kurullara elektronik ortamda katılmayı teminen (Değişik ibare:RG-9/10/2020-31269) 6/12/2012 tarihli ve 6362 sayılı Sermaye Piyasası Kanununun 13 üncü maddesi uyarınca payları Merkezi Kayıt Kuruluşu tarafından kayden izlenen borsaya kote şirketler için Merkezi Kayıt Kuruluşu tarafından sağlanacak elektronik platformu ve diğer şirketlerin 6102 sayılı Türk Ticaret Kanununun 1527 nci maddesinin üçüncü fıkrası uyarınca kuracakları veya destek hizmeti alabilecekleri bilişim sistemini,\n\nç) Elektronik Ortamda Katılma: Anonim şirket genel kurul toplantılarına Elektronik Genel Kurul Sisteminden katılmayı, görüş açıklamayı, öneride bulunmayı ve oy kullanmayı,\n\nd) Genel Müdürlük: İç Ticaret Genel Müdürlüğünü,\n\ne) İç yönerge: Şirketlerin genel kurul çalışma esas ve usullerine ilişkin kuralları içeren düzenlemeyi,\n\nf) İl Müdürlüğü: (Değişik ibare:RG-9/10/2020-31269) Ticaret Bakanlığı Ticaret İl Müdürlüklerini,\n\ng) Kanun: 13/1/2011 tarihli ve 6102 sayılı Türk Ticaret Kanununu,\n\nğ) Mahkeme: Şirketin merkezinin bulunduğu Asliye Ticaret Mahkemesini,\n\nh) Şirket: Anonim şirketi,\n\nı) Tevdi eden: Sermaye Piyasası Kanununun (Değişik ibare:RG-9/10/2020-31269) 13 üncü maddesi uyarınca kayden izlenen payları veya pay senetlerini tevdi eden anonim şirket pay sahibini,\n\ni) Tevdi edilen: Kayden izlenen payları veya pay senetlerini, bunların sahipleri adına tevdi alan ve bu Yönetmeliğin 44 üncü maddesinde belirlenen kişi veya (Değişik ibare:RG-9/10/2020-31269) kurumları,\n\nj) (Ek:RG-9/10/2020-31269) Merkezi Sicil Kayıt Sistemi (MERSİS): Ticaret sicili işlemlerinin elektronik ortamda yürütüldüğü, ticaret sicili kayıtları ile tescil ve ilan edilmesi gereken içeriklerin düzenli olarak depolandığı ve elektronik ortamda sunulduğu, Ticaret Bakanlığı ile Türkiye Odalar ve Borsalar Birliği nezdinde oluşturulan ve işletilen merkezi ortak veri tabanını da içeren bilgi sistemini,\n\nifade eder.",
+      "notes": [
+        "(Mülga ibare:RG-9/10/2020-31269)",
+        "(Değişik ibare:RG-9/10/2020-31269)",
+        "(Değişik ibare:RG-9/10/2020-31269)",
+        "(Değişik ibare:RG-9/10/2020-31269)",
+        "(Değişik ibare:RG-9/10/2020-31269)",
+        "(Ek:RG-9/10/2020-31269)"
+      ]
+    },
+    {
+      "order": 5,
+      "kind": "madde",
+      "number": "5",
+      "label": "MADDE 5",
+      "heading": "Toplantı çeşitleri",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Şirketlerde aşağıda sayılan genel kurul toplantıları ve imtiyazlı pay sahipleri özel kurul toplantısı yapılır:\n\na) Olağan genel kurul toplantısı: Şirket organlarının seçimine, finansal tablolara, yönetim kurulunun yıllık faaliyet raporuna, kârın kullanım şekline, dağıtılacak kâr ve kazanç paylarının oranlarının belirlenmesine, yönetim kurulu üyelerinin ibraları ile faaliyet dönemlerini ilgilendiren ve gerekli görülen diğer konulara ilişkin müzakereler yapmak ve karar almak üzere her hesap dönemi için yapılan toplantılardır.\n\nb) Olağanüstü genel kurul toplantısı: Şirket için lüzumu halinde veya zorunlu ve ivedi sebepler çıktığı takdirde yapılan ve gündemini toplantı yapılmasını gerektiren sebeplerin oluşturduğu toplantılardır.\n\nc) İmtiyazlı pay sahipleri özel kurulu toplantısı: İmtiyazlı payların bulunduğu şirketlerde, genel kurulun imtiyazlı pay sahiplerinin haklarını sınırlayacak tarzda esas sözleşmeyi değiştirmeye karar vermesi halinde, Kanunun 454 üncü maddesine göre esas sözleşme değişikliği kararını onaylamak için sadece imtiyazlı pay sahiplerinin katılımıyla yapılan toplantılardır.\n\n(2) İmtiyazlı pay sahiplerinin haklarını ihlal edecek nitelikteki esas sözleşme değişikliğinin görüşüleceği genel kurul toplantısında, imtiyazlı payları temsil eden sermayenin en az yüzde altmışına sahip olan imtiyazlı pay sahiplerinin veya temsilcilerinin toplantıda hazır bulunmaları ve bunların çoğunluğunun genel kurulda esas sözleşme değişikliğine olumlu oy vermeleri halinde, ayrıca özel kurul toplantısı yapılmaz.",
+      "notes": []
+    },
+    {
+      "order": 6,
+      "kind": "madde",
+      "number": "6",
+      "label": "MADDE 6",
+      "heading": "Elektronik ortamda genel kurula katılma",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Elektronik ortamda genel kurul toplantısının yapılması ve karar alınması, 28/8/2012 tarihli ve 28395 sayılı Resmî Gazete’de yayımlanan Anonim Şirketlerde Elektronik Ortamda Yapılacak Genel Kurullara İlişkin Yönetmelik hükümlerine tabidir. Anılan Yönetmelikte hüküm bulunmayan hallerde bu Yönetmelik hükümleri kıyasen uygulanır.\n\n(2) Genel kurullara elektronik ortamda katılma, öneride bulunma, görüş açıklama ve oy verme, fizikî katılmanın ve oy vermenin bütün hukuki sonuçlarını doğurur.",
+      "notes": []
+    },
+    {
+      "order": 7,
+      "kind": "madde",
+      "number": "7",
+      "label": "MADDE 7",
+      "heading": "Toplantı zamanı",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Genel kurul toplantıları aşağıda belirtilen zamanlarda yapılır:\n\na) Olağan genel kurul toplantısı, her hesap dönemi sonundan itibaren üç ay içinde yapılır. Buna göre hesap dönemi takvim yılı olan şirketlerde toplantılar yılın ilk üç ayı içinde, özel hesap dönemi olan şirketlerde ise, hesap döneminin bittiği günü izleyen ilk üç ay içinde yapılır.\n\nb) Olağanüstü genel kurul toplantısı, şirket için toplantının yapılmasını gerektiren durumların ortaya çıktığı zamanlarda yapılır.\n\nc) İmtiyazlı pay sahipleri özel kurulu; imtiyazlı payların bulunduğu şirketlerde genel kurul tarafından imtiyazlı pay sahiplerinin haklarını ihlal edecek mahiyette esas sözleşme değişikliğine karar verilmesi halinde, anılan karar tarihinden itibaren en geç bir ay içinde toplantıya çağrılır. Bu süre sonuna kadar imtiyazlı pay sahipleri toplantıya çağrılmazsa, her imtiyazlı pay sahibi yönetim kurulunun çağrı süresinin son gününden başlamak üzere onbeş gün içinde, bu kurulun toplantıya çağrılmasını mahkemeden isteyebilir. Çağrıya rağmen süresi içinde imtiyazlı pay sahipleri özel kurulu toplanamazsa, genel kurul kararı onaylanmış sayılır.\n\n(2) Esas sözleşme değişikliği Bakanlık iznine tabi olan şirketlerde bu amaçla yapılacak genel kurul toplantıları, ancak bu izin alındıktan sonra yapılır.",
+      "notes": []
+    },
+    {
+      "order": 8,
+      "kind": "madde",
+      "number": "8",
+      "label": "MADDE 8",
+      "heading": "Toplantı yeri",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Genel kurul toplantıları, esas sözleşmede aksine hüküm olmadıkça, şirketin merkezinin bulunduğu mülki idare birimi sınırları içinde yapılır. Şirket merkezinin bulunduğu yerde toplantının hangi adreste yapılacağı esas sözleşmede özel olarak belirtilmemişse, bunu belirleme yetkisi toplantı çağrısı yapanlara aittir.\n\n(2) Toplantının, şirket merkezinin bulunduğu mülki idare birimi sınırları dışındaki başka bir yerde veya yurt dışında yapılabilmesi için bunun esas sözleşmede açıkça düzenlenmesi gerekir.\n\n(3) Çağrı ilanında; toplantı yerinin doğru, anlaşılır ve ayrıntılı biçimde belirtilmesi gerekir.",
+      "notes": []
+    },
+    {
+      "order": 9,
+      "kind": "madde",
+      "number": "9",
+      "label": "MADDE 9",
+      "heading": "Çağrıya yetkili olanlar",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Olağan ve olağanüstü genel kurullar ile imtiyazlı pay sahipleri özel kurulu, görev süresi sona ermiş olsa bile yönetim kurulu tarafından toplantıya çağrılır.\n\n(2) Yönetim kurulunun mevcut olmaması veya devamlı olarak toplanamaması yahut toplantı nisabının oluşmasına imkan bulunmaması halinde, Kanunun 410 uncu maddesinin ikinci fıkrasına göre, mahkemeden izin alan pay sahibi genel kurulu toplantıya çağırabilir.\n\n(3) Şirket sermayesinin en az onda birini, halka açık şirketlerde yirmide birini oluşturan veya esas sözleşmede öngörülmesi halinde daha az sayıdaki pay sahiplerince oluşturulan azlık pay sahipleri, yönetim kurulundan, gerektirici sebepleri ve gündemi belirterek, genel kurulun toplantıya çağrılmasını veya genel kurul zaten toplanacak ise, karara bağlanmasını istedikleri hususların gündeme konulmasını yazılı olarak noter aracılığıyla isteyebilirler. Gündeme madde konulması isteminin, çağrı ilanının Türkiye Ticaret Sicili Gazetesinde yayımlanmasına ilişkin ilan ücretinin yatırılması tarihinden önce yönetim kuruluna ulaşmış olması gerekir.\n\n(4) Azlık pay sahiplerinin, genel kurulun toplantıya çağrılmasına ilişkin yönetim kuruluna yaptıkları başvurunun kabul edilmesine rağmen kırkbeş gün içerisinde toplantı çağrısının yönetim kurulu tarafından yapılmaması halinde azlık pay sahipleri, genel kurulu toplantıya çağırabilir.\n\n(5) Azlık pay sahiplerinin, genel kurulun toplantıya çağrılmasına ilişkin talebinin yönetim kurulu tarafından reddedilmesi veya yedi iş günü içerisinde olumlu cevap verilmemesi üzerine Kanunun 412 nci maddesi gereğince mahkemece atanmış kayyım tarafından genel kurul toplantıya çağrılabilir.\n\n(6) Tasfiye halinde olan şirketlerde tasfiye memurları, görevleri ile ilgili konular için genel kurulu toplantıya çağırabilirler.\n\n(7) Süresi içerisinde yönetim kurulu tarafından toplantıya çağrılmaması üzerine, Kanunun 454 üncü maddesinin ikinci fıkrası uyarınca mahkeme tarafından yetkilendirilen imtiyazlı pay sahiplerinden her biri, imtiyazlı pay sahipleri özel kurulunu toplantıya çağırabilir.",
+      "notes": []
+    },
+    {
+      "order": 10,
+      "kind": "madde",
+      "number": "10",
+      "label": "MADDE 10",
+      "heading": "Çağrı usulü",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Genel kurul toplantıya, esas sözleşmede belirtilen şekilde, internet sitesi açmakla yükümlü olan şirketler internet sitelerinde ve her halde Türkiye Ticaret Sicili Gazetesinde yayımlanan ilan ile çağrılır. Çağrı, toplantıya elektronik ortamda katılma sistemini uygulayan şirketlerde elektronik genel kurul sisteminde de yapılır. Ayrıca, pay defterinde yazılı pay sahipleri ile önceden şirkete pay senedi veya pay sahipliğini ispatlayıcı belge vererek adresini bildiren pay sahiplerine, toplantı günü ile gündem ve ilanın çıktığı veya çıkacağı gazeteler iadeli taahhütlü mektupla bildirilir. (Değişik ibare:RG-9/10/2020-31269) 6362 sayılı Kanunun 29 uncu maddesinin ikinci fıkrası hükmü saklıdır.\n\n(2) Genel kurulun toplantıya çağrısı, ilan ve toplantı günleri hariç olmak üzere, toplantı tarihinden en az iki hafta önce yapılır.\n\n(3) Çağrısı yapılan ilk toplantıda nisabın temin edilememesi halinde, genel kurul aynı usulle yeniden toplantıya çağrılır. İlk toplantının ilan metnine, nisabın sağlanamaması halinde yapılacak ikinci toplantının çağrısına dair konulan hükümler geçersizdir.\n\n(4) Azlığın istemi üzerine, Kanunun 420 nci maddesinin birinci fıkrası uyarınca genel kurul toplantısının, toplantı başkanının kararıyla bir ay sonraya ertelenmesi halinde, erteleme kararı, Türkiye Ticaret Sicili Gazetesinde ilan edilir ve internet sitesi açmakla yükümlü olan şirketlerin internet sitelerinde karar tarihinden itibaren en geç beş gün içinde yayımlanır. Ertelenen genel kurul bir ay sonra yapılmak üzere, çağrı usulüne uyularak tekrar toplantıya çağrılır.",
+      "notes": [
+        "(Değişik ibare:RG-9/10/2020-31269)"
+      ]
+    },
+    {
+      "order": 11,
+      "kind": "madde",
+      "number": "11",
+      "label": "MADDE 11",
+      "heading": "İlanın içeriği",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Genel kurulun toplantıya çağrılmasına ilişkin ilanlarda ve pay sahiplerine gönderilecek mektuplarda;\n\na) Toplantı günü ve saati,\n\nb) Toplantı yeri,\n\nc) Gündem,\n\nç) Gündemde esas sözleşme değişikliği var ise değişen maddenin/maddelerin eski ve yeni şekilleri,\n\nd) Çağrının kimin tarafından yapıldığı,\n\ne) İlk toplantının herhangi bir nedenle ertelenmesi üzerine genel kurul yeniden toplantıya çağrılıyor ise, erteleme sebebi ile yapılacak toplantıda yeterli olan toplantı nisabı,\n\nf) Olağan toplantı ilanlarında; finansal tabloların, konsolide finansal tabloların, yönetim kurulu yıllık faaliyet raporunun, denetleme raporunun ve yönetim kurulunun kâr dağıtım önerisinin şirket merkez ve şube adresleri belirtilmek suretiyle anılan adreslerde pay sahiplerinin incelemesine hazır bulundurulduğu,\n\ng) (Mülga:RG-29/5/2021-31495)\n\nbelirtilir.\n\n(2) Yapılacak ilanda, genel kurul toplantısında kendisini vekil vasıtasıyla temsil ettirecekler için vekâletname örneklerine de yer verilir.",
+      "notes": [
+        "(Mülga:RG-29/5/2021-31495)"
+      ]
+    },
+    {
+      "order": 12,
+      "kind": "madde",
+      "number": "12",
+      "label": "MADDE 12",
+      "heading": "Çağrısız toplantı",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Bütün pay sahipleri veya temsilcileri, aralarından biri itirazda bulunmadığı takdirde, çağrı usulüne uyulmaksızın genel kurul olarak toplanabilir ve bu toplantı nisabı varolduğu sürece karar alabilirler. Genel kurul toplantılarının yapılmasına ilişkin hükümler saklıdır.",
+      "notes": []
+    },
+    {
+      "order": 13,
+      "kind": "madde",
+      "number": "13",
+      "label": "MADDE 13",
+      "heading": "Gündem",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Olağan genel kurul toplantısının gündeminde sırasıyla şu hususlar bulunur:\n\na) Açılış ve toplantı başkanlığının oluşturulması.\n\nb) Yönetim kurulunca hazırlanan yıllık faaliyet raporunun okunması ve müzakeresi.\n\nc) Denetçi raporlarının okunması.\n\nç) Finansal tabloların okunması, müzakeresi ve tasdiki.\n\nd) Yönetim kurulu üyelerinin ibrası.\n\ne) Kârın kullanım şeklinin, dağıtılacak kâr ve kazanç payları oranlarının belirlenmesi.\n\nf) Yönetim kurulu üyelerinin ücretleri ile huzur hakkı, ikramiye ve prim gibi hakların belirlenmesi.\n\ng) Faaliyet yılı içinde yönetim kurulu üyeliklerinde eksilme meydana gelmiş ve yönetim kurulunca atama yapılmış ise atamanın genel kurulca onaylanması.\n\nğ) Görev süreleri sona ermiş olan yönetim kurulu üyelerinin seçilmesi, şayet esas sözleşmede görev süreleri belirtilmemişse görev sürelerinin tespiti.\n\nh) Denetçinin seçimi.\n\nı) Lüzum görülecek sair hususlar.\n\n(2) Lüzum görülen sair hususlar gündeme açıkça yazılmalıdır. Görüşülecek konu önceden tespit edilip gündeme yazılmadan, “lüzum görülecek sair hususlar” şeklinde bir gündem maddesi belirlenemez.\n\n(3) Kanun ve esas sözleşme gereği genel kurulun yetkisinde olan ve olağanüstü genel kurul toplantı gündemini oluşturan her türlü konu, olağan genel kurul toplantı gündemine yazılabilir.\n\n(4) Azlığın süresi içinde müracaat etmesi halinde, görüşülmesini istediği konular yönetim kurulu tarafından gündeme alınır.\n\n(5) Yapılan denetim sonucunda veya herhangi bir sebeple Bakanlıkça, şirket genel kurulunda görüşülmesi istenen konuların gündeme konulması zorunludur.\n\n(6) Gündem, genel kurulu toplantıya çağıran tarafından belirlenir.",
+      "notes": []
+    },
+    {
+      "order": 14,
+      "kind": "madde",
+      "number": "14",
+      "label": "MADDE 14",
+      "heading": "Toplantı başkanlığı",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Esas sözleşmede aksine herhangi bir düzenleme yoksa toplantıyı yönetecek başkan ve gereğinde başkan yardımcısı genel kurul tarafından seçilir.\n\n(2) Toplantı başkanı, tutanak yazmanı ile gerek görürse oy toplama memurunu tayin ederek başkanlığı oluşturur. Ayrıca tutanak yazmanı ve oy toplama memuru seçilmemişse, bunlara ait görevler toplantı başkanı tarafından yerine getirilir. Elektronik Genel Kurul Sistemindeki teknik işlemlerin toplantı anında yerine getirilmesi için toplantı başkanı tarafından uzman kişiler de görevlendirilebilir. Tek pay sahipli şirketlerde (Değişik ibare:RG-9/10/2020-31269) başkanlık oluşturulması ile genel kurul toplantısına katılabilecekler listesinin hazırlanması zorunlu değildir.\n\n(3) (Ek:RG-27/10/2015-29515) Belirlenen toplantı başkanı öncelikle toplantıya katılım hakkı veren belgelerin mevzuata uygunluğunun yönetim organınca kontrol edilip edilmediğini tespit ederek, hazır bulunanlar listesini imzalar.",
+      "notes": [
+        "(Değişik ibare:RG-9/10/2020-31269)",
+        "(Ek:RG-27/10/2015-29515)"
+      ]
+    },
+    {
+      "order": 15,
+      "kind": "madde",
+      "number": "15",
+      "label": "MADDE 15",
+      "heading": "Toplantıda hazır bulundurulacak belgeler",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Genel kurul toplantı yerinde;\n\na) Şirketin esas sözleşmesi,\n\nb) Pay defteri,\n\nc) Toplantıya çağrının yapıldığını gösteren gazete ve diğer belgeler,\n\nç) Yönetim kurulunca hazırlanan yıllık faaliyet raporu,\n\nd) Denetçi raporu,\n\ne) Finansal tablolar,\n\nf) Gündem,\n\ng) Gündemde esas sözleşme değişikliği varsa, izne tabi şirketlerde Bakanlıktan alınan izin yazısı ve eki değişiklik tasarısı, diğer şirketlerde ise yönetim kurulunca hazırlanmış değişiklik tasarısı,\n\nğ) (Değişik:RG-29/5/2021-31495) Hazır bulunanlar listesi ile varsa hamiline yazılı pay sahiplerine ilişkin Merkezi Kayıt Kuruluşundan sağlanan pay sahipleri çizelgesi,\n\nh) Genel kurul erteleme üzerine toplantıya çağrılmışsa bir önceki toplantıya ilişkin toplantı tutanağı,\n\nfiziki ve/veya elektronik ortamda hazır bulundurulur.",
+      "notes": [
+        "(Değişik:RG-29/5/2021-31495)"
+      ]
+    },
+    {
+      "order": 16,
+      "kind": "madde",
+      "number": "16",
+      "label": "MADDE 16",
+      "heading": "Hazır bulunanlar listesi",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) (Değişik:RG-29/5/2021-31495) Genel kurul toplantısına katılabilecekler listesi; 6362 sayılı Kanunun 13 üncü maddesi uyarınca kayden izlenen paylar ile hamiline yazılı paylar bakımından Merkezi Kayıt Kuruluşundan sağlanan pay sahipleri çizelgesine, diğer paylardan senede bağlanmamış bulunan veya nama yazılı olan paylar ile ilmühaber sahipleri için pay defteri kayıtlarına göre yönetim kurulunca hazırlanır ve söz konusu liste yönetim kurulu başkanı veya başkanın yetkilendireceği yönetim kurulu üyelerinden biri tarafından imzalanır.\n\n(2) Genel kurul toplantısına katılabilecekler listesi, Ek-2’deki örneğe uygun olarak hazırlanır.\n\n(3) Yönetim kurulunca hazırlanan genel kurul toplantısına katılabilecekler listesi, toplantıda hazır bulunan pay sahipleri veya temsilcileri, toplantı başkanı ile Bakanlık temsilcisinin bulunma zorunluluğu olan toplantılarda Bakanlık temsilcisi tarafından imzalanır ve hazır bulunanlar listesi adını alır.",
+      "notes": [
+        "(Değişik:RG-29/5/2021-31495)"
+      ]
+    },
+    {
+      "order": 17,
+      "kind": "madde",
+      "number": "17",
+      "label": "MADDE 17",
+      "heading": "Toplantıda bulunma zorunluluğu",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Genel kurul toplantılarında murahhas üyeler ile en az bir yönetim kurulu üyesinin hazır bulunması şarttır. Diğer yönetim kurulu üyeleri de genel kurul toplantısına katılabilirler. Denetime tabi olan şirketlerin genel kurul toplantılarında denetçi de hazır bulunur.",
+      "notes": []
+    },
+    {
+      "order": 18,
+      "kind": "madde",
+      "number": "18",
+      "label": "MADDE 18",
+      "heading": "Toplantıya katılma hakkı",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Genel kurul toplantısına yönetim kurulu tarafından hazırlanan genel kurula katılabilecekler listesinde yer alan bütün pay sahiplerinin katılma hakkı vardır. Bu pay sahipleri genel kurul toplantılarına bizzat kendileri katılabileceği gibi üçüncü bir kişiyi de temsilcisi olarak genel kurula gönderebilir. Temsilcinin pay sahibi olması şartını öngören esas sözleşme hükmü geçersizdir.\n\n(2) Gerçek kişi pay sahipleri, genel kurula katılabilecekler listesini kimliklerini ibraz etmek suretiyle, tüzel kişi pay sahipleri ise tüzel kişiyi (Değişik ibare:RG-29/5/2021-31495) temsile yetkili olan kişilerin kimlikleriyle beraber yetki belgelerini ibraz etmek suretiyle imzalarlar. Gerçek veya tüzel kişi pay sahiplerini temsilen genel kurula katılacakların ayrıca temsil belgelerini de ibraz etmeleri zorunludur.\n\n(3) (Değişik:RG-29/5/2021-31495) Hamiline yazılı pay senedi sahipleri, Merkezi Kayıt Kuruluşundan sağlanan pay sahipleri çizelgesinde isim veya unvanları bulunmak ve hamiline yazılı pay senedine zilyet olduklarını genel kurul toplantısına katılabilecekler listesini imzalamadan önce yönetim kuruluna ispatlamak suretiyle genel kurul toplantısına katılabilirler.\n\n(4) Hamiline yazılı pay senedini, rehin, hapis hakkı, saklama sözleşmesi veya kullanım ödüncü sözleşmesi ve benzeri sözleşmeler sebebiyle elde bulunduran kimse, pay sahibi tarafından bu Yönetmelik hükümleri uyarınca yetkilendirilmişse genel kurula katılıp oy kullanabilir.\n\n(5) Bir payın üzerinde intifa hakkı bulunması halinde aksi kararlaştırılmamışsa genel kurula katılma ve oy hakkı intifa hakkı sahibi tarafından kullanılır. Bu durumda genel kurul toplantısına katılan kimse intifa hakkı sahibi olduğunu belgelendirmek zorundadır.\n\n(6) Bir pay birden çok kişinin ortak mülkiyetinde ise, bunlar ancak kendi içlerinden veya dışarıdan seçecekleri bir temsilci vasıtasıyla genel kurula katılıp oy kullanabilirler.\n\n(7) Halka açık olmayan şirketlerde gerek nama gerek hamiline yazılı pay senetleri sahiplerinin vekilleri vasıtasıyla toplantıda temsil edilebilmeleri için vekâletnamenin Ek-3’teki örneğe uygun olarak noter onaylı şekilde düzenlenmesi (Mülga ibare:RG-9/10/2020-31269) (…) gerekir. Elektronik Genel Kurul Sisteminden yapılan temsilci tayinlerine ilişkin olarak Anonim Şirketlerde Elektronik Ortamda Yapılacak Genel Kurullara İlişkin Yönetmelik hükümleri ve Sermaye Piyasası Kurulunun halka açık şirketlerde genel kurula vekâleten katılma ve oy kullanılmasına ilişkin düzenlemeleri saklıdır.\n\n(8) Her pay sahibinin genel kurulda sadece bir kişi tarafından temsil edilmesi esastır. Ancak birden fazla kişiye temsil yetkisinin verilmesi veya tüzel kişi pay sahiplerini (Değişik ibare:RG-29/5/2021-31495) temsile yetkili birden fazla kişinin genel kurula katılması durumlarında ise bunlardan ancak birisi tarafından oy kullanılabilir. Oy kullanmaya kimin yetkili olduğunun yetki belgesinde gösterilmesi şarttır. Bu fıkra hükmü Kanunun 429 uncu maddesi uyarınca payların birden fazla kişiye tevdi edildiği durumda her biri oy hakkı sahibi olan tevdi eden temsilcilerine uygulanmaz.\n\n(9) Pay sahiplerinin genel kurulda kanuni temsilciler vasıtasıyla temsil edilebilmesi bu durumun belgelendirilmesine bağlıdır.",
+      "notes": [
+        "(Değişik ibare:RG-29/5/2021-31495)",
+        "(Değişik:RG-29/5/2021-31495)",
+        "(Mülga ibare:RG-9/10/2020-31269)",
+        "(Değişik ibare:RG-29/5/2021-31495)"
+      ]
+    },
+    {
+      "order": 19,
+      "kind": "madde",
+      "number": "19",
+      "label": "MADDE 19",
+      "heading": "Oy hakkı ve kısıtlamaları",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Her pay sahibinin genel kurulda en az bir oy hakkı vardır. Pay sahipleri oy haklarını, paylarının toplam itibarî değeriyle orantılı olarak fiziki veya elektronik ortamda kullanırlar. Ancak her durumda oy hakkının doğabilmesi için, esas sözleşmede daha yüksek bir miktarın ödenmesi öngörülmüşse bunun, öngörülmemişse pay tutarının dörtte birine karşılık gelen miktarın ödenmesi şarttır.\n\n(2) Kanunun 479 uncu maddesinin birinci ve ikinci fıkraları uyarınca esas sözleşme ile paylara oy hakkında imtiyaz tanınmış ise;\n\na) Esas sözleşme değişikliğinde,\n\nb) Yönetim kurulunun ibrasında ve yönetim kurulu aleyhine sorumluluk davası açılmasında,\n\nimtiyazlı oy kullanılamaz.\n\n(3) Pay sahiplerinden hiçbiri; kendisi, eşi, alt ve üstsoyu veya bunların ortağı oldukları şahıs şirketleri ya da hâkimiyetleri altındaki sermaye şirketleri ile şirket arasındaki kişisel nitelikte bir işe veya işleme veya herhangi bir yargı kurumu ya da hakemdeki davaya ilişkin olan müzakerelerde oy kullanamaz.\n\n(4) Şirket yönetim kurulu üyeleriyle yönetimde görevli imza yetkisini haiz kişiler veya bunların temsilcileri, yönetim kurulu üyelerinin ibra edilmelerine ilişkin kararlarda kendilerine ait paylardan doğan oy haklarını kullanamaz. Ancak anılan kişiler, yönetim kurulu üyesi olmayan diğer pay sahiplerinin oy haklarını temsilen kullanabilirler.",
+      "notes": []
+    },
+    {
+      "order": 20,
+      "kind": "madde",
+      "number": "20",
+      "label": "MADDE 20",
+      "heading": "Oy kullanma şekli",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Özel mevzuatında, şirket esas sözleşmesinde, iç yönergede yer alan özel hükümler ve genel kurulda alınacak kararlar saklı kalmak kaydıyla, genel kurul toplantısında oylama açık ve el kaldırmak suretiyle yapılır.\n\n(2) Elektronik ortamda yapılan genel kurullarda oy kullanımına ilişkin hükümler saklıdır.",
+      "notes": []
+    },
+    {
+      "order": 21,
+      "kind": "madde",
+      "number": "21",
+      "label": "MADDE 21",
+      "heading": "Vekaletnamenin unsurları ve geçerlilik süresi",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Vekaletnamede; şirketin unvanı, ait olduğu genel kurul toplantısının tarihi, vekilin adı ve soyadı, pay sahibinin pay adedi ile adı ve soyadı veya unvanı ve imzasının bulunması şarttır. Bu bilgilerden herhangi biri bulunmayan özel veya genel vekâletnameler geçersizdir. Konuya ilişkin, Anonim Şirketlerde Elektronik Ortamda Yapılacak Genel Kurullara İlişkin Yönetmelik hükümleri ile Sermaye Piyasası Kurulunun düzenlemeleri saklıdır.\n\n(2) Vekaletnameler, ait olduğu genel kurul toplantısı ve yeni bir vekil atanmadığı sürece hukuken bunun devamı sayılan toplantılar için geçerlidir. Gündemin değiştirilmemesi kaydıyla, nisabın yokluğu, azlığın talebi veya genel kurulun kararıyla yahut herhangi bir nedenle toplantının ertelenmesi halinde yapılacak toplantılar hukuken önceki toplantının devamı sayılır.",
+      "notes": []
+    },
+    {
+      "order": 22,
+      "kind": "madde",
+      "number": "22",
+      "label": "MADDE 22",
+      "heading": "Toplantı ve karar nisapları",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Esas sözleşmede daha ağır bir nisap öngörülmemişse, aşağıdaki fıkralarda gösterilen konular dışındaki yapılacak genel kurullarda şirket sermayesinin en az dörtte birini temsil eden pay sahiplerinin veya temsilcilerinin hazır bulunmaları şarttır. Bu nisabın toplantı süresince korunması zorunludur. İlk toplantıda bu nisabın bulunmaması halinde, yapılacak ikinci toplantıda hazır bulunan pay sahiplerinin veya temsilcilerinin temsil ettikleri sermayenin miktarı ne olursa olsun müzakere yapmaya ve karar vermeye yetkilidir. Kararlar toplantıda hazır bulunanların oylarının çoğunluğu ile alınır.\n\n(2) Genel kurulda, şirket merkezinin yurtdışına taşınması, bilânço zararlarının kapatılması için yükümlülük ve ikincil yükümlülük kabul edilmesi hakkındaki kararlar sermayenin tümünü oluşturan pay sahiplerinin veya temsilcilerinin oy birliğiyle alınır. İlk toplantıda bu nisabın bulunmaması halinde, yapılacak ikinci toplantıda da aynı nisap aranır.\n\n(3) Şirketin işletme konusunun tamamen değiştirilmesine ilişkin esas sözleşme değişikliği kararları sermayenin en az yüzde yetmişbeşini oluşturan pay sahiplerinin veya temsilcilerinin olumlu oylarıyla alınır. İlk toplantıda bu nisabın bulunmaması halinde, yapılacak ikinci toplantıda da aynı nisap aranır.\n\n(4) Dokuzuncu fıkra hükümleri saklı kalmak kaydıyla, tür değiştirme kararı genel kurulda mevcut bulunan oyların üçte ikisi ile alınır. Ancak bu kararın geçerli olabilmesi için karar lehinde kullanılan oyların esas veya çıkarılmış sermayenin üçte ikisini temsil etmesi şarttır. Şirketin limited şirkete dönüştürülmesinde, ek ödeme veya kişisel edim yükümlülüğünün doğması halinde veya şirketin kooperatife dönüştürülmesinde, kararlar tüm pay sahiplerinin oybirliği ile alınır. İlk toplantıda bu nisapların bulunmaması halinde, yapılacak ikinci toplantıda da aynı nisaplar aranır.\n\n(5) Bölünme kararı genel kurulda mevcut bulunan oyların dörtte üçü ile alınır. Ancak bu kararın geçerli olabilmesi için karar lehinde kullanılan oyların esas veya çıkarılmış sermayenin çoğunluğunu temsil etmesi şarttır. Bölünme sonucunda, devreden şirketteki mevcut pay oranının değişmesi halinde devreden şirketin bölünme kararı, oy hakkını haiz pay sahiplerinin en az yüzde doksanıyla alınır. İlk toplantıda bu nisapların bulunmaması halinde, yapılacak ikinci toplantıda da aynı nisaplar aranır.\n\n(6) Birleşme kararı genel kurulda mevcut bulunan oyların dörtte üçü ile alınır. Ancak bu kararın geçerli olabilmesi için, karar lehinde kullanılan oyların esas veya çıkarılmış sermayenin çoğunluğunu temsil etmesi şarttır. Ancak, birleşme sözleşmesinde bir ayrılma akçesi öngörülüyorsa, birleşme sözleşmesinin oy hakkını haiz pay sahiplerinin en az yüzde doksanının olumlu oyuyla onaylanması şarttır. Birleşme nedeniyle şirketin işletme konusunun tamamen değişmesi halinde, bu maddenin üçüncü fıkrasında öngörülen nisapla; işletme konusunda kısmi değişiklik öngörülmesi halinde ise bu maddenin onbeşinci fıkrasında öngörülen nisapla karar alınır. İlk toplantıda bu nisapların bulunmaması halinde, yapılacak ikinci toplantıda da aynı nisaplar aranır.\n\n(7) Şirket sermayesinin azaltılmasına ilişkin esas sözleşme değişikliği kararları, sermayenin en az yüzde yetmişbeşini oluşturan pay sahiplerinin veya temsilcilerinin olumlu oylarıyla alınır. İlk toplantıda bu nisabın bulunmaması halinde, yapılacak ikinci toplantıda da aynı nisap aranır.\n\n(8) İmtiyazlı pay oluşturulması ve nama yazılı payların devrinin sınırlandırılmasına ilişkin esas sözleşme değişiklikleri kararı, toplam sermayenin yüzde yetmişbeşini temsil eden pay sahiplerinin veya temsilcilerinin olumlu oylarıyla alınır. İlk toplantıda bu nisabın bulunmaması halinde yapılacak ikinci toplantıda da aynı nisap aranır.\n\n(9) Pay senetleri menkul kıymet borsalarında işlem gören şirketlerde, sermayenin artırılması ve kayıtlı sermaye tavanının yükseltilmesine ilişkin esas sözleşme değişiklikleri ile birleşmeye, bölünmeye ve tür değiştirmeye ilişkin kararların görüşüleceği genel kurullarda, esas sözleşmede daha ağır bir nisap öngörülmemişse, şirket sermayesinin en az dörtte birini oluşturan pay sahiplerinin veya temsilcilerinin hazır bulunmaları ve bu nisabın toplantı süresince korunması şarttır. İlk toplantıda bu nisabın bulunmaması halinde yapılacak ikinci toplantıda hazır bulunan pay sahipleri, sahip oldukları payların miktarı ne olursa olsun müzakere yapmaya ve karar vermeye yetkilidir. Kararlar toplantıda hazır bulunanların oylarının çoğunluğu ile alınır.\n\n(10) Şirketin tasfiyesi kararı, toplam sermayenin yüzde yetmişbeşini temsil eden pay sahiplerinin veya temsilcilerinin olumlu oylarıyla alınır. İlk toplantıda bu nisabın bulunmaması halinde yapılacak ikinci toplantıda da aynı nisap aranır.\n\n(11) Özel kanun hükümleri saklı kalmak kaydıyla, esas sözleşmede aksi düzenlenmedikçe, her çeşidi ile tahviller, finansman bonoları, varlığa dayalı senetler, iskonto esası üzerine düzenlenenler de dâhil diğer borçlanma senetleri, alma ve değiştirme hakkını haiz senetler ile her çeşit menkul kıymetlerin ihracı veya bu hususta yönetim kuruluna yetki verilmesi ile ilgili genel kurul kararları, sermayenin en az yüzde yetmişbeşini oluşturan pay sahiplerinin veya temsilcilerinin olumlu oylarıyla alınır. İlk toplantıda bu nisabın bulunmaması halinde yapılacak ikinci toplantıda da aynı nisaplar aranır.\n\n(12) Genel kurul toplantısında, önemli miktarda şirket aktiflerinin toptan satışı kararı, şirket sermayesinin en az yüzde yetmişbeşini oluşturan pay sahiplerinin olumlu oylarıyla alınır. İlk toplantıda bu nisabın bulunmaması halinde, yapılacak ikinci toplantıda da aynı nisaplar aranır.\n\n(13) İmtiyazlı pay sahipleri özel kurul toplantısında, imtiyazlı payları temsil eden sermayenin en az yüzde altmışına sahip pay sahiplerinin veya temsilcilerinin hazır bulunmaları şarttır. Kararlar, toplantıda temsil edilen payların çoğunluğu ile alınır.\n\n(14) Şirket süresinin dolmasıyla veya genel kurul kararıyla tasfiyeye girmiş şirketlerde, tasfiyeden dönülmesi kararı, şirket sermayesinin en az yüzde altmışını oluşturan pay sahiplerinin olumlu oylarıyla alınır. Bu kararın alınabilmesi için şirket malvarlığının dağıtımına başlanmamış olmalıdır.\n\n(15) Bu maddede düzenlenen hususlar dışındaki esas sözleşme değişikliklerinin görüşüleceği genel kurul toplantılarında, şirket sermayesinin yarısını temsil eden pay sahiplerinin hazır bulunmaları şarttır. İlk toplantıda bu nisabın bulunmaması halinde, en geç bir ay içinde yapılacak ikinci toplantıda şirket sermayesinin en az üçte birini oluşturan pay sahiplerinin hazır bulunmaları yeterlidir. Kararlar toplantıda hazır bulunanların oylarının çoğunluğu ile alınır.\n\n(16) Bu maddenin 3 ila 15 inci fıkralarında gösterilen hususlarda, genel kurulda karar alınabilmesi için esas sözleşmede daha ağır nisaplar öngörülebilir. Bu durumda söz konusu toplantılarda esas sözleşmedeki nisaplara göre karar alınır.",
+      "notes": []
+    },
+    {
+      "order": 23,
+      "kind": "madde",
+      "number": "23",
+      "label": "MADDE 23",
+      "heading": "Toplantının açılması ve yönetimi",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Çağrısı yönetim kurulu tarafından yapılan toplantılar, iç yönergede yapılan belirlemeye uygun olarak, çağrısı yönetim kurulu dışındaki yetkililer tarafından yapılan toplantılar ise iç yönergede bu konuda belirleme yapılmamışsa bu yetkililer tarafından fiziki ve elektronik ortamda açılır.\n\n(2) Genel kurul, açılışı müteakip bu Yönetmeliğin 14 üncü maddesi uyarınca oluşturulacak toplantı başkanlığı tarafından yönetilir.\n\n(3) Bakanlık temsilcisinin bulunması zorunlu olan toplantılarda bakanlık temsilcisinin, diğer toplantılarda ise toplantı başkanının; şirket esas sözleşmesi ve iç yönergesi ile Kanun ve diğer ilgili mevzuatta öngörülen hususların yerine getirildiğini ve gerekli nisabın sağlandığını tespit etmesinden sonra toplantıya devam edilir.\n\n(4) Tek pay sahipli anonim şirketlerde, bu pay sahibi genel kurulun tüm yetkilerine sahiptir. Tek pay sahibinin genel kurul sıfatıyla alacağı kararların geçerlilik kazanabilmesi için yazılı olmaları şarttır.",
+      "notes": []
+    },
+    {
+      "order": 24,
+      "kind": "madde",
+      "number": "24",
+      "label": "MADDE 24",
+      "heading": "Temsilci bildirimlerinin açıklanması",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": true,
+      "text": "(Mülga:RG-9/10/2020-31269)",
+      "notes": [
+        "(Mülga:RG-9/10/2020-31269)"
+      ]
+    },
+    {
+      "order": 25,
+      "kind": "madde",
+      "number": "25",
+      "label": "MADDE 25",
+      "heading": "Toplantı gündeminin görüşülmesi",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Aşağıda belirtilen istisnalar dışında, toplantı gündeminde yer almayan konular görüşülemez ve karara bağlanamaz:\n\na) Pay sahiplerinin tamamının hazır bulunması halinde, gündeme oybirliği ile konu ilave edilebilir.\n\nb) Kanunun 438 inci maddesi uyarınca, herhangi bir pay sahibinin özel denetim talebi, gündemde yer alıp almadığına bakılmaksızın genel kurulca karara bağlanır.\n\nc) Yönetim kurulu üyelerinin görevden alınmaları ve yenilerinin seçimi hususları, yıl sonu finansal tabloların müzakeresi maddesiyle ilgili sayılır ve gündemde konuya ilişkin madde bulunup bulunmadığına bakılmaksızın istem halinde doğrudan görüşülerek karar verilir.\n\nç) Gündemde madde bulunmasa bile, yolsuzluk, yetersizlik, bağlılık yükümünün ihlali, birçok şirkette üyelik sebebiyle görevin ifasında güçlük, geçimsizlik, nüfuzun kötüye kullanılması gibi haklı sebeplerin varlığı halinde, yönetim kurulu üyelerinin görevden alınması ve yerine yenilerinin seçilmesi hususları genel kurulda hazır bulunanların oy çokluğuyla gündeme alınır.\n\n(2) Toplantıda hazır bulunan oyların çoğunluğunun kararıyla gündem maddelerinin görüşülme sırası değiştirilebilir.\n\n(3) Genel kurulda müzakere edilerek karara bağlanmış gündem maddesi, hazır bulunanların oy birliği ile karar verilmedikçe yeniden görüşülüp karara bağlanamaz.",
+      "notes": []
+    },
+    {
+      "order": 26,
+      "kind": "madde",
+      "number": "26",
+      "label": "MADDE 26",
+      "heading": "Toplantı tutanağının düzenlenmesi",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Genel kurul toplantısında yapılan görüşmeler ve alınan kararlar, toplantı başkanlığı tarafından tutanağa yazılır. Genel kurul tutanağı, toplantı mahallinde ve toplantı sırasında en az iki nüsha olarak düzenlenir. Tutanak, toplantı başkanlığı (Değişik ibare:RG-9/10/2020-31269) ile Bakanlık temsilcisi bulunması zorunlu olan veya 32 nci maddenin ikinci fıkrası uyarınca talep üzerine Bakanlık temsilcisi görevlendirilen toplantılarda Bakanlık temsilcisi tarafından imzalanır. Tek pay sahipli şirketlerde toplantıda hazır bulunan pay sahibinin veya temsilcisinin de toplantı tutanağını imzalaması zorunludur.\n\n(2) Tutanakta, Ek-4’teki örnekte olduğu gibi; şirketin unvanının, toplantı tarihinin ve yerinin, şirketin toplam sermayesinin ve pay adedinin, toplantıda hazır bulunan pay sahiplerinin veya temsilcilerinin sahip oldukları pay sayılarının toplamı ve grupları ile paylarının itibari değerlerinin toplamı gösterilmek suretiyle toplantı nisabı, genel kurulda sorulan soruların ve verilen cevapların, alınan her karar için kullanılmış olumlu ve olumsuz oy sayılarının, Bakanlık temsilcisi bulunmakta ise bunların ad ve soyadları ile görevlendirme yazısının tarih ve sayısının, çağrıya dayalı toplantı yapılıyorsa çağrının ne surette yapıldığının; çağrısız toplantı yapılıyorsa bu durumun belirtilmesi zorunludur.\n\n(3) Toplantıda alınan kararlar, hiçbir tereddütte yer vermeyecek şekilde, olumlu ve olumsuz oyların toplamları da gösterilmek suretiyle tutanakta belirtilir.\n\n(4) Toplantıda alınan kararlara muhalif kalarak, muhalefet şerhi yazmak isteyenlerin şerhleri tutanağa yazılır veya yazılı olarak verilen muhalefet şerhleri tutanağa eklenir. Tutanağa şerh koyan pay sahibinin adı ve soyadı yazılarak, muhalefet şerhinin ekli olduğu belirtilir. Tutanağa eklenen muhalefet şerhi de toplantı başkanı ve Bakanlık temsilcisi bulunan toplantılarda Bakanlık temsilcisi tarafından imzalanır.\n\n(5) Toplantı başkanının, (Değişik ibare:RG-9/10/2020-31269) Bakanlık temsilcisi bulunması zorunlu olan veya talep üzerine Bakanlık temsilcisi görevlendirilen toplantılarda Bakanlık temsilcisinin veya tek pay sahipli şirkette hazır bulunan pay sahibinin veya temsilcisinin imzalamadığı toplantı tutanakları geçersizdir.",
+      "notes": [
+        "(Değişik ibare:RG-9/10/2020-31269)",
+        "(Değişik ibare:RG-9/10/2020-31269)"
+      ]
+    },
+    {
+      "order": 27,
+      "kind": "madde",
+      "number": "27",
+      "label": "MADDE 27",
+      "heading": "Toplantının yapılamaması",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Aşağıdaki hallerde genel kurul toplantısı yapılamaz:\n\na) 32 nci maddede sayılan genel kurul toplantılarında Bakanlık temsilcisinin bulunmaması.\n\nb) Çağrısız ya da Türkiye Ticaret Sicili Gazetesi ile çağrısı yapılmadan toplanan genel kurullarda tüm pay sahiplerinin asaleten veya temsilen hazır bulunmaması.\n\nc) Çağrısız ya da Türkiye Ticaret Sicili Gazetesi ile çağrısı yapılmadan toplanan genel kurullarda tüm pay sahiplerinin asaleten veya temsilen hazır bulunmalarına rağmen aralarından birinin toplantının yapılmasına itirazda bulunması.\n\nç) Toplantının yapılmasının mahkeme kararıyla durdurulması.\n\n(2) Esas sözleşme değişikliği Bakanlık iznine tabi olan şirketlerde değişikliğe ilişkin iznin alınmamış olması halinde gündemde yer alan esas sözleşme değişikliği görüşülemez.",
+      "notes": []
+    },
+    {
+      "order": 28,
+      "kind": "madde",
+      "number": "28",
+      "label": "MADDE 28",
+      "heading": "Toplantının ertelenmesi",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Toplantı başlamadan önce, Kanun ve esas sözleşmede öngörülen asgari toplantı nisabının sağlanamaması veya toplantı sırasında yapılan yoklama sonucunda toplantı açılmadan önceki hazır bulunan pay listesine göre hesaplanan karar nisabı kadar payın temsil edilmediğinin anlaşılması halinde toplantı ertelenir.\n\n(2) Kanun ve esas sözleşmeye uygun olarak çağırılmış genel kurul toplantısı ancak gündeme geçilmeden önce ve genel kurul tarafından alınacak bir karar ile ertelenebilir.\n\n(3) Finansal tabloların müzakeresi ve buna bağlı konular sermayenin en az onda birine, halka açık şirketlerde yirmide birine sahip azlık pay sahiplerinin istemi üzerine genel kurul kararına gerek olmaksızın, toplantı başkanı tarafından bir ay sonraya ertelenmesi zorunludur. Azlık pay sahipleri tarafından finansal tablolar hakkında ileri sürülecek tüm itirazların ilk toplantıda yapılması ve bunların tutanağa yazılması zorunludur.\n\n(4) Erteleme üzerine yapılacak toplantıda aynı veya farklı gerekçelerle azlık pay sahipleri tarafından finansal tabloların müzakeresinin tekrar ertelenmesi talep edilemez. Ancak, finansal tabloların itiraza uğrayan ve tutanağa geçmiş noktaları hakkında ilgililer tarafından dürüst hesap verme ilkeleri uyarınca cevap verilmemiş olması sebebiyle azlık tarafından yapılacak erteleme talebi üzerine de toplantı yeniden bir ay sonraya ertelenir.\n\n(5) Kolluk güçlerinin ve varsa Bakanlık temsilcisinin görüşü alınmak suretiyle toplantının güvenlik açısından sağlıklı bir şekilde yapılamayacağının anlaşılması üzerine genel kurul, toplantı başkanlığı tarafından ertelenebilir.\n\n(6) Kanunun 1527 nci maddesi uyarınca genel kurul toplantılarına elektronik ortamda katılma sistemini uygulayan şirketlerin genel kurul toplantılarında Elektronik Genel Kurul Sisteminin çalışması için Anonim Şirketlerde Elektronik Ortamda Yapılacak Genel Kurullara İlişkin Yönetmelik hükümlerine uygun şartların sağlanmadığının tespiti üzerine genel kurul, Bakanlık temsilcisinin görüşü alınmak kaydıyla toplantı başkanlığı tarafından ertelenebilir.\n\n(7) (Ek:RG-9/10/2020-31269) Birinci fıkrada sayılan nedenlerle toplantının ertelenmesi durumu hariç olmak üzere, erteleme üzerine yapılacak genel kurul toplantılarında toplantı ve karar nisabı hakkında 22 nci maddenin birinci fıkrası uygulanır.",
+      "notes": [
+        "(Ek:RG-9/10/2020-31269)"
+      ]
+    },
+    {
+      "order": 29,
+      "kind": "madde",
+      "number": "29",
+      "label": "MADDE 29",
+      "heading": "Toplantı sonunda yapılacak işlemler",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Toplantı başkanı genel kurul toplantı tutanağının bir nüshasını ve hazır bulunanlar listesi dahil toplantı ile ilgili diğer tüm belgeleri, derhal şirkete teslim eder. Yönetim kurulunca genel kurul toplantısından sonra genel kurul tutanağının noter tasdikli bir sureti ile Bakanlık temsilcisi bulunan toplantılarda temsilcinin görevlendirme yazısının bir nüshası ve ticaret sicili müdürlüğünce istenecek diğer belgeler, derhal ilgili ticaret sicili müdürlüğüne verilir.\n\n(2) Yönetim kurulu tescil ve ilana tabi hususları, ticaret siciline tescil ve Türkiye Ticaret Sicili Gazetesinde ilan ettirir. İnternet sitesi açmakla yükümlü olan şirketler, genel kurul tutanağını hemen internet sitelerinde de ilân eder.\n\n(3) Toplantı başkanı, hazır bulunanlar listesinin, gündemin ve genel kurul toplantı tutanağının birer nüshasını Bakanlık temsilcisine teslim eder.\n\n(4) Bu maddede belirtilen belgelerin Elektronik Genel Kurul Sistemi üzerinden elektronik platformlara iletilmesine Bakanlıkça karar verilebilir.\n\n(5) Genel kurul işlemleri ile ilgili belgelerin elektronik ortamda güvenli elektronik imza ile düzenlenmesi halinde bu belgelerde noter onayı aranmaz.",
+      "notes": []
+    },
+    {
+      "order": 30,
+      "kind": "madde",
+      "number": "30",
+      "label": "MADDE 30",
+      "heading": "Genel kurulun devredilemez görev ve yetkileri",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Genel kurul aşağıda belirtilen görev ve yetkilerini bir başka organ veya kişilere devredemez:\n\na) Esas sözleşmenin değiştirilmesi.\n\nb) Yönetim kurulu üyelerinin seçimi, görevden alınması ile ücret, huzur hakkı, ikramiye ve prim gibi haklarının belirlenmesi ve ibraları hakkında karar verilmesi.\n\nc) Kanunda öngörülen istisnalar dışında denetçinin seçimi.\n\nç) Finansal tablolara, yönetim kurulunun yıllık faaliyet raporuna, yıllık kâr üzerinde tasarrufa, kâr payları ile kazanç paylarının belirlenmesine, yedek akçenin sermayeye veya dağıtılacak kâra katılması dâhil, kullanılmasına dair kararların alınması.\n\nd) Kanunda öngörülen istisnalar dışında şirketin sona ermesine ve tasfiyeden dönülmesine karar verilmesi.\n\ne) Önemli miktarda şirket varlığının toptan satışı.\n\nf) Esas sözleşme ile görev süreleri belirlenmemiş ise yönetim kurulu üyelerinin üç yılı aşmamak üzere görev sürelerinin belirlenmesi.\n\ng) Aksi kanunlarda öngörülmedikçe; her türlü tahvil, finansman bonoları, varlığa dayalı senetler, iskonto esası üzerine düzenlenenler de dâhil, diğer borçlanma senetleri, alma ve değiştirme hakkını haiz senetler ile her çeşit menkul kıymetlerin çıkarılması veya bu hususta yönetim kuruluna yetki verilmesi.\n\nğ) Birleşme, bölünme, tür değiştirme kararlarının alınması.\n\nh) Hakimiyet sözleşmesinin onaylanması.\n\nı) Genel kurulun çalışma esas ve usullerine ilişkin iç yönergenin onaylanması veya değiştirilmesi.\n\ni) Sermayenin azaltılmasına ilişkin yönetim kurulunca hazırlanan raporun onaylanması.\n\nj) Şirketin tescil tarihinden itibaren iki yıl içinde bir işletme veya aynın esas sermayenin onda birini aşan bir bedel karşılığında devralınmasına veya kiralanmasına ilişkin yapılmış sözleşmelerin onaylanması.\n\n(2) Birinci fıkranın (b) bendi uyarınca seçilecek yönetim kurulu üyelerinin;\n\na) Tüzel kişi adına tescil edilecek gerçek kişi de dahil olmak üzere tam ehliyetli olması,\n\nb) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 28 inci maddesi hükmü saklı kalmak kaydıyla Devlet memuru olmaması,\n\nc) İflasına karar verilmemiş olması,\n\nç) Özel mevzuatı ve/veya şirketin esas sözleşmesi ile getirilen özel şartları taşıması,\n\nzorunludur.\n\n(3) Genel kurul toplantısında hazır bulunmayanların yönetim kurulu üyeliklerine seçilmesi halinde, bunların bu göreve aday olduklarını veya görevi kabul ettiklerini belirten yazılı beyanlarının bulunması şarttır.",
+      "notes": []
+    },
+    {
+      "order": 31,
+      "kind": "madde",
+      "number": "31",
+      "label": "MADDE 31",
+      "heading": "Saklama müddeti",
+      "path": [
+        "İKİNCİ BÖLÜM Genel Kurul Toplantılarına İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Genel kurul toplantısına ilişkin belgeler Bakanlıkça/il müdürlüğünce beş yıl süreyle saklanır.\n\n(2) Genel kurul toplantısının şirket merkezinin bulunduğu ilden başka bir ilde yapılması hâlinde toplantıyla ilgili belgeler, toplantının yapıldığı yerdeki il müdürlüğü tarafından saklanır.",
+      "notes": []
+    },
+    {
+      "order": 32,
+      "kind": "madde",
+      "number": "32",
+      "label": "MADDE 32",
+      "heading": "Bakanlık temsilcisi bulundurma zorunluluğu",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Bakanlık Temsilciliğine İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Aşağıda sayılan genel kurul toplantılarında ve bunların ertelenmesi halinde yapılacak ikinci toplantılarda Bakanlık temsilcisinin bulunması zorunludur:\n\na) Kuruluş ve esas sözleşme değişikliği işlemleri Bakanlık iznine tabi olan şirketlerin bütün genel kurul toplantılarında, diğer şirketlerde ise gündeminde, sermayenin arttırılması veya azaltılması, kayıtlı sermaye sistemine geçilmesi ve kayıtlı sermaye sisteminden çıkılması, kayıtlı sermaye tavanının arttırılması veya faaliyet konusunun değiştirilmesine ilişkin esas sözleşme değişikliği ile birleşme, bölünme veya tür değişikliği konuları bulunan genel kurul toplantılarında.\n\nb) Genel kurula elektronik ortamda katılım sistemini uygulayan şirketlerin genel kurul toplantılarında.\n\nc) Yurt dışında yapılacak bütün genel kurul toplantılarında.\n\nç) Yurt dışında yapılacak imtiyazlı pay sahipleri özel kurul toplantılarında.\n\n(2) Birinci fıkrada sayılanların dışındaki genel kurul toplantılarında (Ek ibare:RG-9/10/2020-31269) , kuruluş ve esas sözleşme değişikliği işlemleri Bakanlık iznine tabi olan şirketler hariç olmak üzere tek pay sahipli şirketlerin genel kurul toplantılarında ve imtiyazlı pay sahipleri özel kurullarında Bakanlık temsilcisinin bulunması zorunlu değildir. Ancak genel kurulu toplantıya çağıranların talep etmeleri ve bu taleplerin görevlendirme makamınca uygun görülmesi halinde Bakanlık temsilcisi görevlendirilir.\n\n(3) Bakanlık temsilcisi bulunması zorunlu olmayan toplantılar için, çağrı yapanlar dışındakilerin Bakanlık temsilcisi görevlendirilmesine ilişkin görevlendirme makamına doğrudan yapacakları başvurular dikkate alınmaz. Ancak sermayenin en az onda birini oluşturan pay sahipleri tarafından gerekçeleri de bildirilmek suretiyle Bakanlık temsilcisi görevlendirilmesine dair talep, görevlendirme makamının değerlendirilmesine sunulmak üzere şirkete yapılır. Toplantıya çağıranlar tarafından bu talebin görevlendirme makamına iletilmesi zorunludur.\n\n(4) Birinci fıkrada belirtilen toplantılar ile ikinci ve üçüncü fıkralar uyarınca Bakanlık temsilcisi görevlendirilen toplantılarda, Bakanlık temsilcisinin yokluğunda alınan kararlar geçerli değildir.\n\n(5) Şirket genel kurullarında Bakanlık temsilcisi olarak görevlendirilenler, görevlendiren makam tarafından ilgili ticaret sicili müdürlüğüne bildirilir.",
+      "notes": [
+        "(Ek ibare:RG-9/10/2020-31269)"
+      ]
+    },
+    {
+      "order": 33,
+      "kind": "madde",
+      "number": "33",
+      "label": "MADDE 33",
+      "heading": "Bakanlık temsilcilerinin nitelikleri",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Bakanlık Temsilciliğine İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Temsilcilerin aşağıda sayılan niteliklere sahip olmaları gerekir:\n\na) Genel Müdürlükte veya il müdürlüklerinde asil memur olarak çalışıyor olmak.\n\nb) (Değişik:RG-27/10/2015-29515) Üçüncü fıkrada öngörülen sınavlarda başarılı olmak.\n\nc) Görev sorumluluğuna ve temsil yeteneğine sahip olmak.\n\nç) En az yüksekokul mezunu olmak.\n\n(2) Elektronik ortamda yapılacak genel kurul toplantılarında görevlendirilecek Bakanlık temsilcilerinin ilave olarak, elektronik genel kurul sisteminin işleyişi ve kullanımına ilişkin Bakanlıkça yapılacak eğitime katılması (Mülga ibare:RG-9/10/2020-31269) (…) gerekir. Bu amaçla düzenlenecek eğitimler hizmet satın almak suretiyle de yapılabilir.\n\n(3) (Değişik:RG-27/10/2015-29515) Temsilci olarak görevlendirilecek personele, içeriği Bakanlıkça belirlenen eğitim verilir ve bu eğitimin sonunda Bakanlıkça yazılı ve sözlü sınav yapılır. Temsilci olarak görevlendirilen personelin yeterliliğinin sürdürülebilmesi amacıyla, Bakanlıkça belirli sürelerde yeterliliğin korunması eğitimleri verilebilir, yazılı ve/veya sözlü sınavlar yapılabilir. Bu sınavlarda başarısız olanlar, Bakanlık temsilcisi olarak görevlendirilemez. Temsilcilik ve temsilcilik yeterliliğinin sürdürülebilmesi amacıyla yapılacak sınavlarda üst üste üç defa başarısız olanlar ise daha sonra bu amaçla yapılacak hiçbir sınava katılamaz. Bakanlık temsilcileri bu sınavlarda başarılı olanlar arasından görevlendirilir. Bakanlık temsilcisi olarak görevlendirilecek kişilerin belirlenmesi için yapılacak sınavlara ilişkin usul ve esaslar Bakanlıkça belirlenir.\n\n(4) Genel Müdürlükte, daire başkanı ve üstü kadrolarında bulunanlar ile il müdürleri için birinci fıkranın (b) bendinde yer alan sınav şartı aranmaz.",
+      "notes": [
+        "(Değişik:RG-27/10/2015-29515)",
+        "(Mülga ibare:RG-9/10/2020-31269)",
+        "(Değişik:RG-27/10/2015-29515)"
+      ]
+    },
+    {
+      "order": 34,
+      "kind": "madde",
+      "number": "34",
+      "label": "MADDE 34",
+      "heading": "Bakanlık temsilcisinin görev ve yetkileri",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Bakanlık Temsilciliğine İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Bakanlık temsilcisinin temel görevi, toplantının Kanun, bu Yönetmelik ve ilgili mevzuat ile esas sözleşme hükümlerine uygun olarak yürütülmesini gözetmektir. Bakanlık temsilcisi genel kurul tutanağının hazırlanmasına nezaret eder. Tutanağın, Kanun ve bu Yönetmelik hükümlerine uygun olarak düzenlenmesini sağlar. Bakanlık temsilcisi toplantının yapılması ve kararların alınması ile ilgili tespit ettiği hukuka aykırılıkları ve usulsüzlükleri, toplantı tutanağına da geçirtir ve ilgililerle birlikte imzalar.\n\n(2) Bakanlık temsilcisi toplantıdan önce görevlendirme yazısı ile kimliğini ilgililere gösterir.\n\n(3) Bakanlık temsilcisi toplantıdan sonra, hazır bulunanlar listesi, gündem ve genel kurul toplantı tutanağının bir nüshasını alarak, (Ek ibare:RG-9/10/2020-31269) bir hafta içinde Bakanlık merkez teşkilâtında Genel Müdürlüğe, illerde il müdürlüğüne teslim eder. Bakanlık temsilcisi; genel kurul toplantısı sırasında, Kanun, esas sözleşme ve bu Yönetmelik hükümlerine aykırılık olmasına rağmen herhangi bir nedenle toplantı tutanağında belirtilemeyen hususlar ile herhangi bir sebeple toplantının açılamaması veya açılan toplantının tamamlanamaması gibi hususların varlığı hâlinde, rapor düzenleyerek (Ek ibare:RG-9/10/2020-31269) diğer belgelerle birlikte Bakanlığa/il müdürlüğüne verir. Bu rapor genel kurul belgeleriyle birlikte saklanır. (Ek cümle:RG-9/10/2020-31269) Bu fıkrada belirtilen belgeler, Genel Müdürlüğe/il müdürlüğüne teslim edilmeden önce Bakanlık temsilcisi tarafından MERSİS’te ilgili alana yüklenir.\n\n(4) Bakanlık temsilcisinin birinci fıkradaki görev ve yetkileri, Bakanlık temsilcisinin bulunmadığı toplantılarda toplantı başkanı tarafından yerine getirilir.",
+      "notes": [
+        "(Ek ibare:RG-9/10/2020-31269)",
+        "(Ek ibare:RG-9/10/2020-31269)",
+        "(Ek cümle:RG-9/10/2020-31269)"
+      ]
+    },
+    {
+      "order": 35,
+      "kind": "madde",
+      "number": "35",
+      "label": "MADDE 35",
+      "heading": "Bakanlık temsilcisi istenmesi",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Bakanlık Temsilciliğine İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Yönetim kurulu tarafından çağrısı yapılan genel kurul toplantılarında Bakanlık temsilcisinin bulundurulması için; yönetim kurulu üyelerinden herhangi biri tarafından veya şirketi (Değişik ibare:RG-29/5/2021-31495) temsile yetkili kılınan kişilerce toplantının yer, gün ve saati bildirilmek suretiyle toplantı tarihinden en az on gün önceden Ek-1’deki örneğe uygun olarak bir dilekçe ile (Ek ibare:RG-9/10/2020-31269) fiziki ortamda veya MERSİS üzerinden elektronik ortamda müracaat edilmelidir. Genel kurulun, yönetim kurulu dışında çağrıya yetkili olanlar tarafından çağrılması halinde, dilekçe bunlar tarafından imzalanır. (Ek cümle:RG-9/10/2020-31269) Yönetim kurulunun mevcut olmaması veya yönetim kurulu toplantı nisabı oluşmasına imkan bulunmaması ve 12 nci madde uyarınca münhasıran yönetim kurulu üyelerinin seçilmesi amacıyla çağrısız toplantı yapılmak istenmesi halinde, pay sahiplerinin veya temsilcilerinin tamamının imzaları noterce onaylanmış dilekçesiyle de Bakanlık temsilcisi görevlendirilmesi istenebilir.\n\n(2) Müracaatın on günden daha kısa bir sürede yapılabilmesi müracaat merciinin uygun görüşüne bağlıdır. Genel kurul toplantılarının yoğun olduğu dönemlerde Bakanlık temsilcisi görevlendirilmesinde bir aksaklığa yol açılmaması için toplantıya çağrı işlemlerine başlanmadan önce gün alınması hususunda Genel Müdürlük/il müdürlükleri düzenleme yapmaya yetkilidir.\n\n(3) Yurt dışında yapılacak toplantılar için bu süre otuz gündür.",
+      "notes": [
+        "(Değişik ibare:RG-29/5/2021-31495)",
+        "(Ek ibare:RG-9/10/2020-31269)",
+        "(Ek cümle:RG-9/10/2020-31269)"
+      ]
+    },
+    {
+      "order": 36,
+      "kind": "madde",
+      "number": "36",
+      "label": "MADDE 36",
+      "heading": "Bakanlık temsilcisi istenmesine ilişkin başvuruya eklenecek belgeler",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Bakanlık Temsilciliğine İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Başvuru dilekçesine aşağıdaki belgeler eklenir:\n\na) Yönetim kurulu kararının noter onaylı bir örneği veya karar defterinin ilgili sayfasının şirket yetkililerince aslına uygunluğunun tasdik edilmiş fotokopisi (Mülga ibare:RG-9/10/2020-31269) (…).\n\nb) (Mülga:RG-9/10/2020-31269)\n\nc) Genel Kurulun mahkemece izin verilmiş pay sahipleri tarafından toplantıya çağrılması halinde buna ilişkin mahkeme kararının bir örneği.\n\nç) Genel kurulun mahkemece atanmış kayyım tarafından çağrılması halinde buna ilişkin mahkeme kararının bir örneği.\n\nd) İmtiyazlı pay sahipleri özel kurulunun toplantıya çağrılması mahkeme kararına dayanıyor ise buna ilişkin mahkeme kararının bir örneği.\n\ne) Gündem.\n\nf) Bakanlık Temsilcisi ücretinin (Değişik ibare:RG-9/10/2020-31269) yatırıldığını gösterir belge.",
+      "notes": [
+        "(Mülga ibare:RG-9/10/2020-31269)",
+        "(Mülga:RG-9/10/2020-31269)",
+        "(Değişik ibare:RG-9/10/2020-31269)"
+      ]
+    },
+    {
+      "order": 37,
+      "kind": "madde",
+      "number": "37",
+      "label": "MADDE 37",
+      "heading": "Bakanlık temsilci görevlendirilmesi",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Bakanlık Temsilciliğine İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Toplantı yeri yurt içinde olan genel kurul toplantılarında Bakanlık temsilcisi görevlendirme yetkisi Valiliklere aittir.\n\n(2) Toplantı yeri yurt dışında ise müracaat Genel Müdürlüğe yapılır ve Bakanlık temsilcisi görevlendirme yetkisi Genel Müdürlüğe aittir.\n\n(3) Toplantının 17/3/1981 tarihli ve 2429 sayılı Ulusal Bayram ve Genel Tatiller Hakkında Kanunda belirlenen ulusal bayram ve genel tatil günlerine rastlaması halinde görevlendirme yapılmaz.\n\n(4) Temsilcilik görevini yürütenlerden kınama veya daha ağır disiplin cezası alanlara bir yıl süre ile görev verilmez.\n\n(5) İl Müdürleri, gerekçeleri ile beraber önceden Bakanlığın uygun görüşü alınması kaydıyla veya Bakanlık talimatı gereği Bakanlık temsilcisi olarak görevlendirilebilir.",
+      "notes": []
+    },
+    {
+      "order": 38,
+      "kind": "madde",
+      "number": "38",
+      "label": "MADDE 38",
+      "heading": "Bakanlık temsilcisinin ücretleri ve giderleri",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Bakanlık Temsilciliğine İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Şirketlerin yurt içinde yapılacak genel kurul toplantılarında görevlendirilen Bakanlık temsilcilerinin ücretleri, her yıl Bütçe Kanununun (H) cetvelinin (I-B) bendi ile tespit edilen Devlet memurlarına ödenen en yüksek yurtiçi gündelik tutarının üç katı; hafta tatili günleri için dört katı net olarak ödenir.\n\n(2) Yurt dışında yapılacak genel kurul toplantılarında görevlendirilecek Bakanlık temsilcilerinin, kendi aylık/kadro dereceleri için 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanununun 34 üncü maddesi uyarınca (Değişik ibare:RG-9/10/2020-31269)(2) Cumhurbaşkanınca tespit edilen gündelikleri ilgili şirket tarafından karşılanır. Bu amaçla yapılacak görevlendirmeler beş günü aşamaz.\n\n(3) (Mülga:RG-9/10/2020-31269)(2)\n\n(4) Bakanlık temsilcisi ücretleri, (Değişik ibare:RG-9/10/2020-31269)(2) ücret ile ilgili tahakkuk edecek vergilerle birlikte ilgili muhasebe birimi hesabına yatırılır.\n\n(5) Yurt dışında yapılacak genel kurul toplantılarına görevlendirilen Bakanlık temsilcisinin yol giderleri ilgili şirket tarafından karşılanır. Yurt içinde yapılan toplantılarda ise toplantı mahalline gidiş ve dönüş şirket tarafından temin edilecek araçla sağlanır. Bunun mümkün olamaması halinde yol giderleri belgelendirilmek kaydıyla şirket tarafından karşılanır. Kendi aracıyla gidilmesi veya gider belgesinin ibraz edilmemesi halinde şirketçe hiçbir ödeme yapılmaz. Şirketler tarafından yatırılan paraların Bakanlık temsilcilerine ödenmesine ilişkin esaslar Genel Müdürlükçe belirlenerek il müdürlüklerine yazılı olarak duyurulur.",
+      "notes": [
+        "(Değişik ibare:RG-9/10/2020-31269)",
+        "(Mülga:RG-9/10/2020-31269)",
+        "(Değişik ibare:RG-9/10/2020-31269)"
+      ]
+    },
+    {
+      "order": 39,
+      "kind": "madde",
+      "number": "39",
+      "label": "MADDE 39",
+      "heading": "Bakanlık temsilcisinin ve toplantı başkanının sorumluluğu",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Bakanlık Temsilciliğine İlişkin Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Bakanlık temsilcisi ve toplantı başkanı, görevini Kanuna, bu Yönetmeliğe ve ilgili mevzuata uygun olarak tarafsız, dürüst ve özenli şekilde yapmakla yükümlüdür.\n\n(2) Bakanlık temsilcisinin birinci fıkraya aykırı davranışlarından dolayı; hakkında 657 sayılı Devlet Memurları Kanununun disiplin hükümleri uygulanacağı gibi, ayrıca kendisine belli bir süre temsilcilik görevi verilmez.\n\n(3) Toplantı başkanı, birinci fıkraya aykırı davranışlarından ötürü şirkete ve pay sahiplerine karşı sorumludur.",
+      "notes": []
+    },
+    {
+      "order": 40,
+      "kind": "madde",
+      "number": "40",
+      "label": "MADDE 40",
+      "heading": "İç yönergeye ilişkin esaslar",
+      "path": [
+        "DÖRDÜNCÜ BÖLÜM İç Yönerge"
+      ],
+      "repealed": false,
+      "text": "(1) İç yönerge, Kanunun izin verdiği durumlar dışında, ortakların genel kurula katılma, oy kullanma, dava açma, bilgi alma, inceleme ve denetleme gibi vazgeçilemez nitelikteki haklarını, toplantı başkanlığının Kanundan kaynaklanan görev ve yetkilerini sınırlandıran veya ortadan kaldıran hükümler içeremez.\n\n(2) Özel kanunlara tabi şirketler, iç yönergenin hazırlanmasında, bu Yönetmelikte belirtilen hususların yanında, tabi oldukları özel mevzuat hükümlerini de dikkate almak zorundadırlar.\n\n(3) Yönetim kurulu, iç yönergeyi Kanun ve bu Yönetmelik hükümleri ile Ek-5’teki örneğe uygun olarak hazırlar ve genel kurulun onayından sonra yürürlüğe koyar.\n\n(4) İç yönerge, genel kurulun onay tarihinden itibaren onbeş gün içinde ticaret siciline tescil ve ilan ettirilir. Ayrıca; internet sitesi açmakla yükümlü olan şirketlerce, ilan tarihini izleyen beş gün içerisinde internet sitesinde de yayımlanır.\n\n(5) İç yönergede yapılacak değişikliklerde de aynı usul izlenir.",
+      "notes": []
+    },
+    {
+      "order": 41,
+      "kind": "madde",
+      "number": "41",
+      "label": "MADDE 41",
+      "heading": "İç yönergede yer alacak asgari hususlar",
+      "path": [
+        "DÖRDÜNCÜ BÖLÜM İç Yönerge"
+      ],
+      "repealed": false,
+      "text": "(1) Yönetim kurulu tarafından hazırlanacak iç yönergede asgari olarak aşağıda sayılan hususlara yer verilmesi zorunludur:\n\na) Toplantı yerine giriş ve toplantının açılması.\n\nb) Toplantı başkanlığının oluşturulması.\n\nc) Toplantı başkanlığının görev ve yetkileri.\n\nç) Gündemin görüşülmesine geçilmeden önce yapılacak işlemler ve gündem.\n\nd) Toplantıda söz alma ve oy kullanma usulü.\n\ne) Toplantı tutanağının düzenlenmesi.\n\nf) Toplantı sonunda yapılacak işlemler.\n\n(2) Yönetim kurullarınca hazırlanacak iç yönergelerin, Ek-5’teki iç yönerge örneğine uygun içerikte olması zorunludur. Bunlar dışında genel kurul çalışmalarına ilişkin esas ve usullerin belirlenmesine yönelik ilave kurallara da yer verilebilir.",
+      "notes": []
+    },
+    {
+      "order": 42,
+      "kind": "madde",
+      "number": "42",
+      "label": "MADDE 42",
+      "heading": "İç yönerge hükümlerinin uygulanması",
+      "path": [
+        "DÖRDÜNCÜ BÖLÜM İç Yönerge"
+      ],
+      "repealed": false,
+      "text": "(1) Genel kurulun çalışma esas ve usullerine ilişkin iç yönerge hükümleri, toplantı başkanlığı oluşturuluncaya kadar yönetim kurulu adına, yönetim kurulunun başkanı veya başkan vekili ya da başkanın görevlendireceği yönetim kurulunun bir üyesi tarafından; toplantı başkanlığının oluşturulması sonrasında ise toplantı başkanı tarafından uygulanır.",
+      "notes": []
+    },
+    {
+      "order": 43,
+      "kind": "madde",
+      "number": "43",
+      "label": "MADDE 43",
+      "heading": "Tek pay sahipli anonim şirketler",
+      "path": [
+        "DÖRDÜNCÜ BÖLÜM İç Yönerge"
+      ],
+      "repealed": false,
+      "text": "(1) Tek pay sahipli anonim şirketlerin yönetim organlarınca da bu bölümde belirtilen asgari unsurları içerecek şekilde bir iç yönerge hazırlanması ve bu iç yönergenin şirket genel kurulunca onaylanması şarttır. Tek pay sahibi, toplantı başkanlığı için öngörülen tüm görevleri tek başına yerine getirebilir.",
+      "notes": []
+    },
+    {
+      "order": 44,
+      "kind": "madde",
+      "number": "44",
+      "label": "MADDE 44",
+      "heading": "Tevdi edilen kişi veya kuruluşlar",
+      "path": [
+        "BEŞİNCİ BÖLÜM Anonim Şirketlerde Tevdi Eden Temsilciliğine İlişkin Usul ve Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Pay sahipleri, şirket genel kurul toplantılarında, pay ve pay senetlerinin kendilerine tevdi edilmiş olması koşuluyla;\n\na) Sermaye Piyasası Kanununun (Değişik ibare:RG-9/10/2020-31269) 13 üncü maddesi uyarınca kayden izlenen paylar için aracı (Değişik ibare:RG-9/10/2020-31269) kurumları,\n\nb) Diğer pay senetleri için aracı (Değişik ibare:RG-9/10/2020-31269) kurumların yanı sıra portföy yönetim şirketlerini, ilgili mevzuatlarında pay senedi saklama yetkisi olan kişi veya kuruluşları ve rehin alacaklısını,\n\ntevdi eden temsilcisi olarak yetkilendirebilir.",
+      "notes": [
+        "(Değişik ibare:RG-9/10/2020-31269)",
+        "(Değişik ibare:RG-9/10/2020-31269)",
+        "(Değişik ibare:RG-9/10/2020-31269)"
+      ]
+    },
+    {
+      "order": 45,
+      "kind": "madde",
+      "number": "45",
+      "label": "MADDE 45",
+      "heading": "Tevdi eden temsilciliğine ilişkin yetkilendirme ve temsil belgesi",
+      "path": [
+        "BEŞİNCİ BÖLÜM Anonim Şirketlerde Tevdi Eden Temsilciliğine İlişkin Usul ve Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Kendisine tevdi edilmiş olan pay ve pay senetlerinden doğan genel kurul toplantısına katılma ve oy hakkının, tevdi edilen tarafından kullanılabilmesi için, tevdi eden ile tevdi edilen arasında bu paylardan kaynaklanan oy hakkının tevdi edilen tarafından kullanılacağına ilişkin taraflar arasındaki sözleşmede açık bir hükme yer verilmesi veya Ek-6’da yer alan örnekteki içeriğe uygun şekilde düzenlenecek temsil belgesinin verilmesi zorunludur. Ancak elektronik genel kurul sistemini uygulayan şirketlerde bu yetkilendirme anılan sistem üzerinden de yapılabilir.\n\n(2) Genel kurula katılma ve oy hakkının kullanılmasına ilişkin yetki süreli veya süresiz olarak tanınabilir. Bu yetkinin verilmiş olması, tevdi edilenin her genel kurul toplantısından önce tevdi edenden katılma ve oy haklarının nasıl kullanılacağına ilişkin talimat alma zorunluluğunu ortadan kaldırmaz.\n\n(3) Tevdi eden, temsilcisini genel kurul gününden bir gün öncesine kadar değiştirebilir.",
+      "notes": []
+    },
+    {
+      "order": 46,
+      "kind": "madde",
+      "number": "46",
+      "label": "MADDE 46",
+      "heading": "Talimat istenmesi",
+      "path": [
+        "BEŞİNCİ BÖLÜM Anonim Şirketlerde Tevdi Eden Temsilciliğine İlişkin Usul ve Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Tevdi edilen, her genel kurul öncesinde Kanunun 429 uncu maddesi uyarınca tevdi edene başvurarak genel kurul gündeminde yer alan konularla ilgili hangi yönde oy kullanılacağına ilişkin talimatını talep etmekle yükümlüdür. Bu yükümlülük yerine getirilmeden genel kurula katılınmış olması, Kanunun 433 üncü maddesinin ikinci fıkrasına göre yetkisiz katılma anlamına gelmez.\n\n(2) Zamanında bildirim yapılmakla birlikte tevdi edenden talimat alınamamışsa tevdi edilen oyunu genel talimata uygun olarak kullanır. Böyle bir talimat yoksa tevdi edilen oyunu yönetim kurulunun önerileri yönünde verir.",
+      "notes": []
+    },
+    {
+      "order": 47,
+      "kind": "madde",
+      "number": "47",
+      "label": "MADDE 47",
+      "heading": "Talimatların iletilmesi",
+      "path": [
+        "BEŞİNCİ BÖLÜM Anonim Şirketlerde Tevdi Eden Temsilciliğine İlişkin Usul ve Esaslar"
+      ],
+      "repealed": false,
+      "text": "(1) Tevdi eden, katılma ve oy hakkının nasıl kullanılacağına ilişkin talimatlarını, her bir gündem maddesi için ayrı ayrı olmak kaydıyla kabul veya red şeklinde belirtmek suretiyle tevdi edilene bildirir. Bu bildirim, asgari olarak Ek-7’de yer verilen örnekteki bilgileri ihtiva etmek kaydıyla, taraflar arasında mutabık kalınan iletişim araçlarıyla yapılabilir.\n\n(2) Kanunun 1527 nci maddesi uyarınca genel kurul toplantısına elektronik ortamda katılma ve oy kullanma sistemini uygulayan şirketlerin yapacakları genel kurul toplantılarına ilişkin talimatlar tevdi edilene, gizliliğini sağlayacak teknik yeterliliğe haiz olması durumunda, Elektronik Genel Kurul Sisteminden de iletilebilir.\n\n(3) Genel kurul toplantısının ertelenmesi halinde, birinci ve ikinci fıkra uyarınca verilen talimatlar, tevdi eden tarafından değiştirilmediği sürece, hukuken bunun devamı sayılan genel kurul toplantısı için de geçerlidir.\n\n(4) Tevdi eden daha önce vermiş olduğu talimatları en geç genel kurul toplantı tarihinden bir gün öncesine kadar birinci ve ikinci fıkrada belirtilen şekilde değiştirebilir.",
+      "notes": []
+    },
+    {
+      "order": 48,
+      "kind": "madde",
+      "number": "48",
+      "label": "MADDE 48",
+      "heading": "Yürürlükten kaldırılan Yönetmelik",
+      "path": [
+        "ALTINCI BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) 7/8/1996 tarihli ve 22720 sayılı Resmî Gazete’de yayımlanan Sermaye Şirketlerinin Genel Kurul Toplantıları ve Bu Toplantılarda Bulunacak Sanayi ve Ticaret Bakanlığı Komiserleri Hakkında Yönetmelik yürürlükten kaldırılmıştır.",
+      "notes": []
+    },
+    {
+      "order": 49,
+      "kind": "gecici_madde",
+      "number": "1",
+      "label": "GEÇİCİ MADDE 1",
+      "heading": "Mevcut Bakanlık komiserleri",
+      "path": [
+        "ALTINCI BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Daha önce şirket genel kurul toplantılarına Bakanlık komiseri olarak görevlendirilenler, bu Yönetmeliğin 33 üncü maddesi gereğince Bakanlık temsilcisi olabilecekler belirleninceye kadar, şirket genel kurul toplantılarına Bakanlık temsilcisi olarak görevlendirilir.",
+      "notes": []
+    },
+    {
+      "order": 50,
+      "kind": "gecici_madde",
+      "number": "2",
+      "label": "GEÇİCİ MADDE 2",
+      "heading": "İç yönergenin hazırlanması",
+      "path": [
+        "ALTINCI BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik hükümlerine uygun olarak yönetim organınca hazırlanacak iç yönergenin en geç 2013 yılında yapılacak olağan genel kurul toplantısında onaya sunulması zorunludur.",
+      "notes": []
+    },
+    {
+      "order": 51,
+      "kind": "gecici_madde",
+      "number": "3",
+      "label": "GEÇİCİ MADDE 3",
+      "heading": "Hamiline yazılı pay senedi sahipleri için geçiş hükmü",
+      "path": [
+        "ALTINCI BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(Ek:RG-29/5/2021-31495)\n\n(1) 31/12/2021 tarihine kadar, genel kurulu toplantıya çağıranlar, Kanunun geçici 14 üncü maddesi uyarınca Merkezi Kayıt Kuruluşuna bildirilmek üzere şirkete başvuruda bulunan ancak henüz Merkezi Kayıt Kuruluşuna bildirilmeyen pay sahiplerini de genel kurula katılabilecekler listesine dâhil eder. Hamiline yazılı pay senedi sahibi; gerçek kişi ise kimliğini, tüzel kişi ise tüzel kişiyi temsile yetkili olduğunu gösteren yetki belgesi ve kimliğini ibraz etmek suretiyle genel kurula katılabilecekler listesini imzalar.",
+      "notes": [
+        "(Ek:RG-29/5/2021-31495)"
+      ]
+    },
+    {
+      "order": 52,
+      "kind": "madde",
+      "number": "49",
+      "label": "MADDE 49",
+      "heading": "Yürürlük",
+      "path": [
+        "ALTINCI BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmeliğin;\n\na) 19 uncu maddesinin ikinci fıkrasının (b) bendi 1/7/2013 tarihinde,\n\nb) İnternet sitesinde ilan yükümlülüğünü düzenleyen hükümleri 1/10/2013 tarihinde,\n\nc) Diğer hükümleri yayımı tarihinde,\n\nyürürlüğe girer.",
+      "notes": []
+    },
+    {
+      "order": 53,
+      "kind": "madde",
+      "number": "50",
+      "label": "MADDE 50",
+      "heading": "Yürütme",
+      "path": [
+        "ALTINCI BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik hükümlerini (Mülga ibare:RG-9/10/2020-31269) (…) Ticaret Bakanı yürütür.",
+      "notes": [
+        "(Mülga ibare:RG-9/10/2020-31269)"
+      ]
+    }
+  ]
+}

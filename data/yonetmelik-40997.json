@@ -1,0 +1,517 @@
+{
+  "id": "yonetmelik-40997",
+  "type": "yonetmelik",
+  "number": "40997",
+  "title": "Orman Kanununun 16 ncı Maddesinin Uygulanması Hakkında Yönetmelik",
+  "short_names": [],
+  "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40997&MevzuatTur=7&MevzuatTertip=5",
+  "accepted_at": null,
+  "official_gazette": {
+    "date": "2024-09-24",
+    "number": "32672"
+  },
+  "downloaded_at": "2026-11-11",
+  "latest_amendment_seen": "2025-08-22",
+  "converter_version": "0.1.0",
+  "articles": [
+    {
+      "order": 1,
+      "kind": "madde",
+      "number": "1",
+      "label": "MADDE 1",
+      "heading": "Amaç ve kapsam",
+      "path": [
+        "BİRİNCİ BÖLÜM Başlangıç Hükümleri"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmeliğin amacı, 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 16 ncı maddesine göre verilecek izinlere, rehabilite işlemlerine ve izinlerden tahsil edilecek bedellere ait iş ve işlemleri düzenlemektir.",
+      "notes": []
+    },
+    {
+      "order": 2,
+      "kind": "madde",
+      "number": "2",
+      "label": "MADDE 2",
+      "heading": "Dayanak",
+      "path": [
+        "BİRİNCİ BÖLÜM Başlangıç Hükümleri"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik, 6831 sayılı Kanunun 16 ncı maddesine dayanılarak hazırlanmıştır.",
+      "notes": []
+    },
+    {
+      "order": 3,
+      "kind": "madde",
+      "number": "3",
+      "label": "MADDE 3",
+      "heading": "Tanım ve kısaltmalar",
+      "path": [
+        "BİRİNCİ BÖLÜM Başlangıç Hükümleri"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelikte geçen;\n\na) Ağaçlandırma bedeli: İzin verilen alan üzerinden bir defaya mahsus alınan bedeli,\n\nb) Altyapı tesisi: Madencilik faaliyetleri için zorunlu yol, su, röle istasyonu, haberleşme, doğal gaz boru hattı, enerji nakil hattı, trafo, bant konveyör, havai hat, asansör, havalandırma bacası, kuyu tesisleri, şantiye alanı, yemekhane, atölye, maden stok alanı, pasa döküm alanı, maden atığı döküm alanı, verimli toprak depolama alanı, atık barajı, kuşaklama kanalı, derivasyon kanalı, acil kaçış tüneli, patlayıcı madde ve müştemilatı deposu, kantar tesisleri ile yenilenebilir enerji kaynaklarına dayalı lisanssız enerji üretim tesislerini,\n\nc) Arama ruhsatı: Belirli bir alanda maden arama faaliyetlerinde bulunulabilmesi için Enerji ve Tabii Kaynaklar Bakanlığınca verilen belgeyi,\n\nç) Arazi izin bedeli: Verilen izinlerden orman idaresince alınacak kullanım bedelini,\n\nd) Bakan: Tarım ve Orman Bakanını,\n\ne) Bakanlık: Tarım ve Orman Bakanlığını,\n\nf) Basamak/kademe: Yüksek eğimli alanlarda yüzey güvenliği ve ulaşım kolaylığını sağlamak amacıyla kazı yapılarak oluşturulan düzenli yatay ve düşey yüzeyleri,\n\ng) Bedel Artış Katsayısı (BAK): 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun mükerrer 298 inci maddesinin (B) fıkrası hükmü uyarınca belirlenen yeniden değerleme oranını,\n\nğ) Bölge müdürlüğü: Genel Müdürlüğe bağlı orman bölge müdürlüklerini,\n\nh) Çevresel etki değerlendirmesi (ÇED) belgesi: 29/7/2022 tarihli ve 31907 sayılı Resmî Gazete’de yayımlanan Çevresel Etki Değerlendirmesi Yönetmeliğine göre verilecek “Çevresel Etki Değerlendirmesi Olumlu”, “Çevresel Etki Değerlendirmesi Gerekli Değildir” kararını veya Çevresel Etki Değerlendirmesi Yönetmeliği kapsamı dışında olduğuna dair belgeyi,\n\nı) Endemik ve korunması gereken nadir ekosistem alanı: Bulunduğu bölgenin ekolojik özellikleri nedeniyle yalnızca Ülkemizde belirli bir bölgede doğal olarak yayılış gösteren türlerin bulunduğu alanlar ile uzun süre araştırma amaçlı izlenen ve koordinatları Bakanlıkça veya Genel Müdürlükçe belirlenen orman alanlarını,\n\ni) Gen koruma alanı: Bir türün genetik çeşitliliğinin veya gen kaynaklarının doğal ortamında veya doğal ortamı dışında korumak ve çoğaltmak amacıyla koordinatları Bakanlıkça veya Genel Müdürlükçe belirlenen ve bu amaçla yönetilen alanları,\n\nj) Genel bütçe kapsamındaki kamu idareleri: 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun ekli (I) sayılı cetvelinde yer alan idareleri,\n\nk) Genel Müdürlük: Orman Genel Müdürlüğünü,\n\nl) Hafriyat toprağı: İnşaat öncesi arazinin hazırlanması amacıyla yapılan kazı ve benzeri faaliyetler esnasında oluşan toprağı,\n\nm) Hammadde üretim izin belgesi: 4/6/1985 tarihli ve 3213 sayılı Maden Kanununun 14 üncü maddesi gereğince genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarının yapı ve inşaat hammaddesi ihtiyaçlarının karşılanması amacıyla veya Yap-İşlet-Devret modeli ile yapılan kamu yatırımları için ihale sözleşmelerinde hammadde temin sorumluluğunun görevli şirket yükümlülüğüne bırakılması halinde hammadde üretim izni sözleşme konusu işte kullanılmak ve proje süresiyle sınırlı olmak üzere görevli şirkete Maden ve Petrol İşleri Genel Müdürlüğünce verilen belgeyi,\n\nn) Heyet: Bölge müdürlüğünce; bölge müdür yardımcısı, şube müdürü, mühendis veya ilgili orman işletme müdür yardımcısı başkanlığında, ilgili orman işletme müdür yardımcısı, ilgili orman işletme şefi varsa kadastro ve mülkiyet şefi ve/veya teknik elemandan oluşturulan en az üç kişilik komisyonu,\n\no) İnşaat ve yıkıntı atıkları: Konut, bina, köprü, yol gibi alt ve üst yapıların yapımı, yıkımı, yenileme ve tadilatı esnasında ortaya çıkan; tehlikeli atık ve kimyasal madde içermeyen atığı,\n\nö) İşletme izin belgesi: Bir madenin işletmeye alınabilmesi için ruhsat sahasında belirli bir alanda, belirli bir süreyle Maden ve Petrol İşleri Genel Müdürlüğünce verilen belgeyi,\n\np) İşletme ruhsatı: Belirli bir alanda, belirli bir süreyle üretime yönelik hazırlık çalışmaları ve üretim faaliyetlerinin yürütülebilmesi için Maden ve Petrol İşleri Genel Müdürlüğünce verilen yetki belgesini,\n\nr) İzin: Bu Yönetmelik hükümlerine göre orman alanları içinde Bakanlıkça amacı doğrultusunda kullanılmak üzere verilen ön izni, kesin izni ve muvafakatı,\n\ns) Kamu kurum ve kuruluşları: Bu Yönetmelikte genel bütçe kapsamındaki kamu idareleri tanımı dışında yer alan kamu idarelerini,\n\nş) Kesin izin: Bu Yönetmelik hükümlerine göre Bakanlıkça amacı doğrultusunda kullanılmak üzere verilen izni,\n\nt) Kıstelyevm: Bir günlük kazanç; gün sayısınca kesilen parayı,\n\nu) Lisanssız elektrik üretimi: Lisans alma ve şirket kurma yükümlülüğü olmaksızın, gerçek ve tüzel kişilerin elektrik ihtiyaçlarını kendi üretim tesisinden karşılaması amacıyla elektrik üretmesini,\n\nü) Maden arama izni: Maden araması yapılabilmesi için ruhsata dayalı olarak Bakanlıkça verilen izni,\n\nv) Maden işletme izni: Maden üretimi yapılması için işletme ruhsatına dayalı olarak Bakanlıkça verilen izni,\n\ny) Muhafaza ormanı: 6831 sayılı Kanunun 23 üncü ve 24 üncü maddeleri kapsamına alınan yerleri,\n\nz) Orman idaresi: Orman Genel Müdürlüğü merkez ve taşra teşkilatını,\n\naa) Orman parkı: 6831 sayılı Kanunun 25 inci maddesine göre ayrılan ve yönetilen koordinatları belirli alanları,\n\nbb) Ormancılık bürosu: 29/6/2006 tarihli ve 5531 sayılı Orman Mühendisliği, Orman Endüstri Mühendisliği ve Ağaç İşleri Endüstri Mühendisliği Hakkında Kanuna göre kurulan büro ve şirketi,\n\ncc) Ön izin: Kesin izinde istenen belgelerin hazırlanması için, sahada herhangi bir çalışma yapılmaması şartıyla verilen izni,\n\nçç) Prospeksiyon: Maden arama faaliyetlerine mesnet teşkil edecek ön bilgilerin toplanması işini,\n\ndd) Rehabilitasyon projesi: Madencilik faaliyetleri yapılan alanın doğal yapısının yeniden düzenlenmesi, doğal dengesinin kurulması, tüm canlıların güvenle yararlanabileceği hâle getirilmesi amacıyla çevre ile uyum planına uygun olarak hazırlanacak projeyi,\n\nee) Rehabilite: İznin başlangıcından sona ermesine kadar geçen sürede, izin alanının; çevre emniyetinin sağlanarak, rehabilitasyon projesine uygun olarak ıslah edilmesini, orman ekosisteminin tesisi amacıyla ağaçlandırma ve silvikültür teknikleri kullanılarak çevreye uyumlu hale getirilmesi işlemini,\n\nff) Rödövans sözleşmesi: Ruhsat sahalarındaki madenlerin işletilerek değerlendirilmesi amacıyla üçüncü kişilere veya kuruluşlara tasarruf hakkı sağlamak üzere ruhsat sahasının tamamı ya da bir kısmı için ruhsat sahiplerinin, bu kişilerle yapmış oldukları sözleşmeleri,\n\ngg) Rödövansçı: Ruhsat sahalarındaki madenlerin üretilerek değerlendirilmesi amacıyla ruhsat sahiplerinin rödövans sözleşmesi imzaladığı gerçek ve tüzel kişiler, kamu kurum ve kuruluşları ile bunların iştiraklerini,\n\nğğ) Ruhsat: Arama ruhsatı veya işletme ruhsatını,\n\nhh) Saha analiz raporu: İzin talep edilen alanın mülkiyet durumu, alandaki mevcut ağaç türleri, kapalılık ve gelişim çağlarını, alanı yansıtır görselleri içerir raporunu,\n\nıı) Stabilite: Bir malzeme kütlesinin veya yapının önemli bir deformasyona, harekete, erozyona, heyelana dayanabilmesi şartlarını, bulunduğu durumu koruyabilme yeteneğini,\n\nii) Teknik rapor: Madencilik faaliyetlerinde ve toprak dolgu izinlerinde izin veriliş amacına ve rehabilitasyon projesine/toprak dolgu projesine uygun çalışıldığını, teknik raporun verildiği döneme ait bedellere ilişkin ödeme bilgilerini kontrol etmek amacıyla her yıl düzenlenecek raporu,\n\njj) Teminat: Tedavüldeki Türk parasını, bankalar tarafından verilen süresiz teminat veya e-teminat mektuplarını, Hazine ve Maliye Bakanlığınca ihraç edilen devlet iç borçlanma senetleri ve bu senetler yerine düzenlenen belgeleri,\n\nkk) Tesis: Madencilik faaliyetleri için zorunlu olan her türlü kırma, eleme, yıkama, öğütme, kesme ve sayalama tesisleri ile işleme tesisi kapsamında sallantılı masa, jig, konsantratör, flotasyon, liç, kalsinasyon, bioksidasyon gibi cevher hazırlama ve zenginleştirme tesisleri, karıştırma, depolama, atık kazanma ve atık bertaraf tesislerini,\n\nll) Tohum meşceresi: Orman ağacı ve ağaççığı türlerinde tohum, bitki üretim materyali üretmek amacıyla koordinatları Bakanlıkça ve Genel Müdürlükçe belirlenen ve bu amaçla yönetilen alanları,\n\nmm) Toprak dolgu bedeli: Dolgu hacmi üzerinden hesaplanan bedeli,\n\nnn) Toprak dolgu projesi: Ormanlık alanda madencilik faaliyetlerinin sona ermesi neticesinde idareye teslim edilen veya terk edilen doğal yapısı bozulmuş maden sahalarının orman yetiştirilmek üzere doldurularak ağaçlandırmaya hazır hale getirilmesi için dolgu öncesi ve dolgu sonrası nihai kodları gösterir, çevresindeki topografik yapı ile uyumlu dolgu sonrası rehabilite işlemini ve kübaj cetvelini de içeren projeyi,\n\noo) Vaziyet planı: İzin sahalarının koruma kullanma dengesi içerisinde, üzerinde hangi alanların ne şekilde ve ne maksatla kullanılacağının özel işaretler ile gösterildiği, koordinatlı, 1/1000 veya uygun ölçekli planları,\n\nöö) Verimli orman alanları: Amenajman planlarında veya aktüelinde, 1 kapalı orman alanları (tepe kapalılığı %11-40 arası), 2 kapalı orman alanları (tepe kapalılığı %41-70 arası), 3 kapalı orman alanları (tepe kapalılığı %71 ve üzeri), gençleştirme alanları, ağaçlandırma alanları ile bal ormanlarını,\n\nifade eder.",
+      "notes": []
+    },
+    {
+      "order": 4,
+      "kind": "madde",
+      "number": "4",
+      "label": "MADDE 4",
+      "heading": "Müracaat",
+      "path": [
+        "İKİNCİ BÖLÜM Maden Arama, İşletme, Tesis ve Altyapı Tesis İzin İşlemleri"
+      ],
+      "repealed": false,
+      "text": "(1) Ruhsat sahibi veya rödövansçı, e-Devlet üzerinden yapacağı izin müracaatında madenin adının belirtildiği talep yazısı ile beraber;\n\na) Ruhsatını,\n\nb) Saha analiz raporunu,\n\nc) Yenilenebilir enerji kaynaklarına dayalı lisanssız enerji üretim tesisleri taleplerinde, 12/5/2019 tarihli ve 30772 sayılı Resmî Gazete’de yayımlanan Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği kapsamında, lisanssız elektrik üretim tesisi kurabileceğine dair ilgili şebeke işletmecisinden alınacak belgesini,\n\nç) 1/1000 veya uygun ölçekli vaziyet planını,\n\nd) Koordinat listesini,\n\ne) Kültür ve Turizm Bakanlığı, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı ile Doğa Koruma ve Milli Parklar Genel Müdürlüğünden talep edilen alanda kurum mevzuatına göre izin verilmesinde sakınca olmadığına dair görüş yazılarını,\n\nf) ÇED belgesini,\n\ng) Hammadde üretim, maden işletme, pasa döküm alanı, atık barajı, liç, atık kazanma ve atık bertaraf tesis izin taleplerinde rehabilitasyon projesini,\n\nğ) Yenilenebilir enerji kaynaklarına dayalı lisanssız enerji üretim tesisleri taleplerinde, Elektrik Piyasasında Lisanssız Elektrik Üretim Yönetmeliği kapsamında lisanssız elektrik üretim tesisi kurulmasına ilişkin ilgili şebeke işletmecisi ile yapılan bağlantı anlaşması ve uygulama projesini,\n\nh) Müracaat sahibinin rödövansçı olması durumunda ekinde maden siciline bilgi amaçlı şerh edilmiş rödövans sözleşmesinin sureti olan Maden ve Petrol İşleri Genel Müdürlüğünün yazısını,\n\nekleyerek kesin izin için veya bu fıkranın (a), (b), (c), (ç), (d) ve (h) bentlerinde belirtilen belgeler ile ön izin için müracaatta bulunur. Ayrıca bu fıkradaki istenilen belgeler bir takım halinde fiziksel olarak bölge müdürlüğüne gönderilir.\n\n(2) Kazı gerektirmeyen arama taleplerinde e-Devlet üzerinden yapılacak müracaatta, talep yazısı ile birlikte ruhsat, arama yapılacak yerin koordinat listesi ve krokisi eklenir.\n\n(3) Muhafaza ormanları, gen koruma alanları, tohum meşcereleri ve verimli orman alanlarındaki ruhsat görüş taleplerinde; talep yazısı, saha analiz raporu, 1/1000 veya uygun ölçekli vaziyet planı, koordinat listesi, Maden ve Petrol İşleri Genel Müdürlüğüne ruhsat müracaatında bulunduğuna ve hak sağladığına dair belgesi ile birlikte müracaat edilir.\n\n(4) Birinci fıkranın (e) bendinde istenilen kurum görüş yazıları ile mevzuatı kapsamında alınması gerektiği heyetçe tespit edilen görüş yazıları, talep sahibi tarafından müracaat evrakına eklenir. Kamu kurum ve kuruluşları hariç müracaat sahibinin kurum görüş yazılarını temin edemediğini belgelendirmesi halinde, ilgili kurum görüş yazıları orman idaresi tarafından istenebilir.\n\n(5) Çevresel Etki Değerlendirmesi Yönetmeliği kapsamında alınan veya yenilenen ÇED belgelerinin geçerli olduğunun teyit edilmesi halinde bu maddenin birinci fıkrasının (e) bendinde belirtilen kurum görüş yazıları istenmez. Ancak ÇED alanı dışında izin talep edilmesi halinde kurum görüşleri ayrıca istenir.",
+      "notes": []
+    },
+    {
+      "order": 5,
+      "kind": "madde",
+      "number": "5",
+      "label": "MADDE 5",
+      "heading": "İnceleme ve değerlendirme",
+      "path": [
+        "İKİNCİ BÖLÜM Maden Arama, İşletme, Tesis ve Altyapı Tesis İzin İşlemleri"
+      ],
+      "repealed": false,
+      "text": "(1) Bölge müdürlüğü e-Devlet üzerinden yapılan müracaatı öncelikle evrak üzerinde inceler, eksiklikler varsa on işgünü içinde müracaat sahibine bildirir. Eksiklikler tamamlanıncaya kadar talep değerlendirmeye alınmaz. Evrakın tam olması halinde heyet tarafından arazi üzerinde gerekli incelemeler yapılarak, talebin Devlet ormanlarına isabet eden kısımları için ön izin veya kesin izin raporu düzenlenir.\n\n(2) Kazı gerektirmeyen maden arama izin taleplerinde e-Devlet üzerinden alınan belgelerin tam olması halinde bölge müdürlüğü müracaatı inceler. Uygun olması durumunda izin süresi ve alanı belirtilerek talep sahibine yazı ile bildirilir. İzin sahibi, izin süresince bu belge ile ruhsat alanında prospeksiyon, jeolojik harita yapımı, numune alımı, jeofizik araştırma gibi kazı gerektirmeyen maden arama faaliyetinde bulunabilir. Aramanın el karotu ile karot alma şeklinde yapılmak istenmesi halinde idarece teminat alınmak suretiyle belirlenen sürede ve alanda el karotu ile arama yapılmasına izin verilebilir.\n\n(3) Değerlendirme Komisyonunun görev alanındaki; muhafaza ormanları, gen koruma alanları, tohum meşcereleri, orman parkları ile endemik ve korunması gereken nadir ekosistem alanlarına isabet eden maden arama, maden işletme, maden tesis ve altyapı tesisi izin müracaatları ile muhafaza ormanları, gen koruma alanları, tohum meşcereleri ve verimli orman alanlarındaki ruhsat talepleri bölge müdürlüğünce müracaat evrakı ve düzenlenen tutanak ile birlikte, Genel Müdürlüğe gönderilir. Talebin bir kısmının Değerlendirme Komisyonunca değerlendirilmesi gerektiği durumlarda talep bir bütün olarak ele alınır.\n\n(4) Değerlendirme Komisyonunun görev alanındaki verimli orman alanlarına isabet eden maden arama, maden işletme, maden tesis ve altyapı tesisi izin talepleri bölge müdürlüğünce incelenerek izin raporu ile birlikte Genel Müdürlüğe gönderilir.",
+      "notes": []
+    },
+    {
+      "order": 6,
+      "kind": "madde",
+      "number": "6",
+      "label": "MADDE 6",
+      "heading": "Ön izin ve ön izin süre uzatımı",
+      "path": [
+        "İKİNCİ BÖLÜM Maden Arama, İşletme, Tesis ve Altyapı Tesis İzin İşlemleri"
+      ],
+      "repealed": false,
+      "text": "(1) Uygun görülen taleplere yirmi dört aya kadar ön izin verilebilir. Ormanlık alandan verilen ön izin, müracaat sahibine tebliğ edilir. Tebligat tarihinden itibaren altı ay içerisinde izin sahibinden ön izin bedeli ve onaylı taahhüt senedi istenir. Tebligat tarihinden itibaren altı ay içerisinde ön izin bedelinin ödenmemesi ve onaylı taahhüt senedinin verilmemesi halinde izin iptal edilmiş sayılır. İptal işlemi ilgiliye tebliğ edilir. Aynı yerle ilgili yeniden izin talep edilmesi yeni izin talebi olarak değerlendirilir. Ön izin sahibinin, ön izin süresi son günü bitimine kadar bölge müdürlüğüne süre uzatımı talebinde bulunması, mevcut taahhüt senedi hükümlerini kabul ettiğine dair ek taahhüt senedi vermesi halinde ön izin süresinin bitim tarihinden itibaren on iki ay süreyle ön izin ve sorumlulukları devam eder. Ön izin süresi toplam otuz altı ayı geçemez.\n\n(2) Ön izin süresi içinde saha teslimi yapılmaz ve hiçbir faaliyete müsaade edilmez.\n\n(3) Ön izin; izin süresi son günü bitimine kadar süre uzatımı talebiyle bölge müdürlüğüne müracaat edilmemesi, izin sahibinin vazgeçmesi veya istenen belgelerin süresi içinde tamamlanarak orman idaresine verilmemesi halinde iptal edilmiş sayılır. İptal işlemi ilgiliye tebliğ edilir.\n\n(4) Süre uzatmaları dahil, ön izin süresi içinde herhangi bir sebeple kesin izne dönüşmemiş ön izinler için herhangi bir hak iddia edilemez.\n\n(5) Ön izin süresi içinde mevzuatta kesin izin verilmesini engelleyen değişiklik olması halinde ön izin iptal edilir.",
+      "notes": []
+    },
+    {
+      "order": 7,
+      "kind": "madde",
+      "number": "7",
+      "label": "MADDE 7",
+      "heading": "Kesin izin",
+      "path": [
+        "İKİNCİ BÖLÜM Maden Arama, İşletme, Tesis ve Altyapı Tesis İzin İşlemleri"
+      ],
+      "repealed": false,
+      "text": "(1) Bakanlıkça (Değişik ibare:RG-22/8/2025-32994) ruhsat/rödövans süresi dikkate alınarak uygun görülenlere izin verilir. Ormanlık alandan verilen izin, müracaat sahibine tebliğ edilir. Tebligat tarihinden itibaren altı ay içerisinde izin sahibinden teminat, bedeller ve onaylı taahhüt senedi istenir. Tebligat tarihinden itibaren altı ay içerisinde bedellerin ödenmemesi, teminatın ve onaylı taahhüt senedinin idareye verilmemesi halinde ise saha teslimi yapılmaz, herhangi bir bildirime gerek kalmaksızın izin iptal edilmiş sayılır. İptal işlemi ilgiliye tebliğ edilir. Aynı yerle ilgili yeniden izin talep edilmesi yeni izin talebi olarak değerlendirilir.\n\n(2) Maden işletme izinlerinde, izin sahibi; izne konu alanı kapsayan işletme izin belgesini orman idaresine vermeden saha teslimi yapılmaz.\n\n(3) Madencilik faaliyetine başlanılmadan önce izin sahibine, maden işletme ile tesis izin alanları, maden stok alanı, pasa döküm alanı, verimli toprak depolama alanı ve atık barajı izin sahasının sınırlarının köşe noktalarına zeminden en az iki metre yükseklikte, üzerinde koordinat değerleri yazılı sabit işaretler tesis ettirilir. İki nokta arası 25 metreden fazla olamaz. Aksi halde saha teslimi yapılmaz ve hiçbir faaliyete müsaade edilmez. Sabit işaretler izin süresi ve rehabilite izleme sürecinde muhafaza edilir.\n\n(4) İzin verilmemesi halinde durum ilgiliye tebliğ edilir.\n\n(5) Ruhsat alanında maden arama, maden işletme veya hammadde üretimi için ormanlık alanlarda Bakanlıkça veya ormanlık alan dışında ilgili kurumlarca izin verilmiş ise, bu ruhsata dayalı olarak madencilik faaliyetleri için gerekli ve orman alanı içinde yapılması zorunlu tesislere ve altyapı tesislerine ruhsat alanı içinde, talep edilen altyapı tesislerinin ruhsat alanı içinde yapılması için uygun alan bulunulmadığının heyet tarafından tespit edilmesi halinde ruhsat alanı bitişiğinde izin verilebilir.\n\n(6) Talep edilen maden tesis ve altyapı tesislerinden röle istasyonu, şantiye alanı, maden stok alanı, pasa döküm alanı, maden atığı döküm alanı, atık barajı, kuşaklama kanalı, derivasyon kanalı, acil kaçış tüneli, patlayıcı madde ve müştemilatı deposu ile yenilenebilir enerji kaynaklarına dayalı lisanssız enerji üretim tesislerinin; ruhsat alanı içinde ve bitişiğinde yapılması için uygun alan bulunmadığının heyet tarafından tespit edilmesi halinde Maden ve Petrol İşleri Genel Müdürlüğünün uygun görüş yazısına istinaden ruhsat alanı dışında izin verilebilir.\n\n(7) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarınca yol, köprü, baraj, gölet, liman gibi projelerin inşasında kullanılacak yapı ve inşaat hammaddelerinin üretimi için hammadde üretim izin belgesine dayanarak orman alanları içinde bu amaçla yapılacak işletme faaliyetleri, maden tesis ve altyapı tesislerine bu Yönetmelik hükümlerine göre izin verilir.\n\n(8) İzin başlangıç tarihi; izin olurunda izin başlangıç tarihi belirtilmiş ise izin başlangıç tarihi bu tarihtir. İzin olurunda belirtilmemiş ise izin başlangıç tarihi izin olurunun verildiği tarihtir. İzin süresinin tamamen veya kısmen uzatıldığı izinlerde izin başlangıç tarihi ilk iznin verildiği tarihtir. Farklı tarihlerde verilen izinlerin birlikte uzatılması halinde izin başlangıç tarihi yeni izin olur tarihidir.",
+      "notes": [
+        "(Değişik ibare:RG-22/8/2025-32994)"
+      ]
+    },
+    {
+      "order": 8,
+      "kind": "madde",
+      "number": "8",
+      "label": "MADDE 8",
+      "heading": "Kesin izin süre uzatımı",
+      "path": [
+        "İKİNCİ BÖLÜM Maden Arama, İşletme, Tesis ve Altyapı Tesis İzin İşlemleri"
+      ],
+      "repealed": false,
+      "text": "(1) İzin sahibinin yenilenmiş ruhsat, revize edilmiş rehabilitasyon projesi ve bu Yönetmelik hükümlerine göre istenen belgeler ile birlikte e-Devlet üzerinden (Ek ibare:RG-22/8/2025-32994) veya fiziksel olarak izin süresi son günü bitimine kadar bölge müdürlüğüne müracaatı halinde mevcut iznin bitim tarihinden itibaren bu Yönetmelik hükümlerine göre süre uzatımı yapılabilir. Süre uzatımının Bakanlıkça uygun bulunması halinde teminat ve arazi izin bedeli bu Yönetmelik hükümlerine göre yeniden hesaplanır, onaylı taahhüt senedi alınır.\n\n(2) İzin sahibinin,\n\na) İzin süresinin ruhsat süresinden önce sona ermesi halinde ruhsat ve bu Yönetmelik hükümlerine göre istenen belgeler ile,\n\nb) İzin süresi ile birlikte ruhsat süresinin de sona ermesi halinde yenilenmiş ruhsat ve bu Yönetmelik hükümlerine göre istenen belgeler ile,\n\nc) İzin süresi ile birlikte ruhsat süresinin de sona ermesi ve ilgili kanun hükümlerine göre yenilenmiş ruhsatı alamaması halinde; Maden ve Petrol İşleri Genel Müdürlüğünden alınmış ruhsat hukukunun yürürlükte olduğuna veya temdit işlemlerinin veya işletme ruhsatına geçişle ilgili işlemlerin devam ettiğine dair belge ile,\n\nç) İzin sahibinin rödövansçı olması halinde ise (a), (b) ve (c) bentlerindeki belgeler ile birlikte, ekinde maden siciline bilgi amaçlı şerh edilmiş rödövans sözleşmesinin sureti olan Maden ve Petrol İşleri Genel Müdürlüğünün yazısı ile,\n\nizin süresinin son günü bitimine kadar e-Devlet üzerinden (Ek ibare:RG-22/8/2025-32994) veya fiziksel olarak müracaat etmesi, bir yıllık arazi izin bedelini ödemesi ve mevcut taahhüt senedi hükümlerini kabul ettiğine dair onaylı ek taahhüt senedi vermesi halinde bir yıl süreyle, izin aynı şartlarla devam eder.\n\n(3) İkinci fıkrada tanınan süre içinde yapılan taleplerin Bakanlıkça sonuçlandırılamaması halinde, yıllık arazi izin bedellerini ödemesi ve mevcut taahhüt senedi hükümlerini kabul ettiğine dair onaylı ek taahhüt senedi vermesi halinde, izin Bakanlıkça neticelendirilinceye kadar devam eder.",
+      "notes": [
+        "(Ek ibare:RG-22/8/2025-32994)",
+        "(Ek ibare:RG-22/8/2025-32994)"
+      ]
+    },
+    {
+      "order": 9,
+      "kind": "madde",
+      "number": "9",
+      "label": "MADDE 9",
+      "heading": "Alınacak bedeller",
+      "path": [
+        "İKİNCİ BÖLÜM Maden Arama, İşletme, Tesis ve Altyapı Tesis İzin İşlemleri"
+      ],
+      "repealed": false,
+      "text": "(1) Maden arama, maden işletme, maden tesis ve altyapı tesis ön izinlerinde ön izin bedeli, kesin izinlerde ise;\n\na) Ağaçlandırma bedeli,\n\nb) Arazi izin bedeli,\n\nalınır.\n\n(2) Aynı ruhsat alanı/hammadde üretim izin alanı içinde maden işletme amacıyla bu Yönetmeliğin yayımı tarihinden önce veya sonra Bakanlıkça verilmiş izin alanlarının toplamının beş hektara kadar olan kısmı için arazi izin bedeli alınmaz.\n\n(3) Kazı gerektirmeyen maden arama izninden bedel alınmaz.\n\n(4) Genel bütçe kapsamındaki kamu idareleri, 25/6/2010 tarihli ve 6001 sayılı Karayolları Genel Müdürlüğünün Hizmetleri Hakkında Kanunun 28 inci maddesinin ikinci fıkrası gereği Karayolları Genel Müdürlüğünün, 18/12/1953 tarihli ve 6200 sayılı Devlet Su İşleri Genel Müdürlüğünce Yürütülen Hizmetler Hakkında Kanunun ek 5 inci maddesinin ikinci fıkrası gereği Devlet Su İşleri Genel Müdürlüğünün hammadde üretim izin belgesi veya ruhsat ile yapacağı madencilik faaliyetleri için verilen izinlerinden, bedel ve teminat alınmaz. Bu idarelerin merkez ve taşra birimleri adına düzenlenmiş hammadde üretim izin belgesi veya ruhsata dayalı olarak verilen izinler Bakanlıkları veya Genel Müdürlükleri adına verilmiş sayılır.\n\n(5) Genel bütçe kapsamı dışındaki bütün kamu kurum ve kuruluşları ile belediyeler ve il özel idarelerinin, yol, köprü, baraj, gölet, liman gibi projelerin inşasında kullanılacak yapı ve inşaat hammaddelerinin üretimi için onaylı hammadde üretim izin belgesine veya ruhsata dayanarak, madencilik faaliyetleri için verilecek bütün izinlerden birinci ve ikinci fıkralarda belirtilen bedeller alınır. Dördüncü fıkrada yer alan kamu kurum ve kuruluşları ile 6831 sayılı Kanunun ek 9 uncu maddesinin ikinci fıkrası gereğince 9/5/1985 tarihli ve 3202 sayılı Köye Yönelik Hizmetler Hakkında Kanun çerçevesinde köye ve bağlı yerleşim birimlerine yönelik yol, su, atık su, gölet ve altyapı tesisi yapımı maksadı ile il özel idareleri adına projelerin inşasında kullanılacak yapı ve inşaat hammaddelerinin üretimi için onaylı hammadde üretim izin belgesine veya ruhsata dayanarak verilen izinlerden bedel alınmaz.\n\n(6) 3213 sayılı Kanunun 9 uncu maddesi kapsamında;\n\na) 3213 sayılı Kanunun 30 uncu maddesinin üçüncü fıkrası kapsamında ihale edilecek II. Grup (c) bendi ve IV. Grup maden sahaları, 47 nci maddesinin beşinci fıkrası kapsamında ihtisaslaşmış Devlet kuruluşları ile bunların bağlı ortaklıklarına devredilen maden sahaları, bu kuruluşlar ve bunların bağlı ortaklıkları ile Özelleştirme İdaresi Başkanlığı tarafından ihale edilecek maden sahalarında işletme izin belgesinin düzenlendiği tarihten başlamak üzere, ilk on yıl süreyle ağaçlandırma bedeli hariç herhangi bir bedel alınmaz.\n\nb) IV. Grup işletme izinli maden ruhsat sahalarının cinsi, rezervi, bulunduğu bölge, tenörü, istihdamı, yatırım ve ülke ihtiyaçları dikkate alınarak ara ve uç ürün üretmek şartıyla, bu ruhsatlardan işletme izni düzenlendiği tarihten başlamak üzere, on yıl süreyle 6831 sayılı Kanun kapsamında ağaçlandırma bedeli hariç diğer bedellerin alınıp alınmayacağını belirlemeye Cumhurbaşkanı yetkilidir.\n\nc) (a) ve (b) bentleri kapsamı dışındaki ruhsatlardan işletme izni düzenlendiği tarihten başlamak üzere, ilk on yıl süreyle 6831 sayılı Kanuna göre alınan arazi izin bedelinin %50’si alınır. İşletme izinleri 28/11/2017 tarihli ve 7061 sayılı Bazı Vergi Kanunları ile Diğer Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanunun yayımlandığı tarihten önce düzenlenmiş olan bu kapsamdaki ruhsatlardan, 7061 sayılı Kanunun yayımlandığı tarih itibarıyla on yıldan arta kalan süresi boyunca 6831 sayılı Kanuna göre alınan arazi izin bedelinin %50’si alınır.\n\nç) Alınan arazi izin bedelinde her yıl 213 sayılı Kanunun mükerrer 298 inci maddesinin (B) fıkrası hükmü uyarınca belirlenen yeniden değerleme oranı artışı dışında başkaca bir artış yapılmaz.",
+      "notes": []
+    },
+    {
+      "order": 10,
+      "kind": "madde",
+      "number": "10",
+      "label": "MADDE 10",
+      "heading": "Devir işlemleri",
+      "path": [
+        "İKİNCİ BÖLÜM Maden Arama, İşletme, Tesis ve Altyapı Tesis İzin İşlemleri"
+      ],
+      "repealed": false,
+      "text": "(1) Ruhsatın devir edilmesi halinde, bu ruhsata dayalı olarak Bakanlıkça verilmiş izinler devir alanın orman idaresine her bir izin için ruhsatın devredildiği tarihten itibaren 60 gün içerisinde bu Yönetmelik hükümlerine göre istenen belgeler ile birlikte e-Devlet üzerinden başvuru yapması halinde, devralan adına Bakanlıkça devredilebilir. Devir talebinin Bakanlıkça uygun bulunması halinde devir alandan bu Yönetmelik hükümlerine göre yeniden hesaplanan arazi izin bedeli ve teminat ile birlikte onaylı taahhüt senedi alınır. Devir işlemleri tamamlanıncaya kadar izin sahibinin orman idaresine karşı sorumlulukları aynen devam eder.\n\n(2) Rödövansçının 4 üncü maddenin birinci fıkrasının (h) bendinde belirtilen evrak ile müracaatı halinde o ruhsata dayalı olarak Bakanlıkça verilen izinler bu maddenin birinci fıkrasında yer alan şartlarla rödövansçı adına Bakanlıkça devredilebilir. Devir işlemleri tamamlanıncaya kadar izin sahibinin orman idaresine karşı sorumlulukları aynen devam eder.",
+      "notes": []
+    },
+    {
+      "order": 11,
+      "kind": "madde",
+      "number": "11",
+      "label": "MADDE 11",
+      "heading": "İptal işlemleri",
+      "path": [
+        "İKİNCİ BÖLÜM Maden Arama, İşletme, Tesis ve Altyapı Tesis İzin İşlemleri"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik hükümlerine göre ruhsat veya hammadde üretim izin belgesine dayalı olarak verilen maden arama, maden işletme, maden tesis ve altyapı tesis izinleri;\n\na) Hak sahibinin vazgeçmesi,\n\nb) Ruhsatın iptali,\n\nc) ÇED belgesinin iptal edilmesi,\n\nç) Mevcut taahhüt senedi hükümlerini kabul ettiğine dair onaylı ek taahhüt senedi, bir yıllık arazi izin bedelini ödediğine dair evrak ve yenilenmiş ruhsat ya da ruhsat hukukunun yürürlükte olduğuna veya temdit işlemlerinin veya işletme ruhsatına geçişle ilgili işlemlerin devam ettiğine dair belge ile birlikte e-Devlet üzerinden izin süresi son günü bitimine kadar ilgili bölge müdürlüğüne iznin yenilenmesi talebinde bulunulmaması,\n\nd) 8 inci maddenin ikinci fıkrasının (c) ve (ç) bentlerine istinaden devam eden izinlerde tanınan sürede bu Yönetmelik hükümlerine göre istenen evrak ile birlikte süre uzatımı için müracaat edilmemesi,\n\ne) Ödenmesi gereken arazi izin bedelinin savaş, yangın, deprem, afet, genel hayata etkili salgın hastalık gibi mücbir sebep halleri hariç olmak üzere son ödeme tarihi itibarıyla izin süresince üst üste iki kez ödenmemesi,\n\nf) Bu Yönetmelik hükümleri kapsamında madencilik faaliyetleri için verilen izinlerin amacı dışında kullanılması,\n\ng) İzin sahibinin rödövansçı olması durumunda, maden siciline bilgi amaçlı şerh edilmiş rödövans sözleşmesi şerhinin kaldırılması,\n\nğ) Ruhsatın/rödövansın devredilmesi halinde ruhsatın/rödövansın devredildiğinin orman idaresine yazılı olarak bildirildiği veya orman idaresince resen tespit edildiği hallerde orman idaresince verilmiş izinlerin devralınmasına dair yapılan tebligata rağmen 60 gün içerisinde devir talebinin yapılmaması,\n\nhalinde Bakanlıkça iptal edilir.\n\n(2) Taahhüt senedi hükümlerine uyulmaması veya rehabilitasyon projesine uygun çalışılmadığının orman idaresince tespiti halinde eksikliklerin tebligat tarihinden itibaren altı ay içerisinde giderilmesi gerektiği izin sahibine yazılı olarak tebliğ edilir. Bu süre sonunda eksiklikler giderilmediği, taahhüt senedine ve rehabilitasyon projesine uygunluk sağlanmadığı takdirde verilmiş olan izin iptal edilir.\n\n(3) İznin iptal edilmesi halinde durum ilgiliye tebliğ edilir.",
+      "notes": []
+    },
+    {
+      "order": 12,
+      "kind": "madde",
+      "number": "12",
+      "label": "MADDE 12",
+      "heading": "Rehabilite",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Rehabilite, Rehabilitasyon Projesi, Takip ve Kontrol"
+      ],
+      "repealed": false,
+      "text": "(1) İzin sahibi, madencilik faaliyeti yapacağı sahayı, rehabilitasyon projesine uygun olarak rehabilite etmek zorundadır.\n\n(2) Rehabilite yapılacak alanın kullanım öncesi dönemde çoraklık ve verimsizlik gibi olumsuz nitelikler taşıyor olması, alanda rehabilite yapılmaması için gerekçe olarak gösterilemez.\n\n(3) Rehabilite, madencilik faaliyetlerinin başlamasıyla birlikte başlar, madencilik faaliyetleri sırasında devam eder, iznin bittiği tarihte rehabilitenin de bitirilmesi esastır. Bu tarihte rehabilitenin bitirilemediğinin heyetçe tespit edilmesi ve izin sahibinin talebi halinde bölge müdürlüğünce bir yıl ek süre verilir. Rehabilite için verilen bu ek sürede madencilik faaliyetine izin verilmez. Bu sürede bedellerin alınmasına devam edilir. Aksi halde bu işlem orman idaresince yapılır veya yaptırılır. Yapılan masraflar ilgili ruhsata ilişkin olarak Maden ve Petrol İşleri Genel Müdürlüğü tarafından ruhsat sahibinden alınan bedel ve teminatlardan karşılanır. Bu bedelin yetersiz kalması halinde eksik kalan tutar izin sahibinden rızaen, ödememesi durumunda yasal yollarla tahsil edilir. Ayrıca bu sahaların rehabiliteye hazırlık maksatlı toprak dolgu izinlerine konu edilmesi halinde, Maden ve Petrol İşleri Genel Müdürlüğünden rehabilitasyon amaçlı alınan bedel ve teminatlar istenir.\n\n(4) İzni iptal edilen maden tesis ve altyapı tesisleri bildirime gerek kalmaksızın bir yıl içerisinde izin sahibi tarafından sökülerek ormanlık alanın dışına çıkartılır. Taşınmayan maden tesis veya altyapı tesisleri izin sahibinin talebi veya orman idaresinin ihtiyaç duyması halinde eksiksiz ve bedelsiz olarak orman idaresinin sabit kıymetlerine alınabilir. Aksi takdirde bu maden tesis ve altyapı tesisleri ormanlık alanın dışına taşınarak, yapılan masrafları izin sahibinden rızaen, ödememesi durumunda yasal yollarla tahsil edilir. Maden atığı döküm alanı, pasa döküm alanı, atık barajı gibi taşınması mümkün olmayan maden tesis veya altyapı tesisleri için bu hüküm uygulanmayarak rehabilitasyon projesine göre izin sahibince rehabilite edilir. Ancak maden atığı bertaraf tesisleri için verilen izinlerde, izin alanının iptali ile ilgili olarak Çevre, Şehircilik ve İklim Değişikliği Bakanlığından tesisin 15/7/2015 tarihli ve 29417 sayılı Resmî Gazete’de yayımlanan Maden Atıkları Yönetmeliğine uygun olarak kapatılıp kapatılmadığı hakkında görüş istenir, görüş sonucuna göre izin sahibinin sorumluluğu devam eder veya sona erer.\n\n(5) Kazı gerektiren maden arama veya rehabilitasyon projesi istenmeyen maden tesis ve altyapı tesis izinlerinde madencilik faaliyetleri ile bozulan alan izin sahibince izin öncesi topoğrafik yapı ile uyumlu hale getirilir. Aksi halde orman idaresince bu işlemler yapılır veya yaptırılır. Yapılan masraflar izin sahibinden rızaen, ödememesi durumunda yasal yollarla tahsil edilir. Ayrıca rehabilitasyon projesi istenmez.\n\n(6) İzin sahibinin, rehabilite çalışmalarını mücbir sebepler dışında herhangi bir şekilde sürekli olarak durdurması halinde, durma nedenine bağlı olmaksızın rehabilite çalışması; işin önemi ve ivedilik durumuna göre masrafları izin sahibi tarafından karşılanarak orman idaresince tamamlanır.\n\n(7) İznin devredilmesi durumunda söz konusu alanın rehabilite sorumluluğu yeni izin sahibi için de aynen geçerlidir.\n\n(8) İznin herhangi bir nedenle iptal edilmesi, rehabilite sorumluluğunu ortadan kaldırmaz. İzin sahibi iptal öncesi işletilen alanın rehabilite çalışmalarını izin iptal kararının tebliğinden sonraki bir yıl içerisinde bitirmekle yükümlüdür. Rehabilite için verilen sürede madencilik faaliyetine izin verilmez. Bu süre için taahhüt senedi ve bedel alınır. Aksi halde bu işlem orman idaresince yapılır veya yaptırılır. Yapılan masraflar izin sahibinden tahsil edilir.\n\n(9) İzin verilen sahada işletme ruhsatının herhangi bir sebeple sona ermesi halinde verilen izin iptal edilir. İptal işlemi ilgiliye bildirilir. Ancak izin sahasından üretilmiş ve izin sahasında mevcut madenlerin, pasa, bakiye, atık/artık ve cürufların, ruhsat sahibince nakledilmesi için Maden ve Petrol İşleri Genel Müdürlüğünün uygun görüş yazısına istinaden 3213 sayılı Kanun kapsamında sayılan mücbir sebepler ve beklenmeyen haller dışında arazi izin bedeli alınarak altı ay süre ile izin verilir. Bu süre içerisinde nakledilmeyen ve ekonomik değeri olan madenlerin, pasa, bakiye, atık/artık ve cürufların Maden ve Petrol İşleri Genel Müdürlüğünün uygun görüşüne istinaden valilikler tarafından ihale ile satılması halinde de taşıma işleminin yapılması için arazi izin bedeli alınarak izin verilir.",
+      "notes": []
+    },
+    {
+      "order": 13,
+      "kind": "madde",
+      "number": "13",
+      "label": "MADDE 13",
+      "heading": "Rehabilitasyon projesi",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Rehabilite, Rehabilitasyon Projesi, Takip ve Kontrol"
+      ],
+      "repealed": false,
+      "text": "(1) Rehabilitasyon projeleri; madencilik faaliyeti sonucunda oluşabilecek topoğrafik yapının madenin işletme projesine göre belirlenmesi sonrasında, rehabilite ile oluşturulabilecek yeni topoğrafyanın belirlenmesi, toprak ıslahı ve orman kurma esasları dikkate alınarak ormancılık bürosu tarafından Bakanlıkça izin verilen alanlar için düzenlenir.\n\n(2) İzin sahibi, rehabilitasyon projesine uygun çalışmak zorundadır. Madencilik faaliyeti esnasında ortaya çıkan şartlar nedeniyle rehabilite çalışmasında bir değişiklik yapması gerektiğinde, bu değişikliği de içeren revize rehabilitasyon projesini en geç üç ay içerisinde bölge müdürlüğüne vermekle yükümlüdür.\n\n(3) Süre uzatımlarında ve ilave izinlerde rehabilitasyon projesinin revizyonu istenir.\n\n(4) Rehabilitasyon projelerinde; izin öncesi, izin alanındaki toprağın depolanacağı alanlar gösterilir. Rehabilitasyon amaçlı olarak bu alanlara depolanan toprak kullanılır. Depolanan toprağın biyolojik aktivitesini kaybetmemesi için gerekli önlemlerin alınması izin sahibi tarafından sağlanır. İzin alanına dışarıdan toprak veya malzeme getirilemez. Ruhsat sahası içindeki izinlerde depolanan toprak, aynı ruhsattaki diğer izin sahalarının rehabilitesinde kullanılabilir.\n\n(5) Rehabilitasyon projeleri ruhsat sahasındaki birbirine bitişik alanlar için tek olarak düzenlenir. Ruhsat sahasındaki birbirine bitişik olmayan sahalar için ayrı rehabilitasyon projeleri düzenlenir. Farklı ruhsat sahalarında kalan ve birbirine bitişik olarak izin verilen alanlarda ortak rehabilitasyon projesi düzenlenebilir. Aynı ruhsat alanında eş zamanlı talep edilen izinlerde tek bir rehabilitasyon projesi tanzim edilebilir.\n\n(6) Rehabilitasyon projesinde çevre şartları dikkate alınarak tüm canlılara güvenli bir ortam oluşturulur, ilgili mevzuat hükümlerine göre karbon bilançosu hesap edilir.\n\n(7) Madencilik faaliyetleri esnasında veya sonucunda ortaya çıkan atıkların depolandığı alanlarda pasa ve cevherin tozuması, su ve hava akımlarına bağlı olarak dağılmaları nedeniyle ormanları etkilememesi için alınacak önlemler belirtilir.\n\n(8) Şev açıları, kademe-basamak boyutları uzun süreli stabilite dikkate alınarak belirlenir. Zorunlu olmadıkça bütün şev yüzeyleri, dayanma duvarı ile tutulmaksızın doğal hâli ile stabil olacak şekilde düzenlenir.\n\n(9) Kesme, kamalama, çivileme yöntemiyle işletilen madenlerde şev ve yamaç stabilitesini sağlamak için ilave bir işlem yapılmaz, basamak ve şev açıları mevcut hâliyle bırakılır.\n\n(10) Faaliyet alanına dışarıdan yüzeysel akış veya yağışlarla oluşacak su akışının önlenmesi, faaliyet alanındaki suların dışarıya güvenli şekilde deşarjı için alınacak önlemler belirtilir.\n\n(11) Yığınların üst tabakaları suyun yerçekimi ile drenajına imkân verecek eğime sahip ve aynı zamanda su erozyonuna karşı korunmayı sağlayıcı şekilde biçimlendirilir. Bu şekildeki pasa oluşumlarında rehabilitasyon projesi düzenlenir.\n\n(12) Madencilik faaliyeti için izin verilen alanlarda yangına, kundaklamaya veya kendiliğinden yanmaya ve orman yangınlarına karşı izin sahibince gerekli tedbirler alınır.\n\n(13) Rehabilite çalışmaları yapılan alanlarda, rehabilite çalışması yapıldığını gösteren tabela asılır.\n\n(14) Bakanlığın gerek gördüğü izin alanlarında canlı veya cansız görüntü perdesi oluşturulur.\n\n(15) Görüntü kirliliği oluşacak yerlerde yamaç meylinin artmaya başladığı alt noktalarda tampon bölge bırakacak şekilde çalışmaya izin verilir.",
+      "notes": []
+    },
+    {
+      "order": 14,
+      "kind": "madde",
+      "number": "14",
+      "label": "MADDE 14",
+      "heading": "Takip ve kontrol",
+      "path": [
+        "ÜÇÜNCÜ BÖLÜM Rehabilite, Rehabilitasyon Projesi, Takip ve Kontrol"
+      ],
+      "repealed": false,
+      "text": "(1) Rehabilite çalışması yapılan alanlar bölge müdürlüğü tarafından takip ve kontrol edilir.\n\n(2) İzin sahibi, bir önceki yıl sonuna kadar gerçekleştirilen madencilik faaliyeti yaptığı alandaki rehabilite işleminin safahatı hakkında bölge müdürlüğüne ormancılık bürosu ya da bünyelerinde çalışan orman mühendisi ve/veya orman yüksek mühendisi tarafından hazırlanan teknik raporu her yıl (Değişik ibare:RG-22/8/2025-32994 haziran ayının sonuna kadar verir. Yeni verilen izinlerde iznin verildiği yıl teknik rapor istenmez. Yer teslimi yapılmayan izinlerde yer teslimi yapıldıktan sonraki yıl teknik rapor istenir. Teknik raporun, süresinde verilmemesi halinde teminat irat kaydedilir, teknik rapor ve bu Yönetmelik hükümlerine göre yeniden hesaplanan teminat verilinceye kadar sahada çalışmasına müsaade edilmez.\n\n(3) Takip ve kontrol faaliyetleri süresince numune alma ve analiz giderleri izin sahibince karşılanır.\n\n(4) Madencilik faaliyet alanının tümü faaliyetin tamamlanmasından sonraki bir yıl içinde izin sahibi tarafından rehabilitasyon projesinde belirtilen faaliyet sonrası kullanıma uygun hâle getirilir.\n\n(5) İzin sahibi tarafından rehabilitenin bitirilmesini takiben üç yıllık takip süresi sonunda veya madenin cinsine göre rehabilitasyon projesinde verilen takip süreleri esas alınarak, rehabilitasyon projesi kapsamında taahhüt edilen hususların sağlanıp sağlanamadığı heyet tarafından tutanakla tespit edilir. Rehabilitasyon projesi kapsamında taahhüt edilen hususların sağlandığı tespit edilirse izin sahibinin madencilik faaliyeti yaptığı alan ile ilgili sorumluluğu sona erer.\n\n(6) İzin sahibi, rehabilitasyon projesinde yer alan taahhütlerini yerine getirememesi veya faaliyetlerini süreli veya süresiz olarak durdurması hâlinde bu tarihten itibaren en geç üç ay içerisinde orman idaresine haber vermekle yükümlüdür.",
+      "notes": []
+    },
+    {
+      "order": 15,
+      "kind": "madde",
+      "number": "15",
+      "label": "MADDE 15",
+      "heading": "Bedellerin tespiti ve tahsili",
+      "path": [
+        "DÖRDÜNCÜ BÖLÜM Bedeller ve Teminat"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmeliğe göre verilecek izinlerde alınacak bedeller şunlardır:\n\na) Ağaçlandırma bedeli: Genel müdürlükçe, Asgari Ücret Tespit Komisyonu tarafından tespit edilen işçilerin bir günlük normal çalışma karşılığı asgari ücretlerinin 294 gün/hektar katsayısıyla çarpımı sonucu belirlenen ağaçlandırma birim hektar bedelinin izin alanı ile çarpımı sonucu alınacak bedeldir.\n\nb) Arazi izin bedeli: İzin alanının metrekaresi, cari yıl ağaçlandırma birim metrekare bedeli, Ek-1’de yer alan izin türü katsayısı, Ek-2’de yer alan ekolojik denge katsayısı ve Ek- 3’te yer alan il katsayısının çarpımlarının sonucu alınacak bedeldir.\n\nc) Ön izin bedeli: İzin alanının metrekaresi ile cari yıl ağaçlandırma birim metrekare bedelinin 30 hektara kadar olan ön izinlerde 1/10’u, 30 hektar dâhil daha büyük olan ön izinlerde ise 1/5’i ile çarpımı sonucu bulunacak bedel olup bir defaya mahsus alınır. Süre uzatımlarında ayrıca bedel alınmaz.\n\n(2) Ağaçlandırma bedeli izin başlangıcında bir defaya mahsus defaten izin sahibi tarafından ödenir.\n\n(3) Arazi izin bedeli izin başlangıç tarihi esas alınarak tebligata gerek kalmaksızın her yıl defaten izin sahibi tarafından ödenir. Müteakip yıllara ait arazi izin bedeli BAK oranında artırılmak suretiyle tespit edilerek bildirime gerek kalmaksızın izin başlangıç tarihinde defaten izin sahibi tarafından ödenir. Ancak, Bakanlıkça verilen izin süresinin veya son yıl izin süresinin bir yıldan az olması halinde arazi izin bedeli tespit ve tahsilinde kıstelyevm uygulanır. Kesin izin sahibinin tebligat tarihinden itibaren beş ay içerisinde idareye yazılı talebi halinde, ilk yıl bedeli ile birlikte izin bitim tarihi sonuna kadar tahsil edilmesi gereken toplam arazi izin bedeli izin başlangıç tarihi esas alınarak peşin ödenebilir.\n\n(4) Bedel hesaplarında Devlet ormanına isabet eden bölümler esas alınır.\n\n(5) Bu Yönetmelik hükümlerine göre alınacak; tüm bedeller ve teminat Genel Müdürlüğün özel bütçe hesabına yatırılır.\n\n(6) Madencilik faaliyetleri için verilen izinlerden 11/1/2017 tarihli ve 29945 sayılı Resmî Gazete’de yayımlanan Ağaçlandırma ve Erozyon Kontrolü Hizmetlerine İlişkin Yönetmeliğin 4 üncü maddesinin birinci fıkrasının (c) bendinde belirtilen gelir ile 13/6/2012 tarihli ve 28322 sayılı Resmî Gazete’de yayımlanan Orman Köylülerinin Kalkındırılmalarının Desteklenmesi Faaliyetlerine İlişkin Yönetmeliğin 5 inci maddesinin birinci fıkrasının (b) bendinde belirtilen gelir alınmaz.\n\n(7) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarına verilen ön izinlerden bedel alınmaz.",
+      "notes": []
+    },
+    {
+      "order": 16,
+      "kind": "madde",
+      "number": "16",
+      "label": "MADDE 16",
+      "heading": "Teminat",
+      "path": [
+        "DÖRDÜNCÜ BÖLÜM Bedeller ve Teminat"
+      ],
+      "repealed": false,
+      "text": "(1) Teminat; bir hektar için cari yıl ağaçlandırma bedelinden az olmamak kaydıyla cari yıl ağaçlandırma bedelinin onda biri ile izin alanının çarpımı sonucu bulunur. İzin başlangıcında bir defa alınır. Süre uzatımlarında, izin devirlerinde güncellenir. Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarından ve ön izinlerden teminat alınmaz.\n\n(2) Alınan teminat üzerine ihtiyati tedbir konulamaz, tespit ve tahsiline itiraz edilemez.\n\n(3) Teminat olarak alınan değerler, teminat olarak kabul edilen değerler ile değiştirilebilir.",
+      "notes": []
+    },
+    {
+      "order": 17,
+      "kind": "madde",
+      "number": "17",
+      "label": "MADDE 17",
+      "heading": "Teminat ve bedellerin iadesi",
+      "path": [
+        "DÖRDÜNCÜ BÖLÜM Bedeller ve Teminat"
+      ],
+      "repealed": false,
+      "text": "(1) Kesin izin; sürenin dolması, izin sahibinin vazgeçmesi veya herhangi bir sebeple sona ermesi halinde; alınan bedeller iade edilmez. Teminat ise taahhüt senedinde belirtilen yükümlülüklerin yerine getirilmesi halinde iade edilir. Aksi halde alınan teminat idarece irat kaydedilir.\n\n(2) Kesin izin sahibinin izinden vazgeçtiğini ve faaliyetini durdurduğunu orman idaresine yazılı olarak bildirdiği durumlarda orman idaresince sahanın geri teslim alındığı tarihte tahakkuk eden bedellerin tamamı tahsil edilir, müteakip yıllara ait bedel tahakkuk ettirilmez.\n\n(3) Birinci ve ikinci fıkra hükümlerine istisna olarak;\n\na) İzin sahibinin kesin izin başlangıç tarihinden itibaren bir yıl içinde vazgeçmesi nedeniyle iznin iptal edilmesi ve yatırılan bedellerin ve teminatın iptal tarihinden itibaren en geç üç ay içinde iadesinin talep edilmesi halinde; izin verilen saha içinde hiçbir noktada çalışma yapılmamış olması ve izin öncesi doğal yapının bozulmamış olmasının heyetçe düzenlenecek raporla tespiti ve bölge müdürlüğünce uygun görülmesi durumunda, arazi izin bedeli dışındaki bedeller ve teminat faizsiz olarak iade edilir.\n\nb) Verilen kesin iznin, izin sahibinin kusur ve/veya ihmalinin bulunmadığı yargı kararı veya mücbir sebepler nedeniyle iptal edilmesi ve iptalini müteakip altı ay içinde izin sahibinin talep etmesi halinde; izin verilen sahada çalışma yapılmadığının, izin öncesi doğal yapının bozulmadığının heyetçe düzenlenecek raporla tespiti halinde, alınan tüm bedeller ve teminat faizsiz olarak iade edilir. İzin verilen sahada çalışma yapılıp, izin sahasının kısmen veya tamamen doğal yapısının bozulduğunun tespiti halinde doğal yapısı bozulan alan izin sahibi tarafından projesine uygun şekilde rehabilite edilir. Ağaçlandırmaya uygun hale getirilir, aksi takdirde bu çalışmalar orman idaresince yapılır, yapılan bu çalışma ile ilgili giderler alınan çalışma yapılmayan bölüme ait arazi izin bedelinden, ağaçlandırma bedelinden ve teminattan mahsup edilerek geriye kalan miktar faizsiz olarak iade edilir. İzin öncesi doğal yapısı bozulan alana tekabül eden ağaçlandırma bedeli iade edilmez. Alınan bedellerin idarece yapılan giderleri karşılamaması halinde aradaki fark izin sahibinden rızaen, ödememesi durumunda yasal yollarla tahsil edilir. Toprak dolgu izinlerinde ise, dolgu yapılan miktara isabet eden toprak dolgu bedeli haricindeki bedel faizsiz olarak iade edilir.\n\n(4) İzin verilen alanın bir kısmının iptali halinde; devam eden izin alanına ait arazi izin bedeli, yıl (Mülga ibare:RG-22/8/2025-32994) verilen ilk izin olur tarihi esas alınarak yeniden hesap edilen bedelin, yıllar itibariyle BAK oranında artırılarak son yıl bedeli hesap edilir. İzin sahibinin kesin izinden vazgeçtiğini ve faaliyetini durdurduğunu orman idaresine yazılı olarak bildirdiği durumlarda sahanın geri teslim alındığı tarihten sonrasındaki yıllara ait arazi izin bedeli tahakkuk ettirilmez.\n\n(5) Ön izin bedeli iade edilmez.\n\n(6) Rehabilitasyon projesine uygun çalışılmadığının izin süresindeki kontrollerde tespiti halinde teminat irat kaydedilir. Projeye uygunluk sağlanarak izin devam ederse teminat yenilenir.",
+      "notes": [
+        "(Mülga ibare:RG-22/8/2025-32994)"
+      ]
+    },
+    {
+      "order": 18,
+      "kind": "madde",
+      "number": "18",
+      "label": "MADDE 18",
+      "heading": "Toprak dolgu müracaatı ve ön izni",
+      "path": [
+        "BEŞİNCİ BÖLÜM Toprak Dolgu İzin İşlemleri"
+      ],
+      "repealed": false,
+      "text": "(1) Madencilik faaliyetleri sonrasında idareye teslim edilen veya terk edilen doğal yapısı bozulmuş orman alanlarında, orman yetiştirilmek üzere hafriyat toprağı, inşaat ve yıkıntı atıkları ile doldurularak ağaçlandırılmaya hazır hale getirilmesi amacıyla büyükşehir mücavir alanlarında büyükşehir belediyelerine, diğer yerlerde ise il ve ilçe belediyelerine bedeli karşılığında Maden ve Petrol İşleri Genel Müdürlüğünce uygun görülenlere izin verilebilir.\n\n(2) Rehabiliteye hazırlık maksatlı toprak dolgu işlemleri; Bakanlıkça uygun görülmesi halinde, Orman Genel Müdürlüğünce belirlenecek usul ve esaslar çerçevesinde ihale mevzuatına uygun olarak gerçek ve tüzel kişilere yaptırılabilir.\n\n(3) Büyükşehirlerde büyükşehir belediyeleri, diğer yerlerde ise il veya ilçe belediyeleri e-Devlet üzerinden talep yazısı ile beraber, saha analiz raporu, 1/1000 veya uygun ölçekli vaziyet planı, koordinat listesi, talep alanında rezervin bittiğine dair Maden ve Petrol İşleri Genel Müdürlüğünden alınacak yazı ile birlikte müracaat eder. Ayrıca bu fıkradaki istenilen belgeler bir takım halinde fiziksel olarak bölge müdürlüğüne gönderilir.\n\n(4) Müracaat değerlendirilir ve heyet tarafından ön izin raporu düzenlenir.\n\n(5) Kesin izin verilmeden önce; ilgili mevzuat uyarınca alınması gereken görüş, belge ve muvafakatların alınması, proje ve haritaların düzenlenmesi için Bakanlıkça uygun görülenlere yirmi dört aya kadar ön izin verilebilir. Talep halinde on iki ay ek süre verilebilir.\n\n(6) Ön izin verildiği ilgili belediyeye bildirilerek, onaylı ön izin taahhüt senedi alınır, ancak saha teslimi yapılmaz, hiçbir faaliyete müsaade edilmez.\n\n(7) Ön izin, talep sahibinin vazgeçmesi veya kesin izin için istenen belgelerin süresi içinde tamamlanmaması halinde iptal edilmiş sayılır. İptal işlemi ilgiliye tebliğ edilir.",
+      "notes": []
+    },
+    {
+      "order": 19,
+      "kind": "madde",
+      "number": "19",
+      "label": "MADDE 19",
+      "heading": "Toprak dolgu kesin izni",
+      "path": [
+        "BEŞİNCİ BÖLÜM Toprak Dolgu İzin İşlemleri"
+      ],
+      "repealed": false,
+      "text": "(1) Talep sahibi belediye, e-Devlet üzerinden talep yazısı ile beraber;\n\na) Saha analiz raporunu,\n\nb) 1/1000 veya uygun ölçekli vaziyet planını,\n\nc) Koordinat listesini,\n\nç) Talep alanında rezervin bittiğine dair Maden ve Petrol İşleri Genel Müdürlüğünden alınacak yazıyı,\n\nd) ÇED belgesini,\n\ne) Dolgu öncesi ve dolgu sonrası nihai kodları gösterir çevresindeki topoğrafik yapı ile uyumlu ve orman idaresinin uygun göreceği toprak dolgu projesini,\n\nekleyerek bölge müdürlüğüne kesin izin için müracaat eder. Ayrıca bu fıkradaki istenilen belgeler bir takım halinde fiziksel olarak bölge müdürlüğüne gönderilir.\n\n(2) Bölge müdürlüğü yapılan müracaatı inceler, eksiklikler varsa on iş günü içerisinde müracaat sahibine bildirir. Eksiklikler tamamlanıncaya kadar talep değerlendirmeye alınmaz. Evrakın tam olması halinde heyet tarafından arazi üzerinde gerekli incelemeler yapılarak, talep edilen sahanın Devlet ormanlarına isabet eden kısımları için bedelli kesin izin raporu düzenlenir.\n\n(3) Talebi uygun görülenlere Bakanlıkça beş yıla kadar kesin izin verilir.\n\n(4) Verilen izne ait bedellerin ödenmesi ve onaylı taahhüt senedinin orman idaresine teslim edilmesi halinde saha teslimi yapılır.\n\n(5) İzin sahibi kendisine yapılan tebligat tarihinden itibaren altı ay içerisinde bedelleri ödemek, onaylı taahhüt senedini orman idaresine teslim etmek zorundadır. Aksi halde verilen izin iptal edilmiş sayılır. İptal işlemi ilgiliye bildirilir.\n\n(6) Zorunluluk halinde yol, şantiye, kantar, inşaat ve yıkıntı atıklarının geri kazanılmasına yönelik seyyar tesislere, faaliyet gerçekleştirilen alanlarda çevre sağlığı açısından gerekli tekerlek yıkama tesislerine ve enerji nakil hattına da toprak dolgu izin süresi kadar bedelli izin verilebilir.\n\n(7) Toprak dolgu işleminin izin süresinde tamamlanamaması halinde, bu Yönetmelik hükümlerine göre istenilen belgeler ile birlikte izin süresi son günü bitimine kadar e-Devlet üzerinden müracaatı durumunda verilen izin bir defaya mahsus kesin izin süresi kadar izin bitim tarihinden itibaren uzatılabilir. Süre uzatımının Bakanlıkça uygun bulunması halinde tebligat tarihinden itibaren bir ay içerisinde bu Yönetmelik hükümlerine göre yeniden hesaplanacak toprak dolgu izin bedeli ve onaylı taahhüt senedi alınır, yeniden saha teslimi yapılmaz.\n\n(8) İzin sahibi, bir önceki yıl sonuna kadar gerçekleştirilen toprak dolgu işlemlerinin safahatı hakkında bölge müdürlüğüne ormancılık bürosu ya da bünyelerinde çalışan orman mühendisi ve/veya orman yüksek mühendisi tarafından hazırlanan teknik raporu her yıl (Değişik ibare:RG-22/8/2025-32994) haziran ayının sonuna kadar verir. Yeni verilen izinlerde iznin verildiği yıl teknik rapor istenmez. Yer teslimi yapılmayan izinlerde yer teslimi yapıldıktan sonraki yıl teknik rapor istenir.\n\n(9) İzin alanı ile ilgili her türlü sorumluluk izin sahibine aittir.\n\n(10) İzin sahibi kendisine verilen toprak dolgu alanını başkasına devredemez. Ancak, büyükşehir belediyesi, kendisine verilen toprak dolgu alanını ilçe belediyesine veya 10/7/2004 tarihli ve 5216 sayılı Büyükşehir Belediyesi Kanununun 26 ncı maddesi uyarınca büyükşehir belediyesi veya bağlı kuruluşlarının % 50’sinden fazlasına ortak olduğu şirketler ile bu şirketlerin % 50’sinden fazlasına ortak olduğu şirketlere kendi sorumluluğu devam etmek şartıyla işlettirebilir.\n\n(11) Kesin izin verilen alanın koordinatları ilgili bölge müdürlüğünce Maden ve Petrol İşleri Genel Müdürlüğüne bildirilir, ayrıca görüş alınmaz.",
+      "notes": [
+        "(Değişik ibare:RG-22/8/2025-32994)"
+      ]
+    },
+    {
+      "order": 20,
+      "kind": "madde",
+      "number": "20",
+      "label": "MADDE 20",
+      "heading": "Alınacak bedeller",
+      "path": [
+        "BEŞİNCİ BÖLÜM Toprak Dolgu İzin İşlemleri"
+      ],
+      "repealed": false,
+      "text": "(1) Toprak dolgu kesin izinlerinden;\n\na) Toprak dolgu izin bedeli,\n\nb) Toprak dolgu bedeli,\n\nalınır.\n\n(2) Toprak dolgu kesin izinlerinde beş yıllık izin süresi için; izin alanının metrekaresi, cari yıl ağaçlandırma birim metrekare bedeli, Ek-1’de yer alan izin türü katsayısı, Ek-2’de yer alan ekolojik denge katsayısı ve Ek-3’te yer alan il katsayısının çarpımlarının sonucu çıkan bedel toprak dolgu izin bedeli olarak izin başlangıcında bir defaya mahsus defaten izin sahibi tarafından ödenir. Süre uzatımlarında toprak dolgu izin bedeli bu Yönetmelik hükümlerine göre yeniden hesaplanır.\n\n(3) Toprak dolgu yapılacak alanlarda, cari yıl ağaçlandırma birim metrekare bedelinin dolgu hacmi ile çarpımı sonucu bulunacak bedel toprak dolgu bedeli olarak izin başlangıcında bir defaya mahsus defaten izin sahibi tarafından ödenir. Süre uzatımlarında dolgu hacminde artış olmadığı takdirde yeniden toprak dolgu bedeli alınmaz.\n\n(4) 19 uncu maddenin altıncı fıkrasına göre verilecek izinlerde ayrıca toprak dolgu izin bedeli izin başlangıcında bir defaya mahsus olarak defaten izin sahibi tarafından ödenir.\n\n(5) Toprak dolgu kesin izinlerinden ağaçlandırma bedeli alınmaz. Ancak 19 uncu maddenin altıncı fıkrasına göre verilecek izinlerin toprak dolgu kesin izin sahası dışında olması halinde ağaçlandırma bedeli bir defaya mahsus olarak defaten izin sahibi tarafından ödenir. Orman idaresinin onaylayacağı proje kapsamında izin sahibince izin alanı ağaçlandırılır, ağaçlandırılan bu sahanın beş yıl süreyle bakımı ve takibi izin sahibince yapılır.",
+      "notes": []
+    },
+    {
+      "order": 21,
+      "kind": "madde",
+      "number": "21",
+      "label": "MADDE 21",
+      "heading": "Toprak dolgu izinlerinde uyulacak hususlar",
+      "path": [
+        "BEŞİNCİ BÖLÜM Toprak Dolgu İzin İşlemleri"
+      ],
+      "repealed": false,
+      "text": "(1) Toprak dolgu yapılacak alanlara asbest, boya, florasan ve benzeri tehlikeli inşaat ve yıkıntı atıkları ile asfalt atıkları, sıvıların ve sıvı atıkların, arıtma çamurlarının, parlayıcı ve patlayıcı maddelerin, tıbbi atıkların, hayvan kadavra ve gübrelerinin, radyoaktif madde ve atıkların, tehlikeli ve zararlı atıkların, evsel veya endüstriyel katı atıkların dökülmesi yasaktır.\n\n(2) Toprak dolgu yapılacak alanlara birinci fıkrada yasaklanan maddelerin dökülmesinin tespit edilmesi halinde, dolgu işlemi durdurularak izin iptal edilir, atıklar izin sahibine taşıttırılır. Aksi halde orman idaresince taşınır veya taşıttırılır, yapılan masraf yüzde elli fazlasıyla izin sahibinden tahsil edilir.\n\n(3) Toprak dolgu alanının nihai üst kotlarından aşağı doğru dikey derinliği en az iki metrelik kısmı verimli toprak ile doldurulur.\n\n(4) Toprak dolgu işlemi sonrası nihai kodları gösterir çevresindeki topografik yapı ile uyumlu projesindeki kodlarının üzerinde dolgu yapıldığının tespiti halinde dolgu işlemi durdurularak, fazla dökülen miktar izin sahibine taşıttırılır. Aksi halde orman idaresince taşınır veya taşıttırılır, izin iptal edilir, yapılan masraf yüzde elli fazlasıyla izin sahibinden tahsil edilir.",
+      "notes": []
+    },
+    {
+      "order": 22,
+      "kind": "madde",
+      "number": "22",
+      "label": "MADDE 22",
+      "heading": "Değerlendirme Komisyonu",
+      "path": [
+        "ALTINCI BÖLÜM Değerlendirme Komisyonu"
+      ],
+      "repealed": false,
+      "text": "(1) Değerlendirme Komisyonu, ilgili Bakan Yardımcısı başkanlığında, Orman Genel Müdürü, Orman Genel Müdür Yardımcısı, İzin ve İrtifak Dairesi Başkanı ile Bakanın uygun göreceği üyelerden oluşur. Komisyon en az dört kişiden teşekkül eder.\n\n(2) Değerlendirme Komisyonunun görevleri şunlardır:\n\na) Muhafaza ormanları, gen koruma alanları, tohum meşcereleri, orman parkları, verimli orman alanları ile endemik ve korunması gereken nadir ekosistem alanlarına isabet eden maden arama, maden işletme, maden tesis ve altyapı tesisi izin müracaatlarını değerlendirmek.\n\nb) Muhafaza ormanları, gen koruma alanları, tohum meşcereleri, verimli orman alanlarındaki ruhsat taleplerini değerlendirmek.\n\nc) Ruhsat alanı dışında talep edilen maden tesis ve altyapı tesis izin müracaatlarını değerlendirmek.\n\nç) Genel Müdürlük tarafından değerlendirilmesi talep edilen müracaatları değerlendirmek.\n\nd) Bu Yönetmeliğe ilişkin iş ve işlemlerde mevzuatta açık hüküm bulunmayan hususları değerlendirmek.\n\n(3) Değerlendirme Komisyonu kararları oy çokluğuyla alınır. Oyların eşit olması halinde Başkanın oyu yönünde karar alınmış sayılır.\n\n(4) Değerlendirme Komisyonunun sekreterya hizmetleri, İzin ve İrtifak Dairesi Başkanlığınca yürütülür.\n\n(5) Değerlendirme Komisyonunca uygun bulunan muhafaza ormanları, gen koruma alanları, tohum meşcereleri, orman parkları ile endemik ve korunması gereken nadir ekosistem alanlarındaki müracaatlara bölge müdürlüğü tarafından izin raporu düzenlenerek, Bakanlıkça izin verilir.",
+      "notes": []
+    },
+    {
+      "order": 23,
+      "kind": "madde",
+      "number": "23",
+      "label": "MADDE 23",
+      "heading": "Gecikme zammı",
+      "path": [
+        "YEDİNCİ BÖLÜM Ortak Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik hükümlerine göre bedelli olarak verilen izinlerde, zamanında ödenmeyen bedeller için, izinlerin iptaline ilişkin hükümler saklı kalmak kaydıyla bildirime gerek kalmaksızın 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesinde belirtilen gecikme zammı oranında faiz uygulanır. Kısmen ödeme yapılması halinde yapılan ödeme öncelikle faize mahsup edilir.\n\n(2) Bedellerin zamanında tahsil edilememesi halinde, borcun sulha davet, icra takibi veya dava yoluyla tahsili için en geç bir ay içerisinde hukuk birimine bildirilir.",
+      "notes": []
+    },
+    {
+      "order": 24,
+      "kind": "madde",
+      "number": "24",
+      "label": "MADDE 24",
+      "heading": "Mülkiyet uyuşmazlığı",
+      "path": [
+        "YEDİNCİ BÖLÜM Ortak Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Mülkiyeti konusunda uyuşmazlık bulunması nedeniyle mahkemeye intikal etmiş yerlerde hükmün kesinleşmesine kadar izin verilmez. Ancak, ilgili birimlerce izne konu projenin yapılmasına ilişkin kamulaştırma amacıyla kamu yararı kararı alınması halinde; yargılama sonucunda, ihtilaflı yerin orman sınırları dışında kalması durumunda talep sahibinden, kamulaştırmadan doğacak bedellerin ödeneceğine ve her türlü sorumluluğun yerine getirileceğine dair taahhüt senedi alınarak izin verilir.\n\n(2) Yargılama sonucunda ihtilaflı yerin orman sınırları dışında kalması halinde verilen izin iptal edilir. Ancak alınan bedeller iade edilmez, teminat faizsiz olarak iade edilir.",
+      "notes": []
+    },
+    {
+      "order": 25,
+      "kind": "madde",
+      "number": "25",
+      "label": "MADDE 25",
+      "heading": "İzni iptal edilen alanların yeniden izne konu edilmesi",
+      "path": [
+        "YEDİNCİ BÖLÜM Ortak Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Önceden izin verilmiş olup da herhangi bir sebeple izni iptal edilen alanlar bu Yönetmelik hükümlerine göre yeniden izne konu edilebilir.",
+      "notes": []
+    },
+    {
+      "order": 26,
+      "kind": "madde",
+      "number": "26",
+      "label": "MADDE 26",
+      "heading": "Hizmet giderleri",
+      "path": [
+        "YEDİNCİ BÖLÜM Ortak Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Hizmet gideri olarak; arazi incelemelerine katılacak personelin 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre ödenecek harcırahları ile zaruri olarak kullanılan resmî hizmet vasıtalarının işletme giderleri, talep sahibince Genel Müdürlük özel bütçesinin hizmet ve işletme gelirleri hesabına yatırılır. Bu tutarlar özel bütçeye gelir kaydedilir. Hizmet giderleri yatırılmadığı takdirde arazi incelemesine çıkılmaz.\n\n(2) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarından hizmet giderleri alınmaz.",
+      "notes": []
+    },
+    {
+      "order": 27,
+      "kind": "madde",
+      "number": "27",
+      "label": "MADDE 27",
+      "heading": "İzin rapor eklerinin hazırlanması ve onaylanması",
+      "path": [
+        "YEDİNCİ BÖLÜM Ortak Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşları bünyelerinde görevli orman mühendisi veya orman yüksek mühendislerince düzenlenenler hariç olmak üzere talep alanlarını gösterir saha analiz raporu ve vaziyet planı ormancılık bürosu tarafından düzenlenerek imzalanır, heyetçe kontrol edilerek onaylanır.\n\n(2) Rehabilitasyon ve toprak dolgu projeleri ormancılık bürosu tarafından düzenlenir, heyetçe uygunluğu kontrol edilen projeler bölge müdürlüğünce onaylanır.\n\n(3) Genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarınca yapılacak müracaatlarda ruhsat ve diğer evrakın aslı veya kurum amirince onaylı suretlerinin verilmesi istenir.\n\n(4) Gerçek ve tüzel kişilerden alınacak taahhüt senetleri güvenli elektronik imza ile imzalanır veya her sayfası noter tarafından onaylanır. Ancak genel bütçe kapsamındaki kamu idareleri ile kamu kurum ve kuruluşlarından alınacak taahhüt senetleri güvenli elektronik imza ile imzalanır veya her sayfası kurum yetkilisi tarafından onaylanır, noter onayı aranmaz.\n\n(5) Teknik rapor ormancılık bürosu ya da bünyelerinde çalışan orman mühendisi ve/veya orman yüksek mühendisi tarafından hazırlanır ve orman idaresine verilir. Teknik raporda; idarenin talep etmesi durumunda insansız hava aracı kullanılarak izin sahasının fiili kullanım durumu ile rehabilitasyon projesine uygunluğu harita ve görseller üzerinde gösterilir. Ayrıca teknik raporun verildiği döneme ait bedellere ilişkin ödeme bilgileri yer alır.",
+      "notes": []
+    },
+    {
+      "order": 28,
+      "kind": "madde",
+      "number": "28",
+      "label": "MADDE 28",
+      "heading": "İzin sahalarının kontrolü ve sorumluluk",
+      "path": [
+        "YEDİNCİ BÖLÜM Ortak Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) İzin sahaları takvim yılı içinde en az bir defa dosya ve arazi üzerinde heyetçe kontrol edilerek tutanak tanzim edilir. İdarenin istifadesine sunulmak üzere; izin sahalarının izin veriliş amacına uygun kullanılıp kullanılmadığı, izin sahalarında sınır değişimi olup olmadığının insansız hava aracı da kullanılarak mevcut haritalara ve planlarına işlenmesine dair işlemler idarece bütçe ödenekleri ile sınırlı olmak kaydıyla serbest yeminli ormancılık bürolarına yaptırılabilir.\n\n(2) Takvim yılı içinde kontrol edilen izinlerin yüzde ikisi bölge müdürlüğünce ayrıca incelemeye tabi tutulur.\n\n(3) İzin sahaları ayrıca koruma ekipleri tarafından ilgili mevzuat hükümlerine göre periyodik olarak kontrol edilir.\n\n(4) İzin sahasında her türlü hak ve yükümlülük izin sahibine aittir. Ancak, bu Yönetmelik gereği izin verilen alanlarda izin sahibi ile üçüncü kişi veya kuruluşlar arasındaki sözleşmeye dayanılarak yapılan faaliyetlerden izin sahibi üçüncü kişi ile birlikte sorumludur.\n\n(5) İznin dayanağı olan bilgi ve belgelerden doğacak her türlü sorumluluk izin sahibine aittir.\n\n(6) Ormanlık alanlarda, izin verilen proje dışında maden tesis ve altyapı tesisi yapılamaz. İzinli saha içinde yapılacak ilave maden tesis ve altyapı tesisleri için bu Yönetmelik hükümlerine göre izin alınması mecburidir. İzinsiz yapılan maden tesis ve altyapı tesislerine 6831 sayılı Kanun hükümlerine göre orman idaresince el konulur.\n\n(7) Verilen izinler amacı dışında kullanılamaz. Verilen izinlerde orman yangınlarına karşı her türlü tedbir izin sahibince alınır.\n\n(8) İzinsiz yapılan madencilik faaliyetleri ile izin verilen alanlardaki sınırı aşanlar için adli mercilere sunulmak üzere düzenlenen suç tutanağı ve eki ilgili belgeler ayrıca Maden ve Petrol İşleri Genel Müdürlüğüne bölge müdürlüğünce bildirilir.\n\n(9) Bu Yönetmelik kapsamında verilecek izinlere ait ormancılık büroları veya serbest yeminli ormancılık büroları tarafından yapılan iş ve işlemlerle ilgili 5531 sayılı Kanun ve ilgili mevzuatı kapsamında belirlenen usul ve esaslara aykırı davrandığı tespit edilenler hakkında ilgili meslek odasına bildirim yapılır.",
+      "notes": []
+    },
+    {
+      "order": 29,
+      "kind": "madde",
+      "number": "29",
+      "label": "MADDE 29",
+      "heading": "Kısıtlamalar ve istisnalar",
+      "path": [
+        "YEDİNCİ BÖLÜM Ortak Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Muhafaza ormanları, gen koruma alanları, tohum meşcereleri ile orman parklarında 3213 sayılı Kanunun 2 nci maddesindeki I(a), I(b) ve II(a) Grup madenler ile kaba inşaat, baraj, gölet, liman, yol gibi yapılarda dolgu amaçlı kullanılan her türlü yapı hammaddesi üretimi için yapılacak madencilik faaliyetlerine izin verilmez. Ancak muhafaza ormanlarında, gen koruma alanları, tohum meşcereleri ile orman parklarında; bu gruplardaki madenlere Bakanlıkça bu Yönetmeliğin yayımından önce verilen izinlerin süre uzatım talepleri Değerlendirme Komisyonu tarafından incelenerek izne konu edilebilir.\n\n(2) İzin verilen alanın bir bölümünün zorunluluk halinde bu Yönetmelik hükümleri gereğince yol, su, enerji nakil hattı gibi altyapı tesisleri 6831 sayılı Kanunun 17 nci maddesinde yer alan tesislerin yapılması amacıyla verilecek izin alanı ile kesişmesi halinde, daha önce verilen iznin sahibinin muvafakatı aranır. Muvafakat verilmemesi halinde mevcut izin faaliyetinin engellenmemesi için talep sahibi tarafından gerekli tedbirler alınarak orman idaresince resen izin verilebilir. Muvafakat vermeyen izin sahibi hiçbir hak talebinde bulunamaz.\n\n(3) İzin alanında aşım yapıldığının tespit edilmesi halinde, tanzim edilen suç tutanağı adli mercilere intikal ettirilir, aşım yapılan alanda çalışmalara müsaade edilmez. Aşım yapılan sahada yargılama sonucuna kadar izin verilmez.\n\n(4) Maden Tetkik ve Arama Genel Müdürlüğünün yürüttüğü projeye bağlı yapacağı aramalarda ruhsat aranmaz.\n\n(5) 3213 sayılı Kanunun 2 nci maddesindeki I, II (a), II (b) ve II(c) Grubu madencilik faaliyetleri için zorunlu yol, su, röle istasyonu, haberleşme, doğal gaz boru hattı, enerji nakil hattı, trafo izin talepleri hariç açık işletme ile yapılan madencilik faaliyetlerine;\n\na) (Mülga:RG-22/8/2025-32994)\n\nb) (Mülga:RG-22/8/2025-32994)\n\nc) I ve II (a) Grubu madencilik faaliyetleri için meşcere tipi kapalılığı 2 ve daha yukarı olan verimli orman alanlarında,\n\nç) II (b) ve II(c) Grubu madencilik faaliyetleri için meşcere tipi kapalılığı 3 olan verimli orman alanlarında,\n\nd) (Mülga:RG-22/8/2025-32994)\n\nizin verilmez. Ancak amenajman planlarında baltalık işletme sınıfında ve geçmiş plan dönemlerinde baltalık işletme sınıfından koruya tahvil işletme sınıfına alınan, kapalılığı 2 ve 3 rumuzu ile gösterilen meşcereler ile Maka3 rumuzlu maki sahalarında kalması halinde Değerlendirme Komisyonunca değerlendirilir.\n\n(6) (Değişik:RG-22/8/2025-32994) 3213 sayılı Kanunun 2 nci maddesindeki I, II (a), II (b) ve II (c) Grubu açık işletme ile yapılan madencilik faaliyetlerine bir ruhsat sahası içerisinde rehabilitasyona konu mevcut izinler ile rehabilitasyona konu talep edilen izinler toplamının 10 hektarı geçmesi durumunda, mevcut izinli sahaların rehabilite edilerek geri teslim edilmesinden sonra teslim edilen saha kadar aynı şartlarda izin verilir. Ancak Maden ve Petrol İşleri Genel Müdürlüğünden rezervin bitmediği ve madencilik faaliyetinin devam ettiğine dair yazı getirilmesi durumunda geri teslim şartı aranmaz.\n\n(7) (Mülga:RG-22/8/2025-32994)\n\n(8) (Değişik:RG-22/8/2025-32994) 3213 sayılı Kanunun 2 nci maddesindeki açık işletme ile yapılan III. ve IV. Grup madencilik faaliyetleri kamu kurum ve kuruluşları hariç; bir ruhsat sahası içerisinde rehabilitasyona konu mevcut izinler ile rehabilitasyona konu talep edilen izinler toplamının 150 hektarı geçmesi durumunda, mevcut izinli sahaların rehabilite edilerek geri teslim edilmesinden sonra teslim edilen saha kadar aynı şartlarda izin verilir. Ancak Maden ve Petrol İşleri Genel Müdürlüğünden rezervin bitmediği ve madencilik faaliyetinin devam ettiğine dair yazı getirilmesi durumunda geri teslim şartı aranmaz.\n\n(9) Meşcere tipi kapalılığı 3 olan ormanlarda, III. ve IV. Grup madenlerin yeraltı işletme yöntemiyle işletilmesinin teknik, ekonomik ve topoğrafik şartlar nedeniyle mümkün olmaması halinde açık işletme talepleri Değerlendirme Komisyonunca değerlendirilir.\n\n(10) 30/3/2014 tarihinden önce köy statüsünde olup bu tarihten sonra mahalle olan yerleşim birimleri il ve ilçe yerleşim yeri olarak değerlendirilmez.\n\n(11) III. ve IV. Grup madenlere dayalı sanayi tesisleri hariç olmak üzere sanayi tesislerinin bulundukları ya da mücavir bölge müdürlüğü sınırları dâhilinde kendi adlarına olan ve kendilerine ait tesisin hammadde ihtiyacını karşılamak üzere yapacakları açık işletme madencilik faaliyetlerine meşcere tipi kapalılığı 3 olan verimli ormanlarda izin verilmez.\n\n(12) Hammadde üretim izni talep edilen alanın 20 kilometre yakınında Maden ve Petrol İşleri Genel Müdürlüğünce tespit edilen pasa, artık ve atık olması halinde öncelikle yatırımın yapılacağı projede kullanılır. Talep sahibi tarafından söz konusu pasa, artık ve atığın projede kullanılması için fiziksel ve kimyasal özelliklerinin uygun olmadığının talep eden kurum dışında bir uzman kuruluş raporu ile belgelendirilmesi halinde, hammadde üretim izin belgesi veya maden ruhsatı ile kamu kurum ve kuruluşları yatırımlarına malzeme temini sağlayacak madencilik faaliyetlerine; meşcere tipi kapalılığı 3 olan alanlar hariç, ormanlık alanlarda izin verilebilir. Ancak yatırımın yapılacağı yere en az 5 kilometre mesafede 3 kapalıdan daha düşük orman alanı bulunmaması halinde meşcere tipi kapalılığı 3 olan ormanlarda da izin verilebilir.\n\n(13) Yenilenebilir enerji kaynaklarına dayalı lisanssız enerji üretim tesislerine, (Mülga ibare:RG-22/8/2025-32994) (…) izin verilen maden işletme, maden tesis ve altyapı tesislerinin enerji ihtiyacını karşılamak üzere izin verilebilir.\n\n(14) (Mülga:RG-22/8/2025-32994)",
+      "notes": [
+        "(Mülga:RG-22/8/2025-32994)",
+        "(Mülga:RG-22/8/2025-32994)",
+        "(Mülga:RG-22/8/2025-32994)",
+        "(Değişik:RG-22/8/2025-32994)",
+        "(Mülga:RG-22/8/2025-32994)",
+        "(Değişik:RG-22/8/2025-32994)",
+        "(Mülga ibare:RG-22/8/2025-32994)",
+        "(Mülga:RG-22/8/2025-32994)"
+      ]
+    },
+    {
+      "order": 30,
+      "kind": "madde",
+      "number": "30",
+      "label": "MADDE 30",
+      "heading": "Yürürlükten kaldırılan yönetmelik",
+      "path": [
+        "SEKİZİNCİ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) 18/4/2014 tarihli ve 28976 sayılı Resmî Gazete’de yayımlanan Orman Kanununun 16 ncı Maddesinin Uygulama Yönetmeliği yürürlükten kaldırılmıştır.",
+      "notes": []
+    },
+    {
+      "order": 31,
+      "kind": "gecici_madde",
+      "number": "1",
+      "label": "GEÇİCİ MADDE 1",
+      "heading": "Mevcut izinlerin devamı",
+      "path": [
+        "SEKİZİNCİ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girmesinden önce verilen izinlerin süre uzatımında ve devirlerinde, ayrıca devam eden izinlerde izin lehtarının talebi halinde bu Yönetmelik hükümleri uygulanır ve buna uygun yeni taahhüt senedi alınır.\n\n(2) Bu Yönetmeliğin yürürlüğe girmesinden önce ruhsata dayanılarak izin verilmiş ve bu Yönetmeliğin maden tesis ve altyapı tesis tanımları içerisinde bulunmayan madencilik yapılarına, ruhsat/rödövans süresi sonuna kadar izin verilebilir.\n\n(3) Bu Yönetmeliğin yürürlüğe girmesinden önce verilmiş izinlerde arazi izin bedellerinin arttırılması için uygulanan “Deflatör” veya “ÜFE” artış oranı yerine, “BAK” artış oranı uygulanır, bildirime gerek kalmaksızın izin başlangıç tarihinde defaten tahsil edilir. Ancak bu fıkradaki artış oranı 1/1/2015 tarihinden itibaren tahakkuk edecek bedellerin artırılması için uygulanır.\n\n(4) Bu Yönetmeliğin yürürlüğe girmesinden önce verilmiş izinlerden bu Yönetmeliğe göre izin verilemeyecek olanların süreleri yenilenmiş ruhsat/rödövans süresi dikkate alınarak uzatılabilir.\n\n(5) Bu Yönetmeliğin yürürlüğe girmesinden önce veya sonra ruhsat sahibi adına verilmiş ve devam eden izinler, rödövansçının talebi halinde o ruhsata dayalı olarak rödövans süresince rödövansçı adına devredilebilir.\n\n(6) Bu Yönetmelik kapsamında izin verilmiş ve devam eden izinlere ait rehabilitasyon projesi ve kademeli kapatma planı ile ilgili işlemler izin süresi bitimine kadar devam eder.\n\n(7) Bu Yönetmeliğin yürürlüğe girmesinden önce verilen izinlerin süre uzatımı ve maden işletme iznine bitişik ilave izin taleplerinin 29 uncu maddenin beşinci ve yedinci fıkralarında belirtilen alanlarda kalması halinde, bu taleplere Bakanlıkça izin verilebilir.",
+      "notes": []
+    },
+    {
+      "order": 32,
+      "kind": "gecici_madde",
+      "number": "2",
+      "label": "GEÇİCİ MADDE 2",
+      "heading": "Önceden yapılan müracaatların değerlendirilmesi",
+      "path": [
+        "SEKİZİNCİ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girmesinden önce yapılan ancak değerlendirilmemiş olan talepler ile iznin iptal edildiği yerlerde, bu Yönetmelik hükümleri uygulanır.",
+      "notes": []
+    },
+    {
+      "order": 33,
+      "kind": "gecici_madde",
+      "number": "3",
+      "label": "GEÇİCİ MADDE 3",
+      "heading": "Geçmiş yıllarda çalışılan maden alanları",
+      "path": [
+        "SEKİZİNCİ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girmesinden önce terk edilmiş ve hâlihazırda faal olmayan maden arama, maden işletme, maden tesis ve altyapı tesis izin alanları orman idaresince resen geri teslim alınarak izin iptalleri yapılır.",
+      "notes": []
+    },
+    {
+      "order": 34,
+      "kind": "gecici_madde",
+      "number": "4",
+      "label": "GEÇİCİ MADDE 4",
+      "heading": "Tesis ve altyapı tesis tanımları içinde yer almayan madencilik yapıları",
+      "path": [
+        "SEKİZİNCİ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmeliğin yürürlüğe girmesinden önce ruhsata dayanılarak madencilik faaliyetleri için kurulmuş, ancak kadastro çalışmaları veya mahkeme kararı ile daha sonra orman sayılan alan olduğu anlaşılan kurulu madencilik yapılarına orman olarak kesinleştiği tarihten itibaren bu Yönetmeliğe göre ruhsat/rödövans süresi sonuna kadar izin verilebilir.",
+      "notes": []
+    },
+    {
+      "order": 35,
+      "kind": "gecici_madde",
+      "number": "5",
+      "label": "GEÇİCİ MADDE 5",
+      "heading": "Bu Yönetmeliğin yayımından önce verilen izinlerin sonraki yıl bedellerinin peşin ödenmesi",
+      "path": [
+        "SEKİZİNCİ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Devam eden izinlere ait sonraki yıl bedellerinin tamamının peşin ödenmesinin talep edilmesi halinde, ödemenin yapıldığı yıl bedeli üzerinden, ödemenin yapıldığı yıla ait son ödeme tarihine kadar defaten tahsil edilebilir.",
+      "notes": []
+    },
+    {
+      "order": 36,
+      "kind": "madde",
+      "number": "31",
+      "label": "MADDE 31",
+      "heading": "Yürürlük",
+      "path": [
+        "SEKİZİNCİ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+      "notes": []
+    },
+    {
+      "order": 37,
+      "kind": "madde",
+      "number": "32",
+      "label": "MADDE 32",
+      "heading": "Yürütme",
+      "path": [
+        "SEKİZİNCİ BÖLÜM Çeşitli ve Son Hükümler"
+      ],
+      "repealed": false,
+      "text": "(1) Bu Yönetmelik hükümlerini Tarım ve Orman Bakanı yürütür.",
+      "notes": []
+    }
+  ]
+}
