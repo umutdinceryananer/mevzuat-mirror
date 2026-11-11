@@ -127,6 +127,21 @@ The converter must recognize these forms. The list grows as samples arrive. The 
     (Ek:RG-15/5/2019-30775-CK-36/1 md.)   amendment note citing Resmi Gazete
     (Mülga: ...)                          repealed text
 
+## END OF ARTICLES
+
+The articles end at the first of these paragraphs. It and everything after it go to the trailer, which data/<id>.json does not keep.
+
+    6098 SAYILI KANUNA EK VE DEĞİŞİKLİK GETİREN ...   list of amending legislation, in capitals
+    6098 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLER           provisions of amending laws not worked into the text
+    Yönetmeliğin Yayımlandığı Resmî Gazete’nin        table of Resmi Gazete issues of a regulation
+    EK-5                                               annex title on its own line
+    (I) SAYILI CETVEL, I Sayılı Cetvel                 annexed schedule or list
+    ... İLE İLGİLİ TABLO                               other table title in capitals
+
+Up to three lines in capitals or standalone amendment notes right before such a paragraph belong to it, so they move from the last article to the trailer too. Annexes and schedules are not served yet.
+
+Lines that read "Eki için tıklayınız" are link texts from the web page and are dropped everywhere.
+
 ## NOT STORED
 
 No user data, no query logs and no secrets. The secret path segment of the MCP URL lives in a Cloudflare secret.
