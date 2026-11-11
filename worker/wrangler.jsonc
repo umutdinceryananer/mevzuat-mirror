@@ -1,0 +1,25 @@
+// Cloudflare settings for the MCP worker. Setup steps are in docs/worker.md.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "mevzuat-mirror",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-11-01",
+  "compatibility_flags": ["nodejs_compat"],
+
+  // Logs stay off, so search terms are not kept anywhere.
+  // See PRIVACY in docs/architecture.md.
+  "observability": { "enabled": false },
+
+  // Only the custom domain serves the worker. The yananer.dev zone is on Cloudflare.
+  "workers_dev": false,
+  "routes": [{ "pattern": "mevzuat.yananer.dev", "custom_domain": true }],
+
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "mevzuat",
+      // Replace with the id that `npx wrangler d1 create mevzuat` prints.
+      "database_id": "00000000-0000-0000-0000-000000000000"
+    }
+  ]
+}
