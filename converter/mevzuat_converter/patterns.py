@@ -107,8 +107,10 @@ _ORDINAL = (
 _LEVEL = r"(?P<level>kitap|kisim|bap|bolum|fasil|ayirim)"
 
 # Matched against the normalized paragraph, so case and Turkish letters do
-# not matter. The heading must be followed by a space or the end of the line.
-_SECTION_HEADING = re.compile(rf"^(?:{_TENS} )?{_ORDINAL} {_LEVEL}(?: |$)")
+# not matter. The tens can be written apart or together, as in "ON BİRİNCİ"
+# and "ONBİRİNCİ", which TBK and TTK use. The heading must be followed by a
+# space or the end of the line.
+_SECTION_HEADING = re.compile(rf"^(?:{_TENS} ?)?{_ORDINAL} {_LEVEL}(?: |$)")
 
 # Real headings are short. A long paragraph is article text, even if it
 # happens to start with "Birinci bölüm".
