@@ -21,15 +21,15 @@ Steps 7 and 8 run only when the Cloudflare secrets exist. Without them the workf
 
 ## SECRETS
 
-Set these under Settings, Secrets and variables, Actions in the GitHub repository.
+Add these after the first npm run setup, and after the database_id it writes into wrangler.jsonc is pushed. Before that the workflow would deploy with the placeholder id. Set them under Settings, Secrets and variables, Actions in the GitHub repository.
 
 CLOUDFLARE_API_TOKEN
-    A Cloudflare API token with Workers Scripts Edit and D1 Edit on the account, and Workers Routes Edit on the yananer.dev zone.
+    Create it on the API Tokens page of your Cloudflare profile, from the template Edit Cloudflare Workers. Add the permission Account, D1, Edit, and under zone resources keep only yananer.dev. If a deploy fails with an authentication error, the error names the missing permission.
 
 CLOUDFLARE_ACCOUNT_ID
-    The Cloudflare account id, shown on the right side of the Workers overview page.
+    The Cloudflare account id. npx wrangler whoami prints it, and the dashboard shows it on the Workers overview page.
 
-MCP_PATH_SECRET is not a GitHub secret. It is a Worker secret, set once with npx wrangler secret put MCP_PATH_SECRET, and every deploy keeps it.
+MCP_PATH_SECRET is not a GitHub secret. npm run setup stores it as a Worker secret, and every deploy keeps it.
 
 ## ADDING OR UPDATING A DOCUMENT
 
