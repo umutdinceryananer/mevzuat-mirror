@@ -102,11 +102,11 @@ Values written as ... are placeholders.
 
 ## NORMALIZATION
 
-Search compares normalized text. The import step normalizes article text and headings, and the worker normalizes queries the same way.
+Search compares normalized text. The import step normalizes article text and headings, and the worker normalizes queries with the same steps. The reference implementation is converter/mevzuat_converter/normalize.py.
 
-1. Lowercase. All four forms I, İ, ı and i become i.
-2. Fold the other Turkish and circumflex letters to ASCII. ş→s, ğ→g, ç→c, ö→o, ü→u, â→a, î→i, û→u.
-3. Replace punctuation with spaces and collapse runs of spaces.
+1. Decompose every letter into its base letter and its marks (Unicode NFD), then drop the marks. ş becomes s, İ becomes I, â becomes a.
+2. Replace the dotless ı with i, then lowercase.
+3. Replace every run of characters outside a to z and 0 to 9 with one space, then trim.
 
 After these steps KİRACI, kiracı and kiraci are the same word. Prefix matching then lets kiracı find kiracının and kiracıya. It does not handle consonant changes such as kitap and kitabı, so Claude retries with the other form when needed.
 

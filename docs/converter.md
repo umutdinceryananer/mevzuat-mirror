@@ -32,6 +32,9 @@ converter/mevzuat_converter/__main__.py
 converter/mevzuat_converter/catalog.py
     Reading and checking catalog.json, finding raw files.
 
+converter/mevzuat_converter/normalize.py
+    Search normalization, see NORMALIZATION in data-format.md.
+
 converter/tests/
     Tests. test_repository_catalog_is_valid also checks the real catalog.json, so a broken catalog fails the tests.
 
