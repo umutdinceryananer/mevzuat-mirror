@@ -1,0 +1,12 @@
+{
+  "documents": [
+    {
+      "id": "kanun-6098",
+      "type": "kanun",
+      "number": "6098",
+      "title": "Türk Borçlar Kanunu",
+      "short_names": ["TBK"],
+      "source_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5"
+    }
+  ]
+}
