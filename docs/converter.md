@@ -22,11 +22,27 @@ convert
 export-sql
     Writes build/d1.sql, which drops every table, recreates them from worker/schema.sql, and inserts all of data/. The search index gets the normalized form of each heading and text. build/ is not committed.
 
-Only .txt raw files can be read so far, text copied from the mevzuat.gov.tr page with one paragraph per line. The PDF, Word and HTML readers come after the sample files are checked.
+## RAW FILE FORMATS
+
+.doc, .docx, .html
+    Converted to text by LibreOffice, one paragraph per line. Footnote texts are left out, the amendment notes in the text carry the same information.
+
+.pdf
+    Converted by pdftotext with -layout. Paragraphs are rebuilt from the indentation, because the first line of a paragraph is indented and the lines that continue it are not. The footnote block at the bottom of each page is dropped.
+
+.txt
+    Read as it is, one paragraph per line. Useful for text copied from the mevzuat.gov.tr page.
+
+Some .doc files from mevzuat.gov.tr are not Word files. They are HTML saved as UTF-16 under a .doc name, and at least one of them is encoded twice, its UTF-16 bytes read as Windows-1254 text and saved as UTF-16 again. extract.py decodes both kinds and gives LibreOffice plain UTF-8 HTML.
 
 ## SETUP
 
-Python 3.11 or newer. The converter itself needs no packages yet. Tests need pytest.
+Python 3.11 or newer, and two outside programs. LibreOffice reads Word and HTML files, and pdftotext from poppler-utils reads PDF files.
+
+    sudo apt-get install libreoffice-writer-nogui poppler-utils     Debian or Ubuntu
+    brew install --cask libreoffice && brew install poppler          macOS
+
+The converter needs no Python packages. Tests need pytest.
 
     cd converter
     pip install -r requirements-dev.txt
@@ -53,7 +69,7 @@ converter/mevzuat_converter/document.py
     Builds the data/<id>.json object, reads Kabul Tarihi and Resmi Gazete from the header, takes downloaded_at from git, and writes the file.
 
 converter/mevzuat_converter/extract.py
-    Reads a raw file into paragraphs. Only .txt for now.
+    Reads a raw file into paragraphs, see RAW FILE FORMATS.
 
 converter/mevzuat_converter/export_sql.py
     Builds the SQL file for D1 from data/*.json.

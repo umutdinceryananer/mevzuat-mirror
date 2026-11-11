@@ -15,7 +15,7 @@ from . import VERSION
 from .catalog import CatalogError, find_raw_files, load_catalog
 from .document import build_document, write_document
 from .export_sql import build_sql
-from .extract import UnsupportedFormat, read_paragraphs
+from .extract import ReadError, read_paragraphs
 from .splitter import split_articles
 
 # The repository root is two levels above this file.
@@ -76,7 +76,7 @@ def convert(root: Path, only: str | None) -> int:
 
         try:
             paragraphs = read_paragraphs(raw_file)
-        except UnsupportedFormat as error:
+        except ReadError as error:
             print(f"{entry.id}: {error}", file=sys.stderr)
             failed = True
             continue
